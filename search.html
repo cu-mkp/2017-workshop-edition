@@ -6,7 +6,16 @@ title: Search
 <form id="site_search">
 <div>Use this search box to find content inside the manuscript:</div>
 <br>
-<input id="search" type="text"/></form>
+<input id="search" type="text"/> 
+    <form method="post" action="">
+        <input type="checkbox" name="tc" id="tc"/>
+        <label for="tc">Transcription</label>
+        <input type="checkbox" name="tcn" id="tcn"/> 
+        <label for="tcn">Normalized Transcription</label>
+        <input type="checkbox" name="tl" id="tl"/> 
+        <label for="tl">Translation</label>
+    </form>
+</form>
 
 <div id="results"></div>
 <ul id="search_results"></ul>
