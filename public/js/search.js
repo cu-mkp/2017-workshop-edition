@@ -54,7 +54,7 @@ location.search.substr(1).split("&").forEach(function(item) {
 function doSearch() {
   var resultdiv = $('#results');
   var query = $('input#search').val();
-
+  var resultnumber = 0;
   //The search is then launched on the index built with Lunr
   var result = index.search(query);
                                              
@@ -70,6 +70,7 @@ function doSearch() {
               var end = '<p>'+store[ref].excerpt+'</p></div>';
               searchitem += end;
               resultdiv.append(searchitem);
+              resultnumber += 1;
         }
     
       if($('input[name=tcn]').is(':checked') && store[ref].mode == "tcn"){
@@ -77,6 +78,7 @@ function doSearch() {
                 var end = '<p>'+store[ref].excerpt+'</p></div>';
                 searchitem += end;
                 resultdiv.append(searchitem);
+                resultnumber += 1;
           }
 
       if($('input[name=tl]').is(':checked') && store[ref].mode == "tl"){
@@ -84,6 +86,7 @@ function doSearch() {
                 var end = '<p>'+store[ref].excerpt+'</p></div>';
                 searchitem += end;
                 resultdiv.append(searchitem);
+                resultnumber += 1;
           }
     
       if(!$('input[name=tc]').is(':checked') && !$('input[name=tcn]').is(':checked') && !$('input[name=tl]').is(':checked')){
@@ -91,9 +94,13 @@ function doSearch() {
                 var end = '<p>'+store[ref].excerpt+'</p></div>';
                 searchitem += end;
                 resultdiv.append(searchitem);
+                resultnumber +=1;
       }
   
    }
+       if(resultnumber != 0){
+           resultdiv.append('<p class=""> Found '+resultnumber+' results </p>');
+       }
   }
 
 
