@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: TOC Normalized
 ---
 <div class="page">
