@@ -19,7 +19,7 @@ environments: []
 animals: [serpent, lesardes, vipere]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-164r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f333.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>164r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-164r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f333.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>164r</a> - - - - - </div>  
   
 
 ## Gect
@@ -50,4 +50,5 @@ Il se dechet beaucoup, à cause que le <span class="m">plomb</span> qui<br/> y e
 
  
  Quand tu fonds de l’<span class="m">argent</span> & de l’<span class="m">or</span>, ne soufle pas fort<br/> & de violence, pource que, le <span class="m">charbon</span> se tassant, le <span class="tl">crusol</span><br/> s’abaisseroit & <span class="del">l’arg</span> se pourroit renverser. Mays quand<br/> ton <span class="tl">moule</span> sera prest, lors soufle fort pour bien eschaufer<br/> l’<span class="m">argent</span> ou l’<span class="m">or</span>. Tous deulx, estant fondus, veulent estre<br/> soufflés par dessus avecq un petit <span class="tl">souflet</span>, mesmem<span class="x"><span class="exp">ent</span></span> l’<span class="m">or</span>, car cela<br/> leur oste leurs fumées & les adoulcist.
+ 
  

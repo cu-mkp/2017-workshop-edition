@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-165v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f336.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>165v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-165v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f336.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>165v</a> - - - - - </div>  
   
 
 ## Positioning animals
@@ -84,5 +84,6 @@ So that they come out best, place wax sprues from the gate up to the tips of the
 ## Attaching a fly wing or something similar
 
  
-They can be attached with fish glue mixed with spirits over slow heat, heating also the work. Then that is covered with wax "à ébaucher", that should be grey.
+They can be attached with fish glue mixed with spirits over slow heat, heating also the work. Then that is covered with wax à ébaucher, that should be grey.
+ 
  

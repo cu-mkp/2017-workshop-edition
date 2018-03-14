@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-097r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f199.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>097r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-097r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f199.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>097r</a> - - - - - </div>  
   
 
 ## Le <span class="m">vernis noir</span>
@@ -43,3 +43,4 @@ On apreste fort les gardes avecq la <span class="tl">lime doulce</span>, fort do
  
 Il fault aprester les gardes & les blanchir avecq une <span class="del">lince</span> <span class="tl">lime</span><br/> un peu plus rude <span class="del">pour</span> que pour l'<span class="m">or</span>. Et on les faict passer le gris co<span class="exp">mm</span>e<br/> pour dorer. Et co<span class="exp">mm</span>e elles sont chauldes, il fault doubler la <span class="m">foeille<br/> d'argent</span> puys les despartir avecq un <span class="tl">costeau</span>, aprés en charger la<br/> garde avec <span class="del">un petit</span> les <span class="tl">pincettes</span> & un petit <span class="tl">brunisson</span>, et puys les<br/> faire reschaufer & charger jusques à ce qu'elles soient toutes <span class="m">argentées</span>.<br/> Aprés il les fault charger pour la troisiesme foys, la <span class="m">foeille</span> en<br/> double co<span class="exp">mm</span>e dict est, puys les brunir bien fort & avecq force,<br/> non avecq la <span class="m">sanguine</span>, mays avecq un fort <span class="tl">brunisson</span>. Tout<br/> ainsy qu'il ne fault pas que le <span class="tl">brunisson</span> brunisse l'<span class="m">or</span>.
 
+ 

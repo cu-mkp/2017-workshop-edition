@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-076r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f157.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>076r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-076r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f157.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>076r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -64,4 +64,5 @@ if you cannot find it, and cover the said <span class="m">wood</span> with this 
 
  
  Take <span class="m">urine</span> as above and two <span class="ms">ounces</span> of <span class="m"><span class="pa">woad</span></span> & one <span class="ms">ounce</span> of <span class="m"><span class="pa">fustet</span></span> and two <span class="del"><span class="ms">ounces</span></span> <span class="ms">drams</span> of <span class="m">sal ammoniac</span>, & do as above.
+ 
  

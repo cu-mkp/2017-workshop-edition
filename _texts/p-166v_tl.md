@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [chestnuts, candle, wax, candles, rosin, gold, caput mortuum, vinegar, ☉, aqua fortis made with vitriol]
-tools: []
+materials: [chestnuts, candle, wax, candles, rosin, gold, caput mortuum, vinegar, ☉, aqua fortis of vitriol, thick smoke]
+tools: [bottle, tile]
 measurements: []
 bodyparts: []
 places: [Le Mans, France, Burgundy]
@@ -19,9 +19,9 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-166v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f338.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>166v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-166v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f338.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>166v</a> - - - - - </div>  
   
-In addition to Greek examples, there is a psalm of David mentioned by Saint Athanasius in the Synopsis. It begins "Parvus eram" and in the second verse the royal prophet says, "Manus meae fecerunt organum et digiti mei aptarunt psalterium."
+In addition to Greek examples, there is a psalm of David mentioned by Saint Athanasius in the Synopsis. It begins Parvus eram and in the second verse the royal prophet says, Manus meae fecerunt organum et digiti mei aptarunt psalterium.
  
  
   
@@ -53,5 +53,6 @@ Dissolve some <span class="m">caput mortuum</span> in distilled <span class="m">
 ## Improve the color of <span class="m">gold</span>
 
  
-Put some <span class="m">aqua fortis made with vitriol</span> on hot embers. Cover the bottle, that is, the vent, with a tile. Then uncover it and a thick smoke will come out in which you put the <span class="m">gold</span> and it will take on an excellent color.
+Put <span class="m">aqua fortis of vitriol</span> on hot ashes. Cover the <span class="tl">bottle</span>, that is, the mouth, with a <span class="tl">tile</span>, then unstop it & a <span class="m">thick smoke</span> will come out; put the <span class="m">gold</span> on this and it will take on a high color.
+ 
  

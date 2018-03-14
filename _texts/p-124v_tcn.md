@@ -8,7 +8,7 @@ author:
 mode: tcn
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Esmail rouge clair, or, esmauls, esmaulx, rouge clair, cire, terre, or fin, or allié, argent, eau, plomb, esmeraulde, or,, estain, chaulx d’iceulx, metal, fil de fer]
+materials: [Esmail, rouge clair, or fin, or, esmauls, esmaulx, arene, grains d’or, cire, terre, or allié, argent, eau, plomb, esmeraulde, or,, estain, chaulx d’iceulx, metal, fil de fer]
 tools: [moules, pot, four de reverberation, moule, forge, fil de fer, costeau]
 measurements: [un quart plus pesant que, espesseur d’un costeau]
 bodyparts: []
@@ -19,17 +19,17 @@ environments: []
 animals: [lezardes, serpent]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-124v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f254.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>124v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-124v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f254.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>124v</a> - - - - - </div>  
   
 
-## <span class="m"><span class="add">Esmail</span> rouge clair</span>
+## <span class="add"><span class="m">Esmail</span></span> <span class="m">rouge clair</span>
 
  
-L’<span class="m">or</span> fin luy est contraire, car <span class="del"><span class="ill"></span></span> sur iceluy il demeure<br/> jaulnastre. Mays l’<span class="m">or</span> allié luy est plus propre, comme celuy<br/> d’<span class="cn">escu</span> & <span class="cn">pistolet</span>. <span class="del">Si</span> L’<span class="m">or</span> <span class="del">f</span> <span class="del">n’est remys au foeu</span> en sa seule<br/> couleur blafarde rend les <span class="m">esmauls</span> de morte couleur.<span class="del">Ma</span> Et<br/> pour ceste occasion, estant taillé on le remect au foeu pour luy<br/> donner couleur co<span class="exp">mm</span>e rougeastre, pour faire les <span class="m">esmaulx</span> beaulx.<br/> <span class="add">Aultrem<span class="exp">ent</span> ils sont mats</span>.
+L’<span class="m">or fin</span> luy est contraire, car <span class="del"><span class="ill"></span></span> sur iceluy il demeure<br/> jaulnastre. Mays l’<span class="m">or</span> allié luy est plus propre, comme celuy<br/> d’<span class="cn">escu</span> & <span class="cn">pistolet</span>. <span class="del">Si</span> L’<span class="m">or</span> <span class="del">f</span> <span class="del">n’est remys au foeu</span> en sa seule<br/> couleur blafarde rend les <span class="m">esmauls</span> de morte couleur. <span class="del">Ma</span> Et<br/> pour ceste occasion, estant taillé on le remect au foeu pour luy<br/> donner couleur co<span class="exp">mm</span>e rougeastre, pour faire les <span class="m">esmaulx</span> beaulx.<br/> <span class="add">Aultrem<span class="exp">ent</span>, ils sont mats.</span>
  
-Il y a du <span class="m">rouge clair</span> qui estant usé avecq l’arene perd sa<br/> beaulté.
+Il y a du <span class="m">rouge clair</span> qui estant usé avecq l’<span class="m">arene</span> perd sa<br/> beaulté.
  
-Il s’en trouve qui ha des grains d’<span class="m">or</span> dedans, et l’opinion aussy<br/> des bons <span class="pro">orfevres</span> que le bon se faict avecq de l’<span class="m">or</span>.
+Il s’en trouve qui ha des <span class="m">grains d’or</span> dedans, et l’opinion aussy<br/> des bons <span class="pro">orfevres</span> que le bon se faict avecq de l’<span class="m">or</span>.
  
  
   
@@ -102,4 +102,5 @@ Pour ce que tu doibs tousjours faire ton gect par la queue,<br/> et qu’elle es
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5aGQ0OTFCTklrQ0k" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
 *[continued]*
+ 
  

@@ -8,9 +8,9 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [spirits, cinder, charcoal, bricks, wax, lead, olive oil, oil, oiled, water, plaster, matton, alum, clay, cement, gold, silver, enamel, rose leave, rose leaves, enameled, aqua fortis]
+materials: [spirits, cinder, charcoal, bricks, wax, lead, olive oil, oil, oiled, water, plaster, matton, alum, clay, cement, gold, silver, enamel, solder, silver strips, enameled, aqua dfortis]
 tools: [Casting, sand mold, mold, casting, Molding frames, grate, molding, molds]
-measurements: []
+measurements: [gold]
 bodyparts: [bone]
 places: []
 plants: [plants, flower, plant, olive, bouquet, rose]
@@ -19,7 +19,7 @@ environments: []
 animals: [snakes, animal, animals]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-116r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f237.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>116r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-116r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f237.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>116r</a> - - - - - </div>  
   
 
 ## <span class="tl">Casting</span> <span class="pa">plants</span> and <span class="pa">flower</span> bouquets
@@ -59,8 +59,9 @@ Make sure that these are well emptied. If they are not, fill <span class="sup">t
  
   
 
-## A way to <span class="m">enamel</span> very fine <span class="m">gold</span> <span class="m"><span class="pa">rose</span> leave</span>s and others
+## A way to <span class="del">unmold</span> <span class="m">enamel</span> <span class="ms"><span class="del">gold</span></span> very delicate <span class="m">gold</span> <span class="pa">rose</span> leaves and others
 
  
- After you have cast or beaten in <span class="m">gold</span> the thin <span class="m"><span class="pa">rose</span> leaves</span> or other things, if you want to <span class="m">enamel</span> them, you must solder or braze your fine <span class="m">gold</span> leaves onto <span class="m">silver</span> strips, which will strengthen them to support the <span class="m">enamel</span>. After the things has been <span class="m">enameled</span>, put the work in <span class="m">aqua fortis</span>, which will eat away the <span class="m">silver</span> and leave all the <span class="m">gold</span> with its <span class="m">enamel</span>. For this, the <span class="m">gold</span> must have been passed… 
+ After you have cast or beaten in <span class="m">gold</span> the thin leaves of a <span class="pa">rose</span> or other things, if you want to <span class="m">enamel</span> them, you need to <span class="m">solder</span> or braze your delicate <span class="m">gold</span> leaves onto <span class="m">silver strips</span>, which <span class="del">uy</span> will strengthen them to support the <span class="m">enamel</span>. Next, once the thing has been <span class="m">enameled</span>, put the work in <span class="m">aqua <span class="del">d</span>fortis</span>, which will eat away the <span class="m">silver</span> & leave all the <span class="m">gold</span> with its <span class="m">enamel</span>. For this, the <span class="m">gold</span> needs to be passed <span class="ill"></span> 
+ 
  

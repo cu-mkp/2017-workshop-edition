@@ -19,7 +19,7 @@ environments: [chambre, muraille, muraille.]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-034r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f73.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>034r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-034r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f73.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>034r</a> - - - - - </div>  
   
 
 ## Pour dire à quelqu’un que, <span class="del">mettant</span> <span class="add">tenant</span> le <span class="bp">doit</span> tousjours<br/> au <span class="bp">front</span>, tu l’empescheras de sortir d’une <span class="env">chambre</span>
@@ -58,4 +58,5 @@ X Tu en coupperas un petit loppin <span class="ms">gros comme un <span class="tl
 
  
 Couppe de longs listeaulx de <span class="m">parchemin</span> subtil & les marque<br/> selon l’ordre de leur suicte de A B C & cætera, puys les fais<br/> couldre dans la lisiere d’une chemisse de grosse <span class="m">toile</span>, co<span class="exp">mm</span>e<br/> pour un <span class="pro">messager</span>, lequel, si tu veulx distraire sa chemise, n’en<br/> sçaura rien.
+ 
  

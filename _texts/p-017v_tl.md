@@ -19,7 +19,7 @@ environments: []
 animals: [horses]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-017v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f40.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>017v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-017v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f40.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>017v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -45,4 +45,5 @@ We give it two <span class="ms"><span class="tl">linstock</span></span> of canno
 >   The older pieces are composed of almost as much of each, that is to say a part of <span class="m">rosette</span> and one of metal. This alloy can be recognized with a <span class="tl">burin</span> because the matter is acid and the part scraped off with the <span class="tl">burin</span> is yellow and white.
  
 *[continued]*
+ 
  

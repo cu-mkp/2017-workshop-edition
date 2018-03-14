@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-134v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f274.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>134v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-134v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f274.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>134v</a> - - - - - </div>  
   
 
 ##  To make <span class="m">gold</span> fluid 
@@ -57,4 +57,5 @@ animals: []
 
  
  If some little pieces of legs cannot be easily removed from <span class="m">gold</span> or <span class="m">silver</span> casting, it is because you didn't cast <span class="m">wax</span> under these parts. Beat some soldering <span class="m">gold</span> very finely, then cut it into very fine flakes, cut the quantity you need. Take some of this phlegm or white and thick <span class="m">saliva</span> which is on the teeth, put some of this matter to the place you want to solder with the point of a burin, then place your flakes, then put to the opposite part a mixture made of a small quantity of soaked fat <span class="m">earth</span>and <span class="m">saliva</span>, thanks to the mixture the solder will better adhere. Then pulverize a bit of <span class="m">borax</span> on it, and heat up <span class="m">Quince pulp seed water</span> to a boil and others too.
+ 
  

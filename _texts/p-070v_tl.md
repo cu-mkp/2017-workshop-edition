@@ -19,7 +19,7 @@ environments: [in the sun]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-070v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f146.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>070v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-070v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f146.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>070v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -30,4 +30,5 @@ Some cast in <span class="m">well ground ceruse</span>, <span class="del">pour l
 Others, for casting in <span class="m">lead</span>, <span class="m">old letters of <span class="pro">printers</span></span> or <span class="m">types for the setting of letters</span>.
  
 Others put into the <span class="m">tin</span> or <span class="m">lead</span> a substance of <span class="m">fixed quicksilver</span> which makes it run.
+ 
  

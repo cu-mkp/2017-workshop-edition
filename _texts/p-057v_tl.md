@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [skins, parchments, earth, wool, leather, black copperas, iron scale, fabric, glue, iron, crayons, women's milk, carton, thoroughly softened, melted and clear resin, copper, oil, lead white, ceruse, walnut oil, almond oil, walnuts' skin]
+materials: [skins, parchments, earth, wool, leather, black copperas, iron scale, fabric, glue, iron, crayons, women's milk, carton, thoroughly macerated and clear melted resin, copper, oil, lead white, ceruse, walnut oil, almond oil, walnuts' skin]
 tools: [crayons]
 measurements: []
 bodyparts: []
@@ -19,7 +19,7 @@ environments: [wet weather]
 animals: [lambs, goats]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-057v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f120.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>057v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-057v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f120.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>057v</a> - - - - - </div>  
   
 
 ## <span class="pro">Tanner</span>
@@ -35,7 +35,7 @@ animals: [lambs, goats]
  
 Good <span class="tl"><span class="m">crayons</span></span> are not made with <span class="del">good</span> <span class="m">glue</span> but with <span class="m">women's milk</span>.
  
-Images made of <span class="m">carton</span>, once dry, have to be immersed in some <span class="m">thoroughly softened, melted and clear resin</span>. This strengthens it, otherwise they turn limp in <span class="env">wet weather</span>.
+Images made of <span class="m">carton</span>, once dry, have to be soaked in <span class="m">thoroughly macerated and clear melted resin</span>. This strengthens it, otherwise they turn limp in <span class="env">wet weather</span>.
  
 <span class="pl">Venice</span> masks are made with a hollow & male face of <span class="m">copper</span>.
  
@@ -44,4 +44,5 @@ The <span class="pl">Flemish</span> do not use any whites for flesh colors in <s
 4 or 5 <span class="tmp">year</span>—old <span class="m"><span class="pa">walnut</span> oil</span> which is clear is the best color, it keeps off dust. The kind which has recently been drawn with the press in the manner of <span class="m"><span class="pa">almond</span> oil</span> is white, especially if the <span class="m"><span class="pa">walnuts</span>' skin</span> is removed.
  
 *[continued]*
+ 
  

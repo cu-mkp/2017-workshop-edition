@@ -19,7 +19,7 @@ environments: [in the wind]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-060v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f126.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>060v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-060v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f126.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>060v</a> - - - - - </div>  
   
 
 ## <span class="m">Varnish</span> dry in an <span class="ms"><span class="tmp">hour</span></span>
@@ -68,4 +68,5 @@ One ought not to not put any into colors for it is so brisk and penetrating that
 They do all their works in <span class="m">oil</span> with the <span class="tl">tip of the pinceau</span>, in <span class="del">f</span> the manner of good <span class="pro">illuminators</span>, and grind their colors very finely, protect against dust, and often clean from their <span class="tl">pinceau</span> the bits of <span class="m">hair</span> which they sometimes leave there, for if these should remain on the work <span class="del">it this</span>, it would prevent neat working, which they are very careful about. In this way their work appears very soft, especially in small work, in which one needs to apply more diligence because one looks at them more closely. They usually finish the forehead, then the eyes, next the nose, finally the mouth and the rest. But they do not proceed like some others who <span class="del">fo</span> layer two or three different flesh tones, one yellowish & the other darker, because the colors always mix & finally die. They simply <span class="del"><span class="ill"></span></span> make their underlayer properly.
  
 *[continued]*
+ 
  

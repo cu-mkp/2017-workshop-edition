@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-154r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f313.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>154r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-154r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f313.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>154r</a> - - - - - </div>  
   
 
 ## Removing <span class="m">gold</span>
@@ -70,4 +70,5 @@ Once it is quite ground and refined on the <span class="m">marble</span> slab an
 
  
 It does not melt by itself if it is not helped with some portion of similar <span class="m">metal</span> melted to assemble it and bathe it, as it is more burnt than melted. <span class="m">File dust</span> from <span class="m">tin</span> and <span class="m">lead</span> are made with <span class="m">tallow</span>, <span class="x"><span class="m">file dust</span></span> from <span class="m">gold</span> with <span class="m">saltpeter</span>, <span class="x"><span class="m">file dust</span></span> from <span class="m">silver</span> with <span class="m">sandever.</span>
+ 
  

@@ -19,7 +19,7 @@ environments: [humidity, overcast weather]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-031v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f68.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>031v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-031v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f68.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>031v</a> - - - - - </div>  
   
 
 ## <span class="pro">Painter</span>
@@ -52,4 +52,5 @@ One ought not to undertake to work on it in <span class="env">overcast weather</
 
  
 For blue, they take the roughest <span class="m">azure d'email</span> & grind it on <span class="tl"><span class="m">shale</span></span>, & mix in two or three <span class="ms">rosary beads</span>' worth of <span class="m">roquaille</span> or more, according to the quantity of the work. And having done their drawing with <span class="m">noir d’escaille</span> (which is painted towards the light with the piece of <span class="m">glass</span> upright), they lay all their pieces on <span class="m">white paper</span> <span class="del">when</span> for knowing by the whiteness of the <span class="m">paper</span> the lighting of their histories and <span class="del">as</span> set down all colors which are of one kind all in one go. Then they heat it up.
+ 
  

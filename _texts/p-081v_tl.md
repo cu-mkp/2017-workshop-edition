@@ -19,7 +19,7 @@ environments: [river]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-081v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f168.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>081v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-081v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f168.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>081v</a> - - - - - </div>  
   
 
 ## Sand
@@ -56,4 +56,5 @@ There is only <span class="del"><span class="ill"></span></span> <span class="m"
 
  
 It is good to make it with <span class="m"><span class="pa">boxwood</span></span>. Turn it in order to make it even, as this is important for the casting. <span class="m">Lute</span> also, or cover the mouth of the <span class="tl">box mold</span> with sand so that the melted <span class="m">metal</span>, or <span class="m">lead</span>,or <span class="m">copper</span> does not touch the <span class="tl">box mold</span>’s <span class="m">iron</span> or <span class="m">latten</span>, because it makes it brittle, & makes it porous. Also make sure that the cast is always higher than the <span class="tl">mold</span>. Also guard against the cast being too wide or too deep because the narrower, the better. For when it is big, the weight of the substance that runs breaks & shakes loose the <span class="tl">mold</span> & makes it porous. When you have cast, gently hit the <span class="tl">box mold</span> frame, so that the substance spreads better. <span class="m">Black lead of saulmon</span> from the first melting makes a very neat one.
+ 
  

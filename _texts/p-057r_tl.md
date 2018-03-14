@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-057r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f119.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>057r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-057r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f119.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>057r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -36,4 +36,5 @@ animals: []
  <span class="m">Vermillion</span> ground by itself is wan and pale, but ground after <span class="m">lake</span>, it is more beautiful.
  
 For taking the fattiness from <span class="tl"><span class="m">marbles</span></span>, one grinds <span class="m">ordinary ashes</span> on it, which is good afterward to make the first primer coat of a panel that is prepared in <span class="m">oil</span> in order to seal the cracks & chinks of the <span class="m">wood</span>. It has more body than <span class="m">chalk</span> & it has <span class="del"><span class="m">chalk</span></span> a certain fattiness. One mixes it with the aforesaid <span class="m">chalk</span> or <span class="del">ra</span> with the colors collected from the <span class="tl">vessel</span> where one cleans the <span class="tl">pinceaulx</span>. It is desiccative and spares colors. <span class="del">On</span> Once this primer coat is made on the <span class="m">wood</span>, one scrapes with a <span class="tl">knife</span> to even it. Next one makes a second coat of <span class="m">ceruse</span> or of the <span class="add">poorest</span> colors mixed together. In a painting in <span class="m">oil</span> <span class="add">on <span class="m">canvas</span></span>, one applies only one coat, and the same <span class="m">ashes</span> can be used there. Also, after one has ground a color, one grinds the <span class="m">inside of a large loaf of bread</span> on it to remove the fattiness from the <span class="tl"><span class="m">marble</span></span>.
+ 
  

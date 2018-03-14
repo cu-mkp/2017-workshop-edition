@@ -8,18 +8,18 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Soot black, verdigris, wood, canvas, linen]
+materials: [Soot black, oil, verdigris, wood, canvas, linen]
 tools: []
 measurements: []
 bodyparts: []
 places: []
 plants: []
-professions: []
+professions: [Painter]
 environments: []
 animals: [Turtles]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-105r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f215.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>105r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-105r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f215.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>105r</a> - - - - - </div>  
   
 
 ## <span class="al">Turtles</span>
@@ -33,15 +33,15 @@ Males have shells that turn down at the end near their tails, and their underbel
 ## Drying colors
 
  
-<span class="m">Soot black</span> and others will not dry in oil unless you add <span class="m">verdigris</span>.
+<span class="m">Soot black</span> & others would not dry in <span class="m">oil</span> if one did not put <span class="m">verdigris</span> with it.
  
  
   
 
-## Painting
+## <span class="pro">Painter</span>
 
  
-Colors that have been applied twice are more gritty by themselves, unless they have a binding agent. Otherwise, paint on <span class="m">wood</span>; otherwise, on <span class="m">canvas</span>; otherwise on walls.
+Colors laid down twice are more gritty in and of themselves, if they are not managed. Otherwise, one paints on <span class="m">wood</span>; otherwise on <span class="m">canvas</span>; otherwise on walls.
  
  
   
@@ -59,4 +59,5 @@ To graft, it is necessary to take the new growth that was produced within the ye
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5UWpzdGVweGVvQTg" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
 *[continued]*
+ 
  

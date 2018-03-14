@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-119r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f243.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>119r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-119r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f243.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>119r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -51,4 +51,5 @@ The perfect <span class="m">sand</span> for the box frame is the <span class="m"
  Notathat the casting must be fine & hardly thick so that it does not work the material at all, & must not exceed the thickness of a grain of <span class="m">wheat</span> taken crossw—wise, likewise for <span class="m">tin</span> that is going to be cast finely. For <span class="m">lead</span>, a little thicker. There is no need to make air vents very large & deep either.
  
  The <span class="m">sand</span> that you use à noyau for the said mixture is excellent for a box frame. But in washing, crushing & reheating it several times, its nature will be corrupted & it will no longer be fit to be taken & molded <span class="pro">en noyau</span>.
+ 
  

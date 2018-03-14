@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-160v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f326.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>160v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-160v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f326.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>160v</a> - - - - - </div>  
   
 
 ## Moulding a foot or a hand
@@ -60,4 +60,5 @@ If they sleep in the farmyard, like they commonly do, close to the house, let th
 During winter, when birds have molted, skin them and fill them with cloth and stuffing, or dry them well in an oven. Then arrange your birds on trees, have some <span class="x">look like they are</span> singing, <span class="x">look like they have assembled</span> and are numerous.
  
 the oven must not be too hot. This <span class="x">method</span> is good in the summer, because flies would set into the eyes and make works before they <span class="x">birds</span> could dry. You can work on the birds more easily in the winter, because they dry by themselves.
+ 
  

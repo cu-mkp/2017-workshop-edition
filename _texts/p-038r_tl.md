@@ -8,18 +8,18 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Sapphire, sapphires, gemstones, taffre, very clear esmail azuré, sapphire, beryl, Saffron, antique glass, emery, esmail d’azur, silver, aquamarines, white glass, glass, Amber, transparent amber, willow, soft wood, water, tripoli of Brittany, soot, smoke, dung, bones, smoke of safre, manganese, drugs, urine, distilled vinegar, vapor of aqua fortis, copper, aqua fortis, sal ammoniac, amber, potée, jet, salt called de Langlois de armonic, mineral salt, marble stone, lye, corrosive water, fir]
+materials: [Sapphire, sapphires, gemstones, taffre, very clear esmail azuré, sapphire, beryl, Saffron, marigold leaves, thread, antique glass, emery, esmail d’azur, silver, aquamarines, white glass, glass, Amber, transparent amber, willow, soft wood, water, tripoli of Brittany, soot, smoke, dung, bones, smoke of safre, manganese, drugs, urine, distilled vinegar, vapor of aqua fortis, copper, aqua fortis, sal ammoniac, amber, potée, jet, salt called de Langlois de armonic, mineral salt, marble stone, lye, corrosive water, fir]
 tools: [file, wheel, willow stick, wheel of soft wood]
 measurements: []
 bodyparts: []
 places: [Saint Denis, Brittany, Cardona, Monserrat]
 plants: [Saffron, marigold, willow, fir]
 professions: [king, Stone cutters]
-environments: [church, chimney, in a closed space]
+environments: [in the hottest sun, church, chimney, in a closed space]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-038r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f81.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>038r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-038r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f81.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>038r</a> - - - - - </div>  
   
 
 ## <span class="m">Sapphire</span>
@@ -33,7 +33,7 @@ One finds <span class="m">sapphires</span> that one calls de treille, because th
 ## <span class="m"><span class="pa">Saffron</span></span>
 
  
-It is imitated & cut with half dried <span class="pa">marigold</span> leaves, & twisted like a thread, & placed in the hottest sun to dry, & is mixed, & the aforesaid <span class="pa">marigold</span> even gives some color.
+It is counterfeited & augmented with <span class="m"><span class="pa">marigold</span> leaves</span> half—dried, & twisted like a <span class="m">thread</span>, & put <span class="env">in the hottest sun</span> to dry, & is mixed, & the aforesaid <span class="pa">marigold</span> even gives some color.
  
  
   
@@ -55,4 +55,5 @@ The orangeish color that is in <span class="m">transparent amber</span> and in t
 > 
 > 
 >   I have experimented by making it boil in <span class="m">lye</span> or <span class="m">corrosive water</span>, it turns reddish on the surface. And if it is rubbed against <span class="m"><span class="pa">fir</span></span> & <span class="m">soft wood</span> before it is cooled, it is easily cut.
+ 
  

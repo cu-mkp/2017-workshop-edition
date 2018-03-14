@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-009v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>009v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-009v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>009v</a> - - - - - </div>  
   
 
 ## <span class="pro">Painters</span>
@@ -53,5 +53,6 @@ François du Cros owes from 2 September 1581, for 1 canne of <span class="m">bat
 > 
 >   Moved to the account book at r. 55/
  
-François du Cros owes from 2 September 1581, for the merchandise taken by himself, as specified in detail in the sales book, No. 7, at r. 55, the sum of 8 livres, of which the aforesaid du Cros has made a bill on the aforesaid day, to be payed on Saint Andrew's day next, total —— 8 <span class="x">...</span> r.
+François du Cros owes from 2 September 1581, for the merchandise taken by himself, as specified in detail in the sales book, No. 7, at r. 55, the sum of 8 livres, of which the aforesaid du Cros has made a bill on the aforesaid day, to be payed on Saint Andrew's day next, total —— 8 <span class="x">...</span> r.
+ 
  

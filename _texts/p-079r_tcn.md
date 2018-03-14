@@ -19,7 +19,7 @@ environments: []
 animals: [loup, chien]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-079r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f163.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>079r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-079r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f163.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>079r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -50,4 +50,5 @@ quand tu en vouldras user, destrampe le aveq de la<br/> <span class="m">colle bi
  Prenés six <span class="ms">onces</span> d’<span class="m">estaing calcinés</span> & aultant de <span class="m">souffre<br/> vif</span> & six <span class="ms">onces</span> de <span class="m">sel armoniac</span>, et mectés l’<span class="m">estaing</span><br/> fondre dedans une <span class="tl">cuilliere</span>. Quand il sera fondu, mectés<br/> l’<span class="m">argent vif</span> dedans, puys le gectés en ligne, puys<br/> pillés toutes ses <span class="m">drogues</span> ensemble dedans ung <span class="tl">mortier</span>, <span class="del">&</span>
  
 *[continued]*
+ 
  

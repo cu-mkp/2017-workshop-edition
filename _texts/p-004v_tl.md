@@ -19,7 +19,7 @@ environments: [courtyard, open space]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-004v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>004v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-004v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>004v</a> - - - - - </div>  
   
 
 ## <span class="m">Black varnish</span> for sword guard, bands for trunks, &c.
@@ -69,4 +69,5 @@ Take <span class="m">varnish of <span class="pa">spike lavender</span> oil</span
 Take <span class="m"><span class="pa">linseed</span> oil</span> or <span class="m"><span class="pa">walnut</span> oil</span> &, in place of <span class="m">black pitch</span>, you will put in a little <span class="m">resin</span>, & it needs to be cooked in the manner of <span class="m">black varnish</span> on fire. And for applying it, heat your <span class="m">iron</span> & give it only one layer of <span class="m">varnish</span>, & when it no longer smokes, it is dry. Next engrave with a <span class="tl"><span class="m">steel</span> point</span> whatever you want. Next <span class="add">take</span> <span class="m">salt</span> & <span class="m">verdigris</span> & soak as much of one as of the other in <span class="m">quite strong vinegar</span> & leave it for XX4 <span class="ms"><span class="tmp">hours</span></span> before using it, & all will be soaked. Next spread some of this liqueur or sauce on the engraved object with a <span class="tl">sponge</span>
  
 *[continued]*
+ 
  

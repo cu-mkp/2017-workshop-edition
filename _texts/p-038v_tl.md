@@ -19,7 +19,7 @@ environments: []
 animals: [dragon]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-038v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>038v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-038v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>038v</a> - - - - - </div>  
   
 
 ## Black color for dyeing 
@@ -66,4 +66,5 @@ Those who retail velvet and other materials do not keep double—entry books bec
 
  
 Because one aulne costs seven or eight lb. to dye, they use <span class="sup">cloth</span>worth seven or eight francs. But if one wants something beautiful, one should buy some white cloth worth fifteen francs an aulne and dye it with some pure crimson woad & a little cochineal. Black fabrics are very fine because the dye is inexpensive.
+ 
  

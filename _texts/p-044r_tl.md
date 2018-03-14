@@ -19,7 +19,7 @@ environments: [cities where they are sworn masters]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-044r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f93.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>044r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-044r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f93.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>044r</a> - - - - - </div>  
   
 
 ## The reach of an arquebuse
@@ -63,4 +63,5 @@ To test it, soak it & apply it to <span class="m">paper</span>, & if one or two 
 
  
 <span class="m">Red poppies</span> that grow amongst wheat make a very beautiful columbine on white leather. The <span class="m">boufain</span> makes a very beautiful blue. An <span class="m">herb which grows in hedges, which has a stem similar to flax, long and broad leaves like little bugloss, which has a violet flower verging on blue and looks like the fleur de lys,</span> makes a quite beautiful turquin, better than azure. Another <span class="m">columbine flower of the shape and size of the bugloss flower, which has a leaf like that of the pansy</span>, also makes a very beautiful turquin. It grows in wheat in light earth.
+ 
  

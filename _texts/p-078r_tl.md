@@ -19,7 +19,7 @@ environments: []
 animals: [horse]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-078r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f161.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>078r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-078r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f161.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>078r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -48,4 +48,5 @@ Take <span class="m">vermillion</span> & soak it with <span class="m">gum water<
 
  
 Take <span class="m">very strong vinegar</span>, <span class="m">salt</span>, & <span class="m">rainwater</span>, and one needs to put it all together with <span class="m">verdigris</span>, and put it in a new <span class="tl"><span class="m">earthen</span> vessel</span> with your <span class="m">wood</span>, & put it in some very warm <span class="m"><span class="al">horse</span> dung</span> for the space of eight or nine <span class="ms"><span class="tmp">days</span></span>.
+ 
  

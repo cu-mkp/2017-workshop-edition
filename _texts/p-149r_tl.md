@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-149r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f303.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>149r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-149r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f303.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>149r</a> - - - - - </div>  
   
 
 ## Softening <span class="m">iron</span> and making it really soft
@@ -46,8 +46,9 @@ They make great use of water mills, and most of these artisans working with <spa
  
   
 
-## Reparing medals
+## Repairing medals
 
  
 If you want to mold any medal to use as a model, and at the same time repair it, cast it in a greater quantity of <span class="m">tin</span>, and put in it a good amount of <span class="m">tin alloy</span> to make it harder.
 
+ 

@@ -8,24 +8,24 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: []
+materials: [oil, distemper, lightly ground minium, massicot, verdigris, yellow ochre, stil de grain yellow, charcoal of peach tree pits, ox foot bone, natural flower or leaf]
 tools: []
 measurements: []
 bodyparts: []
 places: []
-plants: []
+plants: [marigold flowers, peach tree]
 professions: []
 environments: []
-animals: []
+animals: [ox]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-158v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>158v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-158v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>158v</a> - - - - - </div>  
   
 
-## Colors for green leafs
+## Colors for green leaves
 
  
-One usually paints them with oil colors, because distemper colors do not stay on. For marigold flowers, lightly ground minium for some of them; for more yellowish ones, mix in a bit of massicot. For green, the vert—de—gris is dark and too somber. If it is a yellowish—green, you can mix with the vert—de—gris a bit of yellow ochre and scudegrum. If the green is dark, mix in some coals made from peach pits, which makes a greenish—black, in the same way than the bone of an ox foot bone makes a bluish—black. And in such a manner, by judgement and discretion, put the color on the natural flower or leaf to see whether it is similar to the original. But paint it on very lightly so as not to cover the features of the work.
+One usually paints them in <span class="m">oil</span>, because <span class="m">distemper</span> colors have no hold. For <span class="pa">marigold flowers</span>, <span class="m">lightly ground minium</span> for some, & for others which are more yellowish, a bit of <span class="m">massicot</span> with it. For green, the <span class="m">verdigris</span> has depth & is too dark. If it is a yellowish green, you can mix with the <span class="m">verdigris</span> a little <span class="m">yellow ochre</span> & <span class="m">stil de grain yellow</span>. If the green is dark, put with it <span class="m">charcoal of <span class="pa">peach tree</span> pits</span>, which makes a <span class="del">v</span> greenish black, in the same way that black of <span class="m"><span class="al">ox</span> foot bone</span> looks bluish. And thus, by judgement & discretion, put the color on the <span class="m">natural flower or leaf</span> to see whether it comes close. But layer it transparently so as not to cover the lines of the work.
  
  
   
@@ -55,4 +55,5 @@ If the medal is very thick, do not pour a cast that is as thick; the cast just n
 > 
 > 
 >   Never forget to oil the cast with wax when you cast herbs or flowers, otherwise it will break and cannot be taken out. 
+ 
  

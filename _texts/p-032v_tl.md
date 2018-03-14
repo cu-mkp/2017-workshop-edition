@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-032v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f70.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>032v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-032v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f70.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>032v</a> - - - - - </div>  
   
 
 ## <span class="pro">Mat Makers</span>
@@ -33,7 +33,7 @@ Two kinds are made in <span class="pl">Toulouse</span>, one to cover rooms' wall
 ## <span class="pro">Glassmakers</span>
 
  
-They have no way to produce a perfect red that needs to be annealed. Try, however, the <span class="m"><span class="pl">German</span> red</span> which is scaled red. They produce their ordinary red with some <span class="m">sanguine</span>, <span class="m">iced pewter</span>, <span class="m">lead rocks</span>, and some <span class="m">iron file dust</span>. This red is to be applied on both sides of the <span class="m">glass</span> because it is more colourful. If it were applied on one side only it would look pastel orange.
+They have no way to produce a perfect red that needs to be annealed. Try, however, the <span class="m"><span class="pl">German</span> red</span> which is scaled red. They produce their ordinary red with some <span class="m">sanguine</span>, <span class="m">iced pewter</span>, <span class="m">lead rocks</span>, & some <span class="m">iron file dust</span>. This red is to be applied on both sides of the <span class="m">glass</span> because it is more colourful. If it were applied on one side only it would look pastel orange.
  
  
   
@@ -47,4 +47,5 @@ They pay xx <span class="cn">lb</span> for a <span class="ms">quintal</span> of 
 > 
 > 
 >   # <span class="m">Gold</span>, <span class="m">silver</span> <span class="m">copper</span><br/> <span class="m">latten</span> <span class="m">iron</span>.
+ 
  

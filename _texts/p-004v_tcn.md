@@ -19,7 +19,7 @@ environments: [basse court, lieu descouvert]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-004v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>004v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-004v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>004v</a> - - - - - </div>  
   
 
 ## <span class="m">Vernis noir</span> pour garde<br/> d'espée, bandes de bahus &<span class="x">c.</span>
@@ -69,4 +69,5 @@ Prens <span class="m">vernis d'huile d'<span class="pa">aspic</span></span> & y 
 Prens <span class="m">huile de <span class="pa">lin</span></span> ou <span class="m">huile de <span class="pa">noix</span></span> &, au lieu de <span class="m">poix</span><br/> <span class="m">noire,</span> tu y mectras un peu de <span class="m">poix resine</span>, & le fault cuire<br/> à la façon du <span class="m">vernir noir</span> à foeu. Et pour l'apliquer,<br/> chaufe ton <span class="m">fer</span> & ne luy donne qu'une couche de <span class="m">vernis</span>,<br/> & quand il ne fumera plus, il est sec. Grave aprés avecq<br/> la <span class="tl">poincte d'<span class="m">acier</span></span> ce que tu vouldras. Aprés <span class="add">ayes</span> du <span class="m">sel</span> &<br/> du <span class="m">verdegris</span> & le destrempe aultant d'un que d'aultre<br/> en <span class="m">vinaigre bien fort</span> & le laisse XX4 <span class="ms"><span class="tmp">heures</span></span> deva<span class="exp">n</span>t<br/> qu'en user, & tout se destrempera. Aprés estens de ceste<br/> liqueur ou saulce sur la chose gravée avecq une <span class="tl">esponge</span>
  
 *[continued]*
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [chiens]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-104v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f214.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>104v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-104v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f214.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>104v</a> - - - - - </div>  
   
 
 ## Contre la galle des <span class="al">chiens</span>
@@ -54,4 +54,5 @@ Sçaiches que c'est que travailler le pailleterie, c'est<br/> des escailles d'<s
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5cWFSaUU5a2R6N2s" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
 Fais un axe tout entourné de roues percees tout aultour<br/> en l'espesseur et attaches des <span class="m">plumes</span> co<span class="exp">mm</span>e pour cistre ou<br/> espinette, & les dispose selon la chançon que tu vouldras<br/> faire dire, y laissant distance convenable. Et tourna<span class="exp">n</span>t<br/> l'axe, ou par toy mesme ou par ressort d'horloge, ton invention<br/> s'effectuera.
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [serpent, clay]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-113r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f231.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>113r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-113r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f231.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>113r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -58,4 +58,5 @@ a bit so that you can take it out if you need to. And be advised that these need
 Have a porringer of <span class="m">leaded earth</span> of such a size that it can hold the wet sand which will be needed to fill your mold in one go, which is better than in two gos, because if you do not throw the second load of sand in very quickly, there is a risk that while you are preparing it, the first one will take & become solid,
  
 *[continued]*
+ 
  

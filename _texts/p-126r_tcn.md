@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-126r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f257.item.r=.zoom" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>126r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-126r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f257.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>126r</a> - - - - - </div>  
   
 
 ## Mouler fruicts en <span class="m">sucre</span><br/> et animaulx
@@ -41,4 +41,5 @@ Le <span class="m">sucre</span> est gras <span class="add">a couler et brusc & r
 > 
 > 
 >   Le signe que<br/> le <span class="m">cirop</span> ou<br/> <span class="m">sucre</span> fondu en<br/> <span class="m">eau</span> est assés<br/> cuit pour<br/> gecter fruicts,<br/> c'est quand il<br/> faict des filets<br/> en le secouant. Et s'il passe ce poinct, il ne seroit pas bien car il se rendroit tousjours<br/> humide. Si le <span class="m">sucre</span> s'attaque, il fault y gecter un peu d'<span class="m">amydon</span> dans le <span class="tl">moule</span><br/> ou le frotter avecq une <span class="tl"><span class="m"><span class="pa">amande</span></span></span>.
+ 
  

@@ -8,32 +8,32 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [marcasites, mines, mine, colle forte]
+materials: [Rock, white & yellow marcasites, mines, mine, rock, colle forte]
 tools: []
 measurements: []
 bodyparts: []
 places: []
 plants: []
 professions: []
-environments: []
+environments: [grotto]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-110r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f225.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>110r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-110r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f225.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>110r</a> - - - - - </div>  
   
 
-## Casting
+## Molding
 
  
-You could cast from already casted things and animals, but it never works as well as from the natural <span class="x">original</span> ones, with which you can make four or five molds.
+You could mold things and animals already cast, but it never comes out as well as the one from nature, with which you can make four or five molds.
  
  
   
 
-## Rock & grotto
+## <span class="m">Rock</span> & <span class="env">grotto</span>
 
  
-You need to grind white & yellow <span class="m">marcasites</span> & various kinds of <span class="m">mines</span>. & wash them thoroughly, so the soiled & chalky end will be clean, & in order that only the lustrous grain of the <span class="m">mine</span> will be left, from which you will powder your rock previously covered with <span class="m">colle forte</span>, if your grotto is not used as a fountain & touches water. You will thus obtain a nice work.
+You need to pestle <span class="m">white & yellow marcasites</span> & various kinds of <span class="m">mines</span>, & then wash them well, so that the earthy & powdery is cleaned, & there remains only the lustrous grain of the <span class="m">mine</span>, with which you will sprinkle your <span class="m">rock</span> previously covered with <span class="m">colle forte</span>, if your <span class="del">grasse</span> <span class="env">grotto</span> is <span class="del">r</span> not for a fountain & for touching water, and you will have a nice work.
  
  
   
@@ -41,12 +41,13 @@ You need to grind white & yellow <span class="m">marcasites</span> & various kin
 ## Snakes
 
  
-When they feel trapped, they seldom bite, & cannot really hurt unless they are really big snakes. The most important thing is to avoid being bitten before capturing them. Having put your foot as close as possible from the neck, you holds it as close to the head as possible. That way, it will not bite if it cannot stretch its neck & do a sinuous turn, it will not be able to hurt from a frontal attack, nor will it be able to twist into an S. I have found out that the person who taught me how to mold them was little afraid of snakes. & he would catch one and pull it quickly, & grabbed it by the neck &, putting it under his shoe, flattened it so it would eject from the behind, which is five or six fingers from the tail, everything that is bad and venomous in the belly. After that, the snake has no strength to bite and, if by chance it still bites and ejects from its behind some garbage, he <span class="x">the man</span> would dig in the soil with a knife & bury his hand in the fresh & humid soil which, applied to the infected part of the hand, would suck all the venom, without doing anything else. It was the same with toad venom, as I have seen experimented.
+When they feel taken, they hardly bite, & do not have the power to harm, unless they are really big snakes. The main thing is to keep from being bitten before catching them, and having put your foot on top of it, as close to the neck as one can, one needs to grab it closest to the head, for it cannot bite if it does not have the means to stretch its neck & make a sinuous & oblique turn, & it cannot harm with a direct attack, since he cannot move forward in a direct line, but writhes in the shape of an S. I saw that the one who taught to mold them did not take this into account, & assured me that there was no trick to it, other than, when taking it, he would pull it, a little pressed & held tightly by the neck, & passing it under a shoe, he would flatten it in such a way that it would render from its bottom, which is five to six fingers from the end of its tail, all nasty and venomous things that it had in its stomach, and that after this, it does not have the strength to bite, and if by chance it should bite or expel through its bottom some filth, he would only dig the earth with a knife, & bury his hand in fresh and damp earth, which, when applied fresh on the infected part, pulls out all the venom, and nothing else. It is the same with toad’s venom, that I have seen experimented. 
  
 > *at left middle margin*
 > 
 > 
->   In three <span class="x">days</span> it is as thin as if he had not eaten. Cast it right after catching it is the best, before it loses weight. You should kill it only a quarter of an hour before you want to cast it.
+>   In three, it is almost as thin that it will be after it does not eat. Molding it as soon as it is caught is best, before it becomes thin. One ought to kill it only a quarter hour before you want to mold.
  
 *[continued]*
+ 
  

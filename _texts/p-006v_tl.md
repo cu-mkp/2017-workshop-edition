@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [thin, enamel, canes, yellow latten, iron, wood, charcoal, ash, aqua fortis, copper, soft, tin, marble, lead, felt]
-tools: [file, lamp, furnace, reverberatory oven, small pincers, stove, burin, chisel, roll-press, hammer]
+materials: [thin, enamel, canes, yellow latten, iron, wood, charcoal, ash, aqua fortis, copper, doulx tin, polished marble, wooden, lead, tin, felt, gild]
+tools: [file, lamp, furnace, reverberatory oven, small pincers, stove, burin, chisel, polished marble, wooden board, table, roll-press, piece of felt, hammer]
 measurements: []
 bodyparts: []
 places: []
@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-006v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f18.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>006v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-006v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f18.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>006v</a> - - - - - </div>  
   
 
 ## For cages
@@ -41,5 +41,6 @@ You can embellish them with <span class="m">thin</span> <span class="m">enamel</
 ## For stamped ornaments used for embellishing and inserting into or covering the edges of mirrors, the tops of chests, or the friezes of bed valances
 
  
-Etch with <span class="m">aqua fortis</span> on <span class="m">iron</span> or <span class="m">copper</span> whatever you have pounced and drawn there, next make it neat with a <span class="tl">burin</span> or <span class="tl">chisel</span>. Then pour <span class="m">soft</span> <span class="m">tin</span>, yet unused, onto polished <span class="m">marble</span> and flatten it, making it quite thin, with a <span class="m">wood</span>en board. Or else pour it on a table as is done with <span class="m">lead</span>, or put it through a <span class="tl">roll—press</span>. Next lay your <span class="m">tin</span> plate over the engraving, and over the <span class="m">tin</span> plate put a piece of <span class="m">felt</span> and strike it with a <span class="tl">hammer</span>. Then gild it in the following manner.
+Etch with <span class="m">aqua fortis</span> on <span class="m">iron</span> or <span class="m">copper</span> whatever you have pounced and drawn there, next make it neat with a <span class="tl">burin</span> or <span class="tl">chisel</span>. Then pour <span class="m">doulx tin</span>, yet unused, onto <span class="tl"><span class="m">polished marble</span></span> & flatten it, making it quite thin, with a <span class="tl"><span class="m">wooden</span> board</span>. Or else pour it on a <span class="tl">table</span> as is done with <span class="m">lead</span>, or put it through a <span class="tl">roll—press</span>. Next lay your <span class="m">tin</span> plate over the engraving, & over the <span class="m">tin</span> plate put a <span class="tl">piece of <span class="m">felt</span></span> and strike it with a <span class="tl">hammer</span>. Then <span class="m">gild</span> it in the following manner.
+ 
  

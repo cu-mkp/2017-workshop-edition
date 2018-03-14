@@ -8,24 +8,24 @@ author:
 mode: tcn
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [carton, papier argenté, corne de lanterne, plomb, estain, croye, verre pilé, tripoly, linge bruslé, celle de Champaigne dont usent les painctres, magistra, pouldre de croye, sable de verre commun, touteffois le cristallin, verre, sel de salicor, cristallin, sel de tartre, salicor, charbons, eau, potée, metaulx]
-tools: [moule au chassis]
+materials: [carton simple, papier argenté & bruny, corne de lanterne bien claire, plomb, estain, croye, verre pilé, tripoly, linge bruslé, celle de Champaigne dont usent les painctres, magistra, pouldre de croye, sable de verre commun, touteffois le cristallin, verre, sel de salicor, cristallin, sel de tartre, salicor, charbons, eau, potée, metaulx]
+tools: [bruny, moule au chassis]
 measurements: []
 bodyparts: []
 places: [Champaigne]
 plants: [abres]
 professions: [painctres]
-environments: []
-animals: []
+environments: [lieu sec, temps sec, pluyes]
+animals: [poissons]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-068r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f141.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>068r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-068r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f141.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>068r</a> - - - - - </div>  
   
 
 ## Tables fantasques
 
  
-Tu peulx faire divers compartiments encochés & dans<br/> iceulx mectre des poissons pains sur du <span class="m">carton</span> simple au naturel<br/> & avecq couleurs, & s'il te semble sur du <span class="m">papier argenté</span> & bruny,<br/> qui representera l'escaille, et aprés couvrir cela de <span class="m">corne de<br/> lanterne</span> bien claire. Cela mesmes peulx tu apliquer en aultres<br/> ouvraiges.
+Tu peulx faire divers compartiments encochés & dans<br/> iceulx mectre des <span class="al">poissons</span> pains sur du <span class="m">carton simple</span> au naturel<br/> & avecq couleurs, & s'il te semble sur du <span class="m">papier argenté & <span class="tl">bruny</span></span>,<br/> qui representera l'escaille, et aprés couvrir cela de <span class="m">corne de<br/> lanterne bien claire</span>. Cela mesmes peulx tu apliquer en aultres<br/> ouvraiges.
  
  
   
@@ -33,7 +33,7 @@ Tu peulx faire divers compartiments encochés & dans<br/> iceulx mectre des pois
 ## Planter <span class="pa">abres</span>
 
  
-Il les fault planter en temps sec, & assembler force<br/> terre au pied tout aultour, comme une motte, affin que les pluyes<br/> ne remplissent les fosses & ne nyent les <span class="pa">abres</span>.
+Il les fault planter en <span class="del"><span class="env">lieu sec</span></span> <span class="env">temps sec</span>, & assembler force<br/> terre au pied tout aultour, co<span class="exp">mm</span>e une motte, affin que les <span class="env">pluyes</span><br/> ne remplissent les fosses & ne nyent les <span class="pa">abres</span>.
  
  
   
@@ -49,4 +49,5 @@ J'ay essayé 4 sortes de sables pour le <span class="m">plomb</span> & <span cla
 >   La <span class="m">potée</span> est<br/> estimée excellente<br/> pour ces deulx<br/> <span class="m">metaulx</span>. 
  
 *[continued]*
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-042v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f90.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>042v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-042v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f90.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>042v</a> - - - - - </div>  
   
 
 ## Pounced design for scratching <span class="m">satin</span>
@@ -66,4 +66,5 @@ Follow the lines with <span class="m">lake</span> ground with <span class="m"><s
 
  
 Give two or three <span class="ms">coats</span> <span class="m">glue quite white</span> for painting. Next, varnish with <span class="m">varnish of <span class="m">sandarac</span>, <span class="m"><span class="pa">spike lavender</span> oil</span>, and a little <span class="m">mastic</span></span>. And <span class="tmp">in the evening</span> put it into a <span class="tl">vessel</span>, all well—ground together, without fire, which would turn it yellow. Then with a <span class="tl">pinceau</span>, it is dry immediately. Pour the <span class="m">oil</span>, which will have taken the substance.
+ 
  

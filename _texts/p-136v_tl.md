@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-136v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f278.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>136v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-136v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f278.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>136v</a> - - - - - </div>  
   
 
 ##  <span class="m">latten</span> casting
@@ -31,4 +31,5 @@ animals: []
 > 
 > 
 >   This metal is capricious to cast because of the smoke of the <span class="m">calamine</span>. Do not leave it out of the fire, as some do with <span class="m">silver</span>. Because when air or wind touch it, the mold gets cold at once. When you cast it, this metal always leaves burrs, like when casting <span class="m">glass</span>. <span class="pro">Foundry workers</span> do not usually use this very yellow <span class="m">latten</span> as much because of the <span class="m">calamine</span> which is heated. They cast <span class="m">red copper</span> and turn it yellow with fresh <span class="m">calamine</span>, or with some prepared tutty. Before casting, clean it with <span class="m">charcoal</span> with a quere made of <span class="m">copper</span> or <span class="m">iron</span>. Then cover it with a cloth soaked in <span class="m">lard</span> blended with <span class="m">saltpeter</span>, or <span class="m">sal ammoniac</span>, in order to protect it from wind, which would cool it down.
+ 
  

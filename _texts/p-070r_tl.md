@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [metal, Human bones, iron scales, copper, fat, saltpeter, paper, Sheep foot bones, ox foot bones, Oil, tallow, crushed glass, Cendreée earth, Ashes, Latten, Copper, latten, Sand from corp rock, tuf, wax, earth, lead, filth]
+materials: [metal, Human bones, iron scales, copper, fat, saltpeter, paper, Sheep foot bones, ox foot bones, Oil, tallow, crushed glass, Cendrée earth, Ashes, Latten, Copper, latten, Sand from corp rock, tuf, wax, earth, lead, filth]
 tools: [paper, box mold, skillet, double sieve]
 measurements: [quarter]
 bodyparts: []
@@ -19,7 +19,7 @@ environments: []
 animals: [Human, Sheep, ox]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-070r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b20500001g/f145.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>070r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-070r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b20500001g/f145.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>070r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -33,7 +33,7 @@ To cast neatly, it is necessary that your substance be quite hot & to achieve th
  
 <span class="m">Oil</span> & <span class="m">tallow</span> make it really porous & <span class="m">crushed glass</span> & <span class="m">copper</span> alone.
  
-<span class="m">Cendreée earth</span> molds very neatly.
+<span class="m">Cendrée earth</span> molds very neatly.
  
 <span class="m">Ashes</span> do not have enough body to withstand <span class="m">copper</span>.
  
@@ -68,4 +68,5 @@ A slightly coarser sand has more body.
 >   One puts in <span class="m">lead</span> for a large work to make it run, but not <span class="del">not<br/> for</span> in a small one because it would leave <span class="m">filth</span> all around the work.
  
 *[continued]*
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [mouton, moutons, Araigné]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-071v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f148.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>071v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-071v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f148.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>071v</a> - - - - - </div>  
   
 
 ## <span class="m">Vernis</span>
@@ -52,4 +52,5 @@ En <span class="pl">Hibernie</span> il ne s'en trouve poinct, & si on les touche
 La <span class="m">moulée</span> est fort bonne pour gecter en <span class="m">cuivre</span>, mays il ne<br/> fault prendre de <span class="m">celle des <span class="pro">cousteliers</span></span>, car ce n'est que <span class="m">vase</span>,<br/> mays de celle que font ceulx qui <span class="del">moulent</span> esmoulent les grands<br/> ciseaulx.
  
 Les <span class="m">pierres de filieres</span>, de quoy adoulcissent <span class="pro">ceulx qui aguisent</span>,<br/> moule fort net, estant raclée, pour le <span class="m">plomb</span>. Elle est commun<span class="exp">ement</span><br/> de couleur d'<span class="m">ardoise</span>. On en porte fort à <span class="pl">Th<span class="exp">ou</span>l<span class="exp">ous</span>e</span> de vers <span class="pl">Carcassonne</span>.
+ 
  

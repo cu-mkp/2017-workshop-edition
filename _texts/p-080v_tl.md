@@ -19,7 +19,7 @@ environments: [great flakes towards the mountains]
 animals: [oyster]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-080v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f166.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>080v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-080v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f166.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>080v</a> - - - - - </div>  
   
 
 ## <span class="pro">Founders of small works <span class="add">@ in <span class="m">tin</span></span></span>
@@ -44,4 +44,5 @@ They usually cast with <span class="m">solder</span>, even the things that shoul
 > 
 > 
 >   Try <span class="m">calcined <span class="al">oyster</span> shells</span>; one says that they are excellent for molding.
+ 
  

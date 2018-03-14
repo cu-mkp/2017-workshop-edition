@@ -19,7 +19,7 @@ environments: []
 animals: [partridge, wolf]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-075v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f156.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>075v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-075v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f156.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>075v</a> - - - - - </div>  
   
 
 ## For making gray <span class="m">wood</span>
@@ -54,4 +54,5 @@ One needs to take a <span class="ms">coquille</span> of <span class="m">gold</sp
 For making it black, one needs to soak it in <span class="m"><span class="pa">olive</span> oil</span>. And the <span class="m">horn</span>, in a similar case, four or five <span class="ms"><span class="tmp">days</span></span>, & then boil it there where it has soaked for the space of one <span class="ms"><span class="tmp">hour</span></span>, & take it out of the <span class="m">oil</span>, and take some <span class="m">natural sulphur</span> or another
  
 *[continued]*
+ 
  

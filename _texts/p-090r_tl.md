@@ -19,7 +19,7 @@ environments: [in the serain, cellar, mine, from the depths of the sand-bed, nea
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-090r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f185.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>090r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-090r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f185.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>090r</a> - - - - - </div>  
   
 
 ## <span class="m">Sal ammoniac</span> and <span class="m">iron dross</span>
@@ -44,4 +44,5 @@ I have pulverized <span class="m">sal ammoniac</span>, well dried in the fire & 
 <span class="pro">Artisans who work in big works</span>, & who need to further their profit, by seeking things already prepared in nature, because it does not sell its wares to people, and to also save the time they would use for grinding finely & and for artificially preparing sands, seek <span class="m">the one of the <span class="del">s</span> <span class="env">mine</span><span class="del">s</span></span>, which is not too fat, having some <span class="m">earth</span> in it, not too lean & consequently without bond, but rather which is pulled <span class="env">from the depths of the sand—bed</span> in mattons & clods that show its natural compactness, which is quite difficult to break & which has a very small & delicate grain, & which is found <span class="sn">soft when handling it between your <span class="tl"><span class="bp">fingers</span></span></span>. And because the latter is only found <span class="env">near the rocks in mountainous areas</span>, or <span class="env">lean territories</span> & having <span class="m">arene</span>, it cannot be found <span class="del">in</span> <span class="env">in the surroundings of all the <span class="pl">bonnes villes</span></span>, where <span class="pro">artisans</span> willingly gather themselves. And thus, if they do not have it <span class="env">close to their house</span>, they prefer to have it come from afar, like from <span class="pl">Lyon</span>, <span class="pl">Venise</span>, <span class="pl">Parys near the Sainct Chappelle</span> & similar places, rather than prepare it. However, you can be certain that in all places you can render the <span class="m">sand from the <span class="env">mine</span></span>.
  
 *[continued]*
+ 
  

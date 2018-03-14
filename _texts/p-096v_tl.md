@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-096v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f198.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>096v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-096v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f198.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>096v</a> - - - - - </div>  
   
 
 ## Grey hilts
@@ -42,4 +42,5 @@ When they are white, it is necessary only to clean them well, and then to heat t
 
  
 One whitens very well & one cleans the guards well. Next, one with a feather, one coats them cold with a <span class="tl">feather</span> all of <span class="m"><span class="pa">walnut</span> <span class="del"><span class="pa">olive</span></span> oil</span>, and next turn them over a good <span class="m">charcoal</span> fire that is in the <span class="tl"><span class="pro">furbishers</span>' furnace</span>, without them touching the <span class="m">charcoal</span> or the <span class="m">ashes</span>. And when they do not smoke anymore, it is done.
+ 
  

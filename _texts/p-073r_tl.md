@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-073r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f151.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>073r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-073r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f151.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>073r</a> - - - - - </div>  
   
 
 ## For making <span class="m">blue varnish</span>
@@ -60,4 +60,5 @@ Take <span class="m">alum</span> with <span class="m">river water</span>, make t
 Take one <span class="ms">ounce</span> of <span class="m">sal ammoniac</span> and grind it in an <span class="tl"><span class="m">iron</span> mortar</span>. Once well ground, take one <span class="ms">ounce</span> of <span class="m">sulfur</span>, and 
  
 *[continued]*
+ 
  

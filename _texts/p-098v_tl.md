@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-098v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f202.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>098v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-098v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f202.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>098v</a> - - - - - </div>  
   
 
 ## Small dogs
@@ -62,4 +62,5 @@ The <span class="m">potée</span> is made of <span class="m">burnt earth</span> 
 The <span class="m">earth</span> which molds in noyau is subject to making it porous, if you do not rub well with a <span class="tl">brush</span> or your <span class="tl"><span class="bp">finger</span></span> on the molded piece, which should be well <span class="m">oiled</span>. And do it coat by coat, & not all at once.
  
 *[continued]*
+ 
  

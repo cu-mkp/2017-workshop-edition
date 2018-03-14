@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-075r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f155.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>075r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-075r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f155.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>075r</a> - - - - - </div>  
   
 
 ## <span class="m">Goume</span> rouge
@@ -58,4 +58,5 @@ animals: []
 
  
  Prenés <span class="m">fin or</span> & le mectés sur le <span class="del">bu</span> <span class="tl"><span class="m">marbre</span></span> bien nect, & mectés<br/> de l'<span class="m">eaue fort</span> & commancés à broyer. Puys prenés du <span class="m">selpestre</span> &<br/> du <span class="m">sel armonial</span> et le mectés en une <span class="tl">coquille</span> q<span class="exp">ui</span> soit grande & lavée,<br/> comme assuré.
+ 
  

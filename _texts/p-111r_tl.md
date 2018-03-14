@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Latten, smoke, latten, chalk, red copper, tin, Clay earth, earth, lead, Iron]
+materials: [Latten, smoke, latten, filth, red copper, tin, Clay earth, lead, Iron]
 tools: []
 measurements: []
 bodyparts: []
@@ -19,13 +19,13 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-111r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f227.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>111r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-111r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f227.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>111r</a> - - - - - </div>  
   
 
 ## Reheating molds
 
  
-Box molds dry out readily, & do not get reheated, because to reheat is properly to turn molds red & inflamed in the fire, and drying out is to let both molds dry, or make them evaporate their humidity, placing them before a fire of flames or one of charcoal. Molds de noyau reheat easily & box molds dry out.
+The frames readily dry out & do not reheat. For reheating is actually to redden & inflame the molds in the fire, and drying out is to let the molds dry themselves, or to make their dampness evaporate by placing them in front of a flaming fire or a charcoal one. Noyau molds readily reheat & frame molds dry out.
  
  
   
@@ -33,7 +33,7 @@ Box molds dry out readily, & do not get reheated, because to reheat is properly 
 ## <span class="m">Latten</span> <span class="m">smoke</span>
 
  
- It is good to reheat molds for casting <span class="m">latten</span> in it, because this yellow <span class="m">chalk</span>, which appears nevertheless to refill the molds, casts very neatly, being of the same nature.
+ It is good to reheat in it the molds for casting <span class="m">latten</span>, for this yellow <span class="m">filth</span>, which appears nevertheless to refill the molds, casts very neatly, being of the same nature.
  
  
   
@@ -41,7 +41,7 @@ Box molds dry out readily, & do not get reheated, because to reheat is properly 
 ## For <span class="m">red copper</span>
 
  
-When it's melted, it is good to throw in a little fine <span class="m">tin</span>, because this makes it run.
+When it is melted, it is good to throw in a little fine <span class="m">tin</span>, for this makes it run.
  
  
   
@@ -49,17 +49,17 @@ When it's melted, it is good to throw in a little fine <span class="m">tin</span
 ## <span class="m">Clay earth</span>
 
  
-This, wet & well beat & kneaded as you know, is necessary for you to make the contour of your molds. But attend that it not be too soft. But likewise <span class="x">attend that it be</span> sort of half dry such that it doesn't attack the hands at all, because otherwise it would attack your work. Always keep it in a damp place, and make some holes in it, and fill them with water, to keep it fresh.
+This one, moistened & well beaten & kneaded as you know, is necessary for you to make the contour for containing your molds. But take heed that it not be too soft, but rather as if half dry, that it does not attack your hands, because otherwise it would attack your work. Always keep it in a damp place, and make holes in it, and fill them with water, to keep it fresh.
  
 > *at left middle margin*
 > 
 > 
->   The gray <span class="x"><span class="m">earth</span></span> is best which does not cleave at all.
+>   The gray one is best, which does not crack at all.
  
 > *at left middle margin*
 > 
 > 
->   It is neater than <span class="ill"></span> of <span class="m">lead</span>.
+>   It is more appropriate than a blade of <span class="m">lead</span>.
  
 > *Figure*
 > *at left middle margin*
@@ -71,5 +71,6 @@ This, wet & well beat & kneaded as you know, is necessary for you to make the co
 ## <span class="m">Iron</span> wire
 
  
-You have to be provisioned with different thicknesses according to the molds that you want to make, some large like packthread from <span class="ill"></span> & some thin, like the fat cords of a spinet, for small works. With it reheated, make clamps to close the molds & make points like needles of various lengths according to your need, to fasten the animal to the mold & hold it subject. Needles would not be good for this since your points must be hollow & of the same thickness throughout, except at the point. And then you have to make them as long as you have need. <span class="m">Iron</span> wire is harder than that of <span class="m">latten</span>.
+You need to have enough provisions of different thicknesses, according to the molds that you want to make, some large like cord, some <span class="ill"></span> & some thin, like the large cords of a spinet, for small works. You make, once reheated, clamps from it to close the molds & the points, like needles of different lengths, according to your need, to pierce the animal to be molded & keep it subjected. Needles would not be good for this because it is necessary that their points be empty & of the same thickness throughout, except at the point. And then, one must make them as long as you have need of. <span class="m">Iron</span> wire is firmer than that of <span class="m">latten</span>.
+ 
  

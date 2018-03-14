@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-122v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f250.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>122v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-122v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f250.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>122v</a> - - - - - </div>  
   
 
 ## Cleaning the <span class="tl">bowl</span> and the <span class="tl">spoon</span> that one uses to temper sand
@@ -53,4 +53,5 @@ You are not limited to making the gate with legs thus
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5WFBpaEV5Ti1hRUU" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  , which embraces the medal well. For the other way with legs is only done to accommodate more delicate works and the other, which is wide and in one piece works better for flat medals. But take heed that all gates need to be very thin close to the medal & so as to say not as thick as the medal, if it is not very thin like paper. And then, from the medal out towards the opening of the gate, make it thicker and thicker for it works better thus. If the gate is thick at the entry to the medal, the work never comes out very well. Make that <span class="del">despuys</span> from the middle to the top of the gate be moderately thick, & from the same middle to the bottom very thin. Do not forget to makes grooves in <span class="del">au hau</span> the top of your gate to prevent the <span class="m">metal</span> from spreading furiously.
+ 
  

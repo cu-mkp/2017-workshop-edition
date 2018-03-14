@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-042r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f89.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>042r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-042r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f89.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>042r</a> - - - - - </div>  
   
 
 ## <span class="pro">Founder</span>
@@ -42,4 +42,5 @@ For the large <span class="m">wax</span> seals, one needs to have <span class="m
 
  
 Melt some <span class="m">wax</span>, & with a large <span class="tl">brush</span>, coat the relief of which you want to have the cavity, as if you wanted to paint it. And a light crust <span class="del">upon which qu</span> will be formed, upon which you will cast <span class="del">you</span> <span class="m">plaster</span>, to give it body and strength. Next, in the <span class="m">wax</span> cavity, you will also cast your <span class="m">plaster</span> in order to have your relief, & it will come out very easily, thanks to the <span class="m">wax</span>. This is done more often for large pieces in high relief than for others.
+ 
  

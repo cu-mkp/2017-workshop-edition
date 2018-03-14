@@ -19,7 +19,7 @@ environments: []
 animals: [turtles]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-150v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f306.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>150v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-150v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f306.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>150v</a> - - - - - </div>  
   
 
 ## Molding hollow
@@ -69,4 +69,5 @@ This <span class="m">iron</span> thread needle which you put thusly in the mold,
 >  XNote that after your noyau has been cast, it is better to put your mold in hot <span class="m">water</span> to open it, so that you can take away as much <span class="m">wax</span> as you can, always softening it in the hot <span class="m">water</span>. Because the less <span class="m">wax</span> you have on it, the better it is, because it will reboil when you reheat your mold, and you will get blisters and lumps. And if you have little <span class="m">wax</span> left <span class="sup">in the mold</span> you will not need to reheat it as much. When you open your mold the cast will break. But it can easily be repaired as long as you castA 
  
 *[continued]*
+ 
  

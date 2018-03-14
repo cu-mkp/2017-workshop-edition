@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-073v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f152.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>073v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-073v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f152.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>073v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -56,4 +56,5 @@ Take one <span class="ms">ounce</span> of <span class="m"><span class="del">varn
 
  
 Take one <span class="ms">ounce</span> of <span class="m">sal ammoniac</span> with one <span class="ms">ounce</span> of <span class="m"><span class="pl">Armenian</span> bole</span> and half of <span class="m">copper filings</span> with one <span class="ms">ounce</span> of <span class="m">sulfur</span> & <span class="ms">half a sestier</span> of <span class="m">vinegar</span>. Beat all into a <span class="tl">small oven of tiles</span> and make a small <span class="m">charcoal</span> fire around it, and put your <span class="tl">pot</span> into the said <span class="tl">oven</span> for the whole <span class="ms"><span class="tmp">day</span></span>.
+ 
  

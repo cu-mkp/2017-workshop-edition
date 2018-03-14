@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-037r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f79.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>037r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-037r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f79.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>037r</a> - - - - - </div>  
   
 
 ## <span class="pro">Founder</span>
@@ -50,4 +50,5 @@ Once made, one ought not to keep them in any <span class="tl">case of <span clas
 
  
 Once they have been made, put in a mould some fresh <span class="m">water</span> whipped with some <span class="m">bran</span>, which should by no means be purged again of its <span class="m">flour</span>, so that the <span class="m">water</span> is white. And dip your candles in this. Then leave them to dry. And do so thusly two or three times.
+ 
  

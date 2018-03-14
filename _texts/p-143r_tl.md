@@ -19,7 +19,7 @@ environments: []
 animals: [turtles, tortoises, turtle, Turtles, turtles/tortoises, Toad, toads]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-143r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f291.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>143r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-143r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f291.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>143r</a> - - - - - </div>  
   
 
 ## Moulding <span class="al">turtles</span> and <span class="al">tortoises</span>
@@ -67,4 +67,5 @@ Having been molded, you can take it out it without burning it, because it releas
  Let the mold cool rather than opening it, even for thick things.
  
 *[continued]*
+ 
  

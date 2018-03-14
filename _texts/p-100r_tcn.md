@@ -8,18 +8,18 @@ author:
 mode: tcn
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [or sur mat, toile, tableau à huile, huile de noix, plomb, ceruse, massicot, mine, verdet, orpiment, or, verre, mastiqué, bois, salpestre, caillous, caillou, charbons, sel alchali]
-tools: [mortier, pilon, Mortier, table, tuile, palle, fourneau]
+materials: [or sur mat, toile, tableau à huile, huile de noix, plomb, ceruse, massicot, mine, verdet, orpiment, or, verre, mastiqué, bois, salpestre, caillous, caillou, salpestre susdict calciné, sel alchali]
+tools: [mortier, pilon, Mortier, table, tuile, palle, fourneau, charbons allumés]
 measurements: []
 bodyparts: [mains]
 places: []
 plants: [noix]
 professions: [parfumeurs]
-environments: [au soleil, au feu, temps n'est serain & sec, temps est relent & humide]
+environments: [au soleil, au feu, temps n'est serain & sec, temps est relent & humide, soleil, à l'air ou lieu humide]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-100r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f205.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>100r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-100r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f205.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>100r</a> - - - - - </div>  
   
 
 ## Or couleur
@@ -64,13 +64,14 @@ Estant fondu avec les <span class="m">caillous</span>, il faict le <span class="
  
   
 
-## Vitres que le soleil ne passera<br/> point
+## Vitres que le <span class="env">soleil</span> ne passera<br/> point
 
  
-Prend du <span class="m">salpestre</span> susdict calciné & l'expose à l'air<br/> ou lieu humide, et il se convertira en liqueur de laquelle,<br/> si tu frottes les vitres <span class="add">des deux costés</span>, le soleil ne passera point<br/> à travers, ains fera ombre. Il fault mectre le <span class="m">salpestre</span><br/> sur quelque <span class="del">chose</span> <span class="add">place</span> nette & <span class="del">la</span> mectre dessus des <span class="m">charbons</span> allumés,<br/> et continuer par tout jusques à ce qu'il ne brusle plus.
+Prend du <span class="m">salpestre susdict calciné</span> & l'expose <span class="env">à l'air<br/> ou lieu humide</span>, et il se convertira en liqueur de laquelle,<br/> si tu frottes les vitres <span class="add">des deux costés</span>, le <span class="env">soleil</span> ne passera point<br/> à travers, ains fera ombre. Il fault mectre le <span class="m">salpestre</span><br/> sur quelque <span class="del">chose</span> <span class="add">place</span> nette & <span class="del">la</span> mectre dessus des <span class="tl">charbons allumés</span>,<br/> et continuer par tout jusques à ce qu'il ne brusle plus.
  
 > *at left bottom margin*
 > 
 > 
 >   Il sert aussy<br/> à faire fondre<br/> & mectre parmy<br/> le <span class="m">sel alchali</span><br/> pour nettoyer les<br/> <span class="bp">mains</span>.
+ 
  

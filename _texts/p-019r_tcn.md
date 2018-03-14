@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-019r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f43.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>019r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-019r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f43.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>019r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -47,5 +47,6 @@ animals: []
  Harquebus à croc poise lx <span class="ms">lb</span>, sçavoir la grande<br/> ha de long cinq <span class="ms">pan</span>s, sa charge est jusques à l'escusson,<br/> sçavoir <span class="add">la longueur de</span> 4 balles, porte balles de <span class="m">plomb</span>, est pour la deffense<br/> des maisons. De ces harquebus à croc & grandes &<br/> petites on faict les orgues, qui sont <span class="del">ou</span> propres pour<br/> un assault & dehors & dedans la place. Elle se fondent<br/> separement co<span class="exp">mm</span>e pour servir à aultre usage que d'orgues.<br/> Voy le foeillet suivant 4e marqué 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5WWY3VjdlVktqZVk" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ 
  
  

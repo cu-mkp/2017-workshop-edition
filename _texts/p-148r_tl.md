@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-148r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f301.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>148r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-148r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f301.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>148r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -61,4 +61,5 @@ One commonly molds the foot and the legs up until the calf. And for this effect,
 
  
 To make this quickly, redden the <span class="m">filings</span> in an <span class="m">iron</span> ladle, stirring it often. Then sprinkle it with some good <span class="m">vinegar</span> and let it evaporate. And without taking it away from above the fire, let it redden and take flame. Having been cooled, pulverise <span class="x">it</span> on the <span class="m">marble</span> and return it to the heat, sprinkle with <span class="m">vinegar</span>, and then set it on fire. In this way it will soon be colored and made fine.
+ 
  

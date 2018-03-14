@@ -8,24 +8,24 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [chicken entrail, Tin, solder, taffeta, vinegar, bile, glass, salt, Earwax, urine, Enamels, crystal, water]
-tools: [sieve]
+materials: [chicken gut, Tin, solder, taffeta, vinegar, bile, glass, salt, Earwax, urine, Enamels, crystal, water]
+tools: [glass bottle, candle, crystal mirror, glass globe or jar]
 measurements: [thickness of a teston]
 bodyparts: []
 places: []
 plants: []
 professions: []
-environments: []
+environments: [sunlight]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-103v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f212.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>103v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-103v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f212.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>103v</a> - - - - - </div>  
   
 
 ## Enema
 
  
- In order for the pipe to not hurt children at all, or those with swollen or protruding hemorrhoidal veins, one covers the pipe with a parcel of <span class="m">chicken entrail</span> & fold it over the end, & in this way, one gives the enema.
+ In order that the tube does not harm, for example children, or those who have protruding or swollen hemorrhoidal veins, one covers the end of the tube with a piece of <span class="m">chicken gut</span> & one folds it back over the end, & in this way, one gives the enema.
  
  
   
@@ -33,15 +33,15 @@ animals: []
 ## Cast
 
  
- <span class="m">Tin</span> retracts once thick, thusly it is best to cast it thin & to make two pieces out of one, then <span class="m">solder</span> <span class="add">them</span> if needs be. One uses a strong piece of <span class="m">taffeta</span> to <span class="tl">sieve</span> the fine sand, with which one first covers the medal, the <span class="ms">thickness of a <span class="cn">teston</span></span>.
+ <span class="m">Tin</span> retracts once thick, thusly it is best to cast it thin & to make two pieces out of one, then <span class="m">solder</span> <span class="add">them</span> if needs be. One uses a strong piece of <span class="m">taffeta</span> to sieve the fine sand, with which one first covers the medal, the <span class="ms">thickness of a <span class="cn">teston</span></span>.
  
  
   
 
-## To make colors fluid
+## For making colors run
 
  
- Mix some <span class="m">vinegar</span> with a bit of <span class="m">bile</span>, & put it into a <span class="m">glass</span> bottle, & if you want to preserve it for a long time, add some <span class="m">salt</span> & mix some of this with your colors & that will make them flow.
+ Mix <span class="m">vinegar</span> <span class="del">with</span> a little with <span class="m">bile</span>, & put it <span class="del">p</span> into a <span class="tl"><span class="m">glass</span> bottle</span>, & if you want to keep it for a long time, add some <span class="m">salt</span> to it & of this mix some of it among your colors & that will make them run.
  
  
   
@@ -57,5 +57,6 @@ animals: []
 ## <span class="m">Enamels</span>
 
  
- To well recognize their difference and their true color by candlelight, it is necessary to put the candle behind a <span class="m">crystal</span> mirror, or a <span class="m">glass</span> globe or jar full of <span class="m">water</span>, because this light is like sunlight.
+ For recognizing well their difference and their true color by <span class="tl">candle</span>, you need to put your <span class="tl">candle</span> behind a <span class="tl"><span class="m">crystal</span> mirror</span>, or a <span class="tl"><span class="m">glass</span> globe or jar</span> full of <span class="m">water</span>, because this light is like <span class="env">sunlight</span>.
+ 
  

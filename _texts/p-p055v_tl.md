@@ -19,7 +19,7 @@ environments: [quarry]
 animals: [Toad]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-p055v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f116.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>p055v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-p055v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f116.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>p055v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -57,3 +57,4 @@ Soak a piece of <span class="m">cloth</span> in <span class="m">oil</span>, then
  
 <span class="m">Chalk</span> most recently taken from the <span class="env">quarry</span> is good for <span class="m">lead</span>. One ought not grind wet, but rather grind finely while pestling or scraping through a <span class="tl">sieve</span>. Thus for <span class="m">pumice</span>, which one ought not grind with <span class="m">water</span>, nor corrupt its natural state. <span class="m">Lead</span> should be slightly mixed with <span class="m">tin</span>, in order only to give it strength, and two <span class="ms">parts</span> <span class="del">of<span class="m">tin</span>for</span> of <span class="m">lead</span> for <span class="del">of</span> one of <span class="m">tin</span> or more.
 
+ 

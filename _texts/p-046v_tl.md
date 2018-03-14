@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Oil of sulfur, ink, oil of sulfur, leather, paper, oil, stone]
+materials: [Scribe, Oil of sulfur, ink, oil of sulfur, leather, paper, oil, stone]
 tools: []
 measurements: []
 bodyparts: []
@@ -19,13 +19,13 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-046v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f98.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>046v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-046v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f98.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>046v</a> - - - - - </div>  
   
 
-## <span class="m">Oil of sulfur</span> for the writer
+## <span class="m">Scribe, Oil of sulfur</span>
 
  
-If the writer wants to quickly clean his quill of the thickness of the <span class="m">ink</span> which dried on it, it only needs to be dipped in <span class="m">oil of sulfur</span>, and immediately it will be white and clean. Urb.
+If the writer wants to clean his quill quickly of the layer of the <span class="m">ink</span> which has dried on it, one only needs to soak in <span class="m">oil of sulfur</span>. And it will immediately be white & clean. Urb.
  
  
   
@@ -33,7 +33,7 @@ If the writer wants to quickly clean his quill of the thickness of the <span cla
 ## <span class="pro">Shoemaker</span>
 
  
-If he wants to do some tanned work on black <span class="m">leather</span> shoes, he can dip in <span class="m">oil of sulfur</span> a writing quill and paint with it what he would like on shoes, boots, and colets. And he will obtain a reddish color which no effort will erase. Urb. 
+If he wants to do some tanned work on black <span class="m">leather</span> shoes, he can dip a writing quill in <span class="m">oil of sulfur</span> and paint with it what he would like on shoes, boots, and collars. And he will obtain a reddish color which will not disappear by any effort. Urb. 
  
  
   
@@ -41,7 +41,7 @@ If he wants to do some tanned work on black <span class="m">leather</span> shoes
 ## Erasing a letter
 
  
- Dip a writing quill in fresh and good <span class="m">oil of sulfur</span> and, thus, retrace all the letters with the dipped quill and they will disappear from the parchment. Urb. 
+ Dip a writing quill in fresh & good <span class="m">oil of sulfur</span> & thus retrace all the letters with the dipped quill and they will disappear on parchment. Urb. 
  
  
   
@@ -49,7 +49,7 @@ If he wants to do some tanned work on black <span class="m">leather</span> shoes
 ## Writing without <span class="m">ink</span>
 
  
- Write with <span class="m">oil of sulfur</span> and heat <span class="x">it</span>, and the letter will become as black as this one. Urb. 
+ Write with <span class="m">oil of sulfur</span> & heat & the letter will turn as black as this one. Urb. 
  
  
   
@@ -74,4 +74,5 @@ If he wants to do some tanned work on black <span class="m">leather</span> shoes
 
  
  The same <span class="m">oil</span> on letters engraved in <span class="m">stone</span>, once heated, becomes black and penetrates.
+ 
  

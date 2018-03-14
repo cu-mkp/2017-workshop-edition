@@ -19,7 +19,7 @@ environments: [near my area]
 animals: [oxen]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-069v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f144.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>069v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-069v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f144.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>069v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -45,4 +45,5 @@ The <span class="m"><span class="pa">olive</span> oil</span> that some mix in wi
 >   It is good for big work, but for small ones it is troublesome for releasing. <span class="del">Il</span> because it crumbles. It is good that it be alloyed with some fat thing which has bond such as <span class="m">molded tripoly</span> or <span class="del">ab</span> <span class="m">burned felt</span> or <span class="m">sal ammoniac</span> or <span class="m">tripoly</span> & similar things.
  
 *[continued]*
+ 
  

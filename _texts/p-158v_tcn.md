@@ -8,24 +8,24 @@ author:
 mode: tcn
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [huile, minium, massicot, vert de gris, verdegris, ocre jaulne, scudegrun, charbon de noyau de pescher, os de pied de bœuf, metal, Fumée de chandelle, estain, plomb, huiler, cire]
+materials: [huile, destrempe, minium peu broyé, massicot, vert de gris, verdegris, ocre jaulne, scudegrun, charbon de noyau de pescher, os de pied de bœuf, fleur ou foeille naturelle, metal, Fumée de chandelle, estain, plomb, huiler, cire]
 tools: [moules, presse, moules de noyau, moule]
 measurements: [moictié]
 bodyparts: []
 places: []
-plants: [fleur de soulcy]
+plants: [fleur de soulcy, pescher]
 professions: []
 environments: []
-animals: []
+animals: [bœuf]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-158v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>158v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-158v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>158v</a> - - - - - </div>  
   
 
 ## Couleurs pour les feuilles vertes
 
  
-On les painct co<span class="exp">mmun</span>ement à <span class="m">huile</span> pource que les couleurs<br/> à destrempe n'ont point de tenue. Pour <span class="pa">fleur de soulcy</span>,<br/> le <span class="m">minium</span> peu broyé pour aulcuns, & pour d'aultres qui<br/> sont plus jaulnastres, un peu de <span class="m">massicot</span> parmy.<br/> Pour vert, le <span class="m">vert de gris</span> a fonds & est trop obscur.<br/> Si c'est un vert jaulnastre, tu peulx mesler avecq<br/> le <span class="m">verdegris</span>, un peu d'<span class="m">ocre jaulne</span> & de <span class="m">scudegrun</span>.<br/> Si le verd est obscur, mects parmy du <span class="m">charbon<br/> de noyau de pescher</span>, qui faict un <span class="del">v</span> noir verdastre,<br/> co<span class="exp">mm</span>e le noir d'<span class="m">os de pied de bœuf</span> faict bleuastre.<br/> Et ainsy, par jugement & discretion, mects la couleur<br/> sur la fleur ou foeille naturelle pour voyr<br/> si elle aproche bien. Mays couche la fort clere, pour ne<br/> couvrir pas les traicts de l'ouvrage.
+On les painct co<span class="exp">mmun</span>ement à <span class="m">huile</span> pource que les couleurs<br/> à <span class="m">destrempe</span> n'ont point de tenue. Pour <span class="pa">fleur de soulcy</span>,<br/> le <span class="m">minium peu broyé</span> pour aulcuns, & pour d'aultres qui<br/> sont plus jaulnastres, un peu de <span class="m">massicot</span> parmy.<br/> Pour vert, le <span class="m">vert de gris</span> a fonds & est trop obscur.<br/> Si c'est un vert jaulnastre, tu peulx mesler avecq<br/> le <span class="m">verdegris</span>, un peu d'<span class="m">ocre jaulne</span> & de <span class="m">scudegrun</span>.<br/> Si le verd est obscur, mects parmy du <span class="m">charbon<br/> de noyau de <span class="pa">pescher</span></span>, qui faict un <span class="del">v</span> noir verdastre,<br/> co<span class="exp">mm</span>e le noir d'<span class="m">os de pied de <span class="al">bœuf</span></span> faict bleuastre.<br/> Et ainsy, par jugement & discretion, mects la couleur<br/> sur la <span class="m">fleur ou foeille naturelle</span> pour voyr<br/> si elle aproche bien. Mays couche la fort clere, pour ne<br/> couvrir pas les traicts de l'ouvrage.
  
  
   
@@ -55,4 +55,5 @@ Elle faict venir plus net, & encores qu'elles soict <span class="add">un peu</sp
 > 
 > 
 >   N'oublie jamays<br/> d'<span class="m">huiler</span> le gect de<br/> <span class="m">cire</span> quand tu moules<br/> des herbes ou<br/> fleurs, aultrem<span class="exp">ent</span><br/> il se rompt & ne<br/> se peult pas<br/> retirer.
+ 
  

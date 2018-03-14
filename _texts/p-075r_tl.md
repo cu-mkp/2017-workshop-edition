@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-075r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f155.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>075r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-075r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f155.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>075r</a> - - - - - </div>  
   
 
 ## Red <span class="m">gum</span>
@@ -58,4 +58,5 @@ animals: []
 
  
  Take <span class="m">fine gold</span> & put it on a quite clean <span class="del">bu</span> <span class="tl"><span class="m">marble</span></span> & put <span class="m">aqua fortis</span> & start crushing. Then take <span class="m">saltpetre</span> & <span class="m">sal ammoniac</span>, and put it into a <span class="tl">shell</span> which should be large & washed, to safeguard it.
+ 
  

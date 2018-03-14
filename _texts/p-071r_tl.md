@@ -19,7 +19,7 @@ environments: []
 animals: [goat, horses, horse, Irish]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-071r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f147.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>071r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-071r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f147.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>071r</a> - - - - - </div>  
   
 
 ## <span class="m">Amber</span>
@@ -63,4 +63,5 @@ In order to restore a harried <span class="al">horse</span>, they make it drink 
 
  
 The <span class="al">Irish</span> do not drink any <span class="m">wine</span> because they convert it into <span class="m">spirits</span>, which they use almost as habitually as we use <span class="m">wine</span>.
+ 
  

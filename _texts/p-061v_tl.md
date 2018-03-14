@@ -19,7 +19,7 @@ environments: []
 animals: [rat]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-061v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f128.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>061v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-061v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f128.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>061v</a> - - - - - </div>  
   
 
 ## <span class="m">Water</span> to give light for the <span class="pro">painter</span>
@@ -55,4 +55,5 @@ One needs too choose the most <span class="del">beautiful</span> delicate that w
 
  
 A slab of <span class="del">marble & p</span> <span class="m">glass</span> <span class="ms">a <span class="del"><span class="m">glass</span></span> <span class="bp">thumb</span> thick</span> is more appropriate than anything else for grinding colours neatly, especially for <span class="m">lake</span> & for whites.
+ 
  

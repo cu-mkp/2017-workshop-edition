@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-059r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f123.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>059r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-059r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f123.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>059r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -52,4 +52,5 @@ The first shadows which are closer to light need to be clear & thoroughly soften
 <span class="m">Azur d'esmail </span> <span class="del">imbibed in <span class="m">oil</span></span> distempered in <span class="m">oil</span>, leaves it & returns to its first nature if you dip it in <span class="m">water</span>.
  
 Colors for working in miniature want to be thoroughly ground, & work them with a point of a <span class="tl">pinceau</span> if you want your work to be well—softened.
+ 
  

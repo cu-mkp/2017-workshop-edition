@@ -19,13 +19,13 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-115v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f236.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>115v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-115v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f236.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>115v</a> - - - - - </div>  
   
 
 ## <span class="m">Tin</span> casting
 
  
-If the <span class="m">herbage</span> or <span class="m">flower</span> you want to cast is delicate and fine, <span class="m">tin</span> must exceed <span class="m">lead</span> in your mixture; on the contrary, if it the flower or herbage is thick, you must add into your mixture more <span class="m">lead</span> than <span class="m">tin</span>. For a fine thing<span class="m">,</span> add one part of <span class="m">tin</span> for four parts of <span class="m">lead</span>. Your mold must not be too hot, so you can hold it with your hand when you cast. Your alloyed <span class="m">tin</span> must be very hot and almost red for casting, and that way it will enter all the small parts of the mold. Otherwise, your tin will cool down before reaching the thin parts of your <span class="m">herbage</span>. Do not forget to mix a little <span class="m">bismuth</span> in your mixture; that way, your tin will run better and be firmer.
+If the <span class="m">herbage</span> or <span class="m">flower</span> you want to cast is delicate and fine, <span class="m">tin</span> must exceed <span class="m">lead</span> in your mixture; on the contrary, if it the flower or herbage is thick, you must add into your mixture more <span class="m">lead</span> than <span class="m">tin</span>. For a fine thing<span class="m">,</span> put to the <span class="m">tin</span> not quite the fourth part of <span class="m">lead</span>. Your mold must not be too hot, so you can hold it with your hand when you cast. Your alloyed <span class="m">tin</span> must be very hot and almost red for casting, and that way it will enter all the small parts of the mold. Otherwise, your tin will cool down before reaching the thin parts of your <span class="m">herbage</span>. Do not forget to mix a little <span class="m">bismuth</span> in your mixture; that way, your tin will run better and be firmer.
  
 > *at left top margin*
 > 
@@ -38,7 +38,7 @@ If the <span class="m">herbage</span> or <span class="m">flower</span> you want 
 ## Giving ventilation to your mold
 
  
-If your herbage is very fine, in addition to vents, you can drive a thread through the <span class="m">clay</span> contour of your herbage instead of casting with a needle, and thread it also in the herbage. The thread will burn, like the herbage, and the hole will remain, thus giving extra ventilation.
+If your herbage is very fine, in addition to vents, you can pass a thread through the <span class="m">clay</span> contour instead of casting with a needle, and ensure that it also passes through the herbage. As the thread burns like the herbage, the hole will remain, which will give air and wind to help clean.
  
 > *at left middle margin*
 > 
@@ -72,4 +72,5 @@ After your molds have their cast vents and clamps, fix the clamps as above menti
 >   If you want to cast <span class="m">silver</span>, do not anneal twice, and if something stays in the mold and that must be burnt because no good <span class="x">…</span>
  
 *[continued]*
+ 
  

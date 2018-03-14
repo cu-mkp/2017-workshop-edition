@@ -19,7 +19,7 @@ environments: []
 animals: [horses]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-018v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f42.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>018v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-018v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f42.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>018v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -37,4 +37,5 @@ animals: [horses]
  A faulconneau weighs 4 <span class="ms">quintal</span>s and is 10 <span class="ms">pan</span>s long. Its cannonball weighs a pound and a quarter, its load is half a pound of <span class="m">powder</span>. The breech is three cannonballs thick and the front two. To carry it, two <span class="al">horses</span>, altough these pieces are seldom moved since they are manly used to defend houses. The ones which are carried over for battery or a fight, or a siege, are culverines, medium—sized bastardes and pieces
  
 *[continued]*
+ 
  

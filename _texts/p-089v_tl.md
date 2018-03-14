@@ -19,7 +19,7 @@ environments: [cave, in the serain, in a damp place, in dampness, mine, town]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-089v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f184.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>089v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-089v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f184.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>089v</a> - - - - - </div>  
   
 
 ## <span class="m">Sal ammoniac</span> and <span class="m">alabaster</span>
@@ -39,4 +39,5 @@ animals: []
 
  
 There is found in <span class="pl">Cominge</span>, near the <span class="env">town</span> of <span class="pl">Aurignac</span>, a sand, white <span class="del">mai</span>, like <span class="m">salt</span>, and lean, that <span class="pro">glassmakers</span> & <span class="pro">potters</span> use, which renders impalpable crushed on <span class="tl"><span class="m">porphyry</span></span> & is easy to crush. And once crushed, it resembles <span class="m">calcined alabaster</span>. It molds very neatly, and I have not found any that molds as delicately as this one for low relief. It is excellent to mold en noyau without a frame, having crushed it impalpable with <span class="m">gummed or pure water</span> on <span class="tl"><span class="m">porphyry</span></span>, then placing it, thick as <span class="m">mustard</span> or a little more, on the medal, smeared with a <span class="m">oil either <span class="pa">olive</span>, <span class="pa">walnut</span>, even better <span class="pa">spike lavender</span></span>. But to do it better <span class="del">mo</span>, let it dry by itself, without fire, for one or two <span class="ms"><span class="tmp">days</span></span>. Although, if you are in a hurry, you can heat it well, & it will not crack, if it is not put on too lightly. It is true, being thus suddenly exposed to heat all at once, it makes some holes & bubbles, which it does not do when dried in the cold or at ease, rather than being reheated. Once dry, reheat it & it will withstand several casts. 
+ 
  

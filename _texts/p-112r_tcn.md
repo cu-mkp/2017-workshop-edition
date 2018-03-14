@@ -19,7 +19,7 @@ environments: [eau]
 animals: [grenoilles, serpents d’eau]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-112r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f229.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>112r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-112r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f229.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>112r</a> - - - - - </div>  
   
 
 ## Pour destremper le sable
@@ -50,7 +50,7 @@ Desja dicte.
 ## Pour mouler en noyau.<br/> Mixtion du sable
 
  
-Ayant recuict ton sable, sçavoir le <span class="m">plastre</span>, l’<span class="m">alum de plume</span> &<br/> la <span class="m">brique</span>, & les ayant bien subtilllement passés <span class="add">par le <span class="tl">tamis</span> #</span>, mesles les en<br/> ceste sorte. Prens quattre <span class="ms">parties</span> de <span class="m">plastre</span>, deulx de <span class="m">brique</span>,<br/> & une d’<span class="m">alum de plume</span>. Mesles les tous ensemble avecq les <span class="tl"><span class="bp">mains</span></span>,<br/> <span class="del">qu’il</span> de telle sorte qu’on ne puisse discerner l’ung d’avecq l’autre.<br/> Ton sable prest, il te faut faire mourir l’animal que tu veulx<br/> mouler <span class="del">de</span>en ceste maniere.
+Ayant recuict ton sable, sçavoir le <span class="m">plastre</span>, l’<span class="m">alum de plume</span> &<br/> la <span class="m">brique</span>, & les ayant bien subtilllement passés <span class="add">par le <span class="tl">tamis</span> #</span>, mesles les en<br/> ceste sorte, prens quattre <span class="ms">parties</span> de <span class="m">plastre</span>, deulx de <span class="m">brique</span>,<br/> & une d’<span class="m">alum de plume</span>. Mesles les tous ensemble avecq les <span class="tl"><span class="bp">mains</span></span>,<br/> <span class="del">qu’il</span> de telle sorte qu’on ne puisse discerner l’ung d’avecq l’autre.<br/> Ton sable prest, il te faut faire mourir l’animal que tu veulx<br/> mouler <span class="del">de</span>en ceste maniere.
  
 > *at left middle margin*
 > 
@@ -63,7 +63,7 @@ Ayant recuict ton sable, sçavoir le <span class="m">plastre</span>, l’<span c
 ## Fayre mourir l’animal à mouler
 
  
-Il fault que tu ayes esté curieulx de ne le blesser poinct en le<br/> prenant. Et l’ayant mis dans une <span class="tl">bouteille de <span class="m">verre</span></span> <span class="del">d</span> avecq du<br/> <span class="m">son</span> ou dans un <span class="tl">barrique</span> <span class="del">pleine</span> demy pleine de <span class="m">terre</span> fresche<br/> & humide, si tu en as provision ou que tu les veuilles garder long<br/> temps. Que tu leur donnes des <span class="al">grenoilles</span> vives & non mortes<br/> pour manger, car si tu les gardes sans qu’ils se paissent,<br/> ilz se flaitrissent & amaigrissent & ont de longues peaulx ridées.<br/> Ainsy pour le mieulx tu le mouleras le plustost <span class="del">apres</span> qu’il se sera<br/> possible <span class="del">apre</span> aprés qu’il aura esté prins. Mays plustost fais<br/> le mourir en ceste sorte. Mects le dans une <span class="tl">bouteille</span> ou <span class="tl">vaisseau</span><br/> nect, affin qu’il ne se charge d’aulcune poulsiere. Et mects dedans<br/> telle quantité de bon <span class="m">vinaigre</span> & d’<span class="m">urine</span> qu’il en puisse estre couvert.<br/> Et remue le & le tourmente là dedans jusque a ce qu’il soict<br/> mort, ce qui sera en une ou demye <span class="ms"><span class="tmp">heure</span></span>. Mays si tu est pressé
+Il fault que tu ayes esté curieulx de ne le blesser poinct en le<br/> prenant, et l’ayant mis dans une <span class="tl">bouteille de <span class="m">verre</span></span> <span class="del">d</span> avecq du<br/> <span class="m">son</span> ou dans un <span class="tl">barrique</span> <span class="del">pleine</span> demy pleine de <span class="m">terre</span> fresche<br/> & humide, si tu en as provision ou que tu les veuilles garder long<br/> temps, que tu leur donnes des <span class="al">grenoilles</span> vives & non mortes<br/> pour manger, car si tu les gardes sans qu’ils se paissent,<br/> ilz se flaitrissent & amaigrissent & ont de longues peaulx ridées.<br/> Ainsy pour le mieulx tu le mouleras le plustost <span class="del">apres</span> qu’il se sera<br/> possible <span class="del">apre</span> aprés qu’il aura esté prins. Mays plustost fais<br/> le mourir en ceste sorte. Mects le dans une <span class="tl">bouteille</span> ou <span class="tl">vaisseau</span><br/> nect, affin qu’il ne se charge d’aulcune poulsiere. Et mects dedans<br/> telle quantité de bon <span class="m">vinaigre</span> & d’<span class="m">urine</span> qu’il en puisse estre couvert.<br/> Et remue le & le tourmente là dedans jusque a ce qu’il soict<br/> mort, ce qui sera en une ou demye <span class="ms"><span class="tmp">heure</span></span>. Mays si tu est pressé
  
 > *at left bottom margin*
 > 
@@ -76,4 +76,5 @@ Il fault que tu ayes esté curieulx de ne le blesser poinct en le<br/> prenant. 
 >   Les <span class="al">serpents d’<span class="env">eau</span></span><br/> mordent gueres
  
 *[continued]*
+ 
  

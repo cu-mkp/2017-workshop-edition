@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-147v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f300.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>147v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-147v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f300.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>147v</a> - - - - - </div>  
   
 
 ## \+ Gect de <span class="m">cuivre</span> allié de <span class="m">☾</span><br/> qui est co<span class="exp">mm</span>e <span class="m">soubdure</span> fort basse / ard<span class="exp"><span class="ill"></span></span>es<br/> et <span class="m">vieulx K</span> et quelque <span class="m">R<span class="exp">osett</span>e</span> sur xii
@@ -59,4 +59,5 @@ J'ay prins de <span class="m">celuy de poilonnes de letton</span> qui sont battu
  Communem<span class="exp">ent</span>, le <span class="m">letton<br/> doulx de poelonne</span><br/> vient rouge du gect<br/> mesmem<span class="exp">ent</span> quand il<br/> est long temps au<br/> foeu, <span class="del">m</span> pource que la <span class="m">calamine</span> s'exhale.<br/> Mays le <span class="m">letton aigre de chandelier</span> vient jaulne & la <span class="m">limaille d'espingle</span>.
  
 *[continued]*
+ 
  

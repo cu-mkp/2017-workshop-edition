@@ -19,7 +19,8 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-119r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href=" http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f243.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>119r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-119r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f243.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>119r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -51,4 +52,5 @@ Comme j’ay veu qu’ilz ne fumoient plus & que, grattant le revers & <br/> l�
 Nota que le gect doit estre tanvre & peu espés affin de ne <br/> travailler point la matiere, et ne doit point passer l’<span class="ms">espesseur d’un <br/> travers d’un <span class="m">grain de <span class="pa">bled</span></span></span>, mesmement pour l’<span class="m">estain</span>, qui veult estre <br/> gecté fort tanvre. Pour le <span class="m">plomb</span>, un peu plus espés. Il n’est point besoing de fayre les souspirails fort larges & profonds aussy. 
  
 Pour <span class="tl">chassis</span>, le sable qui te sert à noyau de la composition susditte<br/> est excellent. Mays en le lavant, broyant & recuisant plusieurs fois, il<br/> le fault corrompre de son naturel & qu’il ne soit point propre à faire<br/> prise & mouler en noyau.
+ 
  

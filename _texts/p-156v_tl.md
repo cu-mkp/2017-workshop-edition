@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-156v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f318.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>156v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-156v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f318.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>156v</a> - - - - - </div>  
   
 
 ## Moulding a fly
@@ -58,4 +58,5 @@ For applications, tallow is too harsh, pork fat is too soft, and but is excellen
 > 
 > 
 >   If it happens that you have some defects with your fly's wings, hammer some very fine tin, or gold or silver, if you cast it, and shape with scissors the amount you need for your wings. And then apply it with tweezers and glue it with fish glue, applied like it is shown below. And before doing thing this heat your work lightly so that its coldness does not repel the glue, which will dry quickly, heating it from afar. Then cover lightly the joints of whatever you've attached to the cast with some esbaucher wax, which is a white wax that is mixed with a lot of ceruse or white lead, melting it with a warm iron point. You will also cut little bits of harpsicord string and will glue them with the aforementioned glue when they are dry. It is to know, the feet, having been reworked thusly, you will make them bigger with this same melted wax so that they are equal in proportion <span class="x">with the rest</span>.
+ 
  

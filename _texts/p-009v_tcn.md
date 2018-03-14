@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-009v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>009v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-009v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>009v</a> - - - - - </div>  
   
 
 ## <span class="pro">Painctre</span>
@@ -54,4 +54,5 @@ François du Cros doibt du iisuperscript e de septembre 1581, pour<br/> i canne 
 >   Mudat au livre<br/> de raisons à r.<br/> 55/
  
 François du Cros doibt du iisuperscript e de septembre 1581, pour<br/> marchandise que luy mesmes a prise, expeciffiée par le<br/> menu au livre de vantes n° 7, à r. 55, la somme de 8 livres,<br/> de laquelle led<span class="exp">ict</span> du Cros en a faict cedulle ledict jour, à<br/> payer à la feste de la S<span class="exp">ainc</span>t André prochainne, par ce dis —— 8 l.t. r. 
+ 
  

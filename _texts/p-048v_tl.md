@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-048v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f102.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>048v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-048v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f102.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>048v</a> - - - - - </div>  
   
 
 ## Regulus extracts
@@ -41,4 +41,5 @@ They become brittle having been put back to melt, often or for a long time, and 
 > 
 > 
 >   To alloy well <span class="m">tin</span> & <span class="m">lead</span>, one needs to melt one by itself, and then mix in the other, small pieces at a time, and throw it often on the <span class="tl"><span class="m">marble</span></span> or the <span class="tl"><span class="m">square tile</span></span>. And when you will see it become well even <span class="del">like</span> & shiny as if it were burnished, it is good. Because sometimes it becomes spotted due to too much <span class="m">lead</span> & sometimes due to too much <span class="m">tin</span>. There is some <span class="m">tin</span> that has more <span class="m">lead</span> than others. <span class="m">Common tin</span> is the one that is mixed with <span class="m">lead</span>.
+ 
  

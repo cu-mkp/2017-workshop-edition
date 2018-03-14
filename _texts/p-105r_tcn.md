@@ -14,12 +14,12 @@ measurements: []
 bodyparts: []
 places: []
 plants: [abre]
-professions: []
+professions: [Painctre]
 environments: []
 animals: [Tortues]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-105r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f215.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>105r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-105r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f215.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>105r</a> - - - - - </div>  
   
 
 ## <span class="al">Tortues</span>
@@ -38,10 +38,10 @@ Le <span class="m">noir à noircir</span> & aultres ne secheroient pas à <span 
  
   
 
-## Painctre
+## <span class="pro">Painctre</span>
 
  
-Les couleurs deulx foys posées sont d'elles mesmes plus<br/> grossieres si elles ne sont conduictes. Aultrem<span class="exp">ent</span> on paint<br/> sur le <span class="m">bois</span>, aultrem<span class="exp">ent</span> sur la <span class="m">toile</span>, autrem<span class="exp">ent</span> sur la muraille.
+Les couleurs deulx foys posées sont d'elles mesmes plus<br/> grossieres si elles ne sont conduictes. Aultrem<span class="exp">ent</span>, on paint<br/> sur le <span class="m">bois</span>, aultrem<span class="exp">ent</span> sur la <span class="m">toile</span>, autrem<span class="exp">ent</span> sur la muraille.
  
  
   
@@ -59,4 +59,5 @@ Pour hanter en escusson, il fault prendre de la nouvelle mise<br/> que l'<span c
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5UWpzdGVweGVvQTg" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
 *[continued]*
+ 
  

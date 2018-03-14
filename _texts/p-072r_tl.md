@@ -19,7 +19,7 @@ environments: []
 animals: [horse]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-072r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f149.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>072r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-072r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f149.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>072r</a> - - - - - </div>  
   
 
 ## <span class="pro">Printers</span>’ letters
@@ -40,3 +40,4 @@ It is necessary that the <span class="tl">box mold</span> be well smooth & that 
 > 
 >   One believes it to be a great secret to add in it <span class="m"><span class="pa">persicaire</span></span>, which renders them soft as <span class="m">lead</span>.Try to extract <span class="m">salts</span> from it.
 
+ 

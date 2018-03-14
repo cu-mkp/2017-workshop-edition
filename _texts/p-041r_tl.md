@@ -19,7 +19,7 @@ environments: [in nature]
 animals: [horse, ox, Ducks]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-041r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>041r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-041r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>041r</a> - - - - - </div>  
   
 
 ## <span class="m">Earth for casting, for <span class="pro">founders</span></span>
@@ -56,3 +56,4 @@ The sand chosen <span class="del">cast</span> for casting should be neither so l
  
 Young domestic ones do not grow for a month after hatching but remain in this state. But after, they soon grow up, even if they go into the water. They are fed boiled <span class="m">millet grains</span>, to which are added crumbled <span class="m">bread</span> and finely chopped <span class="m">lettuce</span>.
 
+ 

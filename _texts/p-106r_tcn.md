@@ -19,7 +19,7 @@ environments: []
 animals: [serpens, lesards]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-106r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f217.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>106r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-106r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f217.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>106r</a> - - - - - </div>  
   
 
 ## Pour gect
@@ -43,7 +43,7 @@ L'<span class="m">eau de sel armoniac</span> est tres bonne, est excellente pour
  
 La loppe de <span class="m">fer</span>, en default de <span class="m">crocum ferri</span>, est <span class="del">exce</span> bonne pour l'<span class="m">or</span>.
  
-Les <span class="al">serpens</span> ou <span class="al">lesards</span> que tu veulx mouler ne doibvent pas<br/> estre long temps gardés, car s'ils sont vifs ilz se maigrisent,<br/> et s'ils sont <span class="del">secs il</span> morts ilz se flestrissent.
+Les <span class="al">serpens</span> ou <span class="al">lesards</span> que tu veulx mouler ne doibvent pas<br/> estre <span class="tmp">long temps</span> gardés, car s'ils sont vifs ilz se maigrisent,<br/> et s'ils sont <span class="del">secs il</span> morts ilz se flestrissent.
  
 Le <span class="m">plastre de <span class="pl">Paris</span></span> est ferme co<span class="exp">mm</span>e une <span class="m">pierre</span> & fort bon.<br/> Quand tu le vouldras choisir pour ton sable, prens le cru, le plus dur<br/> qu'il te sera possible & qui ne face point de pouldre. Le transparent<br/> et celuy qui faict ainsy pouldre se retire, <span class="del">Ce</span> ce qui n'est pas bon pour<br/> cet oeuvre. Un signe de celuy qui aproche de la perfection est qu'il soict<br/> dur & faict à grains luisants aprochant de la forme du <span class="m">sucre</span>. Enfin,<br/> pour en mesler parmy le sable pour gecter l'<span class="m">or</span>, il fault qu'il endure le foeu<br/> deulx fois & deulx foix soict recuit.
  
@@ -51,4 +51,5 @@ Le <span class="m">plastre de <span class="pl">Paris</span></span> est ferme co<
 > 
 > 
 >   \+<br/> Quand l'<span class="m">or</span><br/> est fort fin,<br/> il est si sec<br/> qu'à peine<br/> peult il<br/> endurer le<br/> <span class="tl">marteau</span>,<br/> mays ceste<br/> mixtion<br/> l'adoulcist<br/> comme<br/> <span class="m">plomb</span>. 
+ 
  

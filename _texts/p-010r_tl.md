@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-010r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>010r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-010r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>010r</a> - - - - - </div>  
   
 
 ## <span class="m">Counterfeit jasper</span>
@@ -70,4 +70,5 @@ These are counterfeited either with the scrapings of <span class="del"><span cla
 
  
 It is made very subtle & not subject to rust &by its weight able to flow. Taking i <span class="ms">lb</span> of <span class="m">lead</span>, melt it and skim and purify it from its filth, then pour into it four ℥ of finely pulverized <span class="m">common salt</span>, and take good care that it has no <span class="m">stones</span> nor earth. And immediately after you have poured it, mix continuously very well with an <span class="m">iron</span> <span class="sup">tool</span> until the <span class="m">lead</span> and <span class="m">salt</span> are well incorporated, and take it immediately from the fire, stirring continuously. And if it seems too coarse, grind it on the <span class="tl"><span class="m">marble</span></span> and pass it through a fine <span class="tl">sieve</span>, then wash it as many as times as necessary until the <span class="m">water</span> becomes clear, throwing out the fine powder that will float on it, renewing the <span class="m">water</span> as many times as necessary until it is all even.
+ 
  

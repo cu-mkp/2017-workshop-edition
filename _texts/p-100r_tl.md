@@ -8,18 +8,18 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [or sur mat, canvas, oil panel, walnut oil, lead, ceruse, massicot, mine, verdet, orpiment, gold, Gemstones, glass, mastic, wooden, Glass, saltpeter, pebbles, coals, alkali salt]
-tools: [mortar, pestle, table, paddle, oven]
+materials: [or sur mat, canvas, oil panel, walnut oil, lead, ceruse, massicot, mine, verdet, orpiment, gold, Gemstones, glass, mastic, wooden, Glass, saltpeter, pebbles, calcined saltpeter, alkali salt]
+tools: [mortar, pestle, table, paddle, oven, glowing coals]
 measurements: []
 bodyparts: [hands]
 places: []
 plants: [walnut]
 professions: [perfumers]
-environments: [in the sun, on the fire, weather is not clear & dry, weather is damp & humid]
+environments: [in the sun, on the fire, weather is not clear & dry, weather is damp & humid, sun, humid air or place]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-100r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f205.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>100r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-100r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f205.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>100r</a> - - - - - </div>  
   
 
 ## Gold color
@@ -63,13 +63,14 @@ One needs to pound your materials in a thick <span class="m">glass</span> <span 
  
   
 
-## Windows through which the sun will not pass
+## Windows through which the <span class="env">sun</span> will not pass
 
  
-Take the aforementioned calcined <span class="m">saltpeter</span> & expose it to a humid air or place, and it will convert itself into a liquid which, if rubbed on both sides of the windows, the sun will not pass through; rather, it will cast shade. One needs to put the <span class="m">saltpeter</span> on any clean place, & put glowing <span class="m">coals</span> on it, and continue all over until it no longer burns.
+Take the aforementioned <span class="m">calcined saltpeter</span> & expose it to a <span class="env">humid air or place</span>, and it will convert itself into a liquid which, if rubbed <span class="add">on both sides</span> of the windows, the <span class="env">sun</span> will not pass through; rather, it will give shade. One needs to put the <span class="m">saltpeter</span> on some clean <span class="del">thing</span> <span class="add">place</span>, & <span class="del">it</span> put <span class="tl">glowing coals</span> on it, and continue all over until it no longer burns.
  
 > *at left bottom margin*
 > 
 > 
->   It also serves for melting &for adding in with <span class="m">alkali salt</span> for cleaning <span class="bp">hands</span>.
+>   It also serves for melting & for adding in with <span class="m">alkali salt</span> for cleaning <span class="bp">hands</span>.
+ 
  

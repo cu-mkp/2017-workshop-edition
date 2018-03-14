@@ -19,7 +19,7 @@ environments: [damp place, aerated place, wind]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-083v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f172.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>083v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-083v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f172.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>083v</a> - - - - - </div>  
   
 
 ## A way for molding excellently with <span class="m">water</span>
@@ -55,4 +55,5 @@ Do not knock it when molding because this will shake loose the <span class="tl">
 
  
 To melt with <span class="tl">bellows</span>, & hasten your fonte, & also cast hotter <span class="del">po</span>, do not place your <span class="tl">bellows</span> at the bottom near the foot of the <span class="tl">furnace</span>, for fear that some <span class="m">charcoal </span>might <span class="del">you</span> enters it, put them almost under the <span class="tl">grille</span>. It is good that your <span class="tl">bellow furnace</span> be in an <span class="env">aerated place</span> so that the <span class="env">wind</span> might make it heat better, & that it be well dry & and reheat. One ought to plug the doors of the <span class="tl">furnace</span> & that there is only entry of the tuelle of the <span class="tl">bellows</span>. And by the end, one ought to give it a good stoking, since at the beginning you will blow gently.
+ 
  

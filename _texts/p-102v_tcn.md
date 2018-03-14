@@ -8,7 +8,7 @@ author:
 mode: tcn
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [cristal, verre, huile, carnation, azur d'Acre, laque, sang de dragon, topasse, or, argent, anthos, rosmarin, vin, eau, vin blanc, estain, estaing, souldre]
+materials: [cristal, verre, huile, azur d'Acre, laque pour rouge plus tost faict, sang de dragon, foeille de topasse ou une d'or, topasse, or, ou d'argent, argent, anthos, rosmarin, vin, eau, vin blanc, estain, estaing, souldre]
 tools: []
 measurements: []
 bodyparts: []
@@ -19,13 +19,13 @@ environments: []
 animals: [dragon]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-102v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f210.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>102v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-102v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f210.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>102v</a> - - - - - </div>  
   
 
 ## Paindre sur <span class="m">cristal</span> ou <span class="m">verre</span>
 
  
-Ils peignent sans traicts à <span class="m">huile</span> si ce n'est aulx visaiges,<br/> ou ilz marquent le nez & la bouche en petit ouvraige avecq du<br/> noir, puys ilz font les touches & rehaulsements de blanc,<br/> aprés ilz couchent tout de <span class="m">carnation</span>. Et quand aul fonds, ilz<br/> le font d'<span class="m">azur d'<span class="pl">Acre</span></span> pour plus beau, ou de <span class="m">laque</span> pour rouge<br/> plus tost faict, ou de <span class="m">sang de <span class="al">dragon</span></span> pour le plus beau.<br/> Mays il le fault coucher peu à peu affin qu'il se monstre uny<br/> & tout d'une couleur, & ainsy des aultres couleurs. Aprés<br/> ilz mectent dessoubs une foeille de <span class="m">topasse</span> ou une d'<span class="m">or</span><br/> ou d'<span class="m">argent</span>
+Ils peignent sans traicts à <span class="m">huile</span> si ce n'est aulx visaiges,<br/> ou ilz marquent le nez & la bouche en petit ouvraige avecq du<br/> noir, puys ilz font les touches & rehaulsements de blanc,<br/> aprés ilz couchent tout de carnation. Et quand aul fonds, ilz<br/> le font d'<span class="m">azur d'<span class="pl">Acre</span></span> pour plus beau, ou de <span class="m">laque pour rouge<br/> plus tost faict</span>, ou de <span class="m">sang de <span class="al">dragon</span></span> pour le plus beau.<br/> Mays il le fault coucher peu à peu affin qu'il se monstre uny<br/> & tout d'une couleur, & ainsy des aultres couleurs. Aprés<br/> ilz mectent dessoubs une <span class="m">foeille de <span class="m">topasse</span> ou une d'<span class="m">or</span><br/></span> <span class="m">ou d'<span class="m">argent</span></span>
  
  
   
@@ -44,5 +44,6 @@ Au mois d'aougst la fleur est mieulx cuicte & plus propre<br/> à fayre <span cl
 L'<span class="m">estain</span> vient mieulx estant tanvre & subtil qu'espés,<br/> pource que estant espés & en grand chaleur, il se ressere.<br/> Doncq si tu veulx mouler en <span class="m">estaing</span> quelque piece espece,<br/> moule la seulem<span class="exp">ent</span> dun costé & cave d'un costé s'il est possible,<br/> en ceste sorte tu l'auras plus nette, et puys tu pourras<br/> <span class="m">souldre</span> deulx moictiés ensemble. Mays si tu es contrainct<br/> de le mouler espés, fais en la forme & moule force<br/> abrevouers aultour de la figure en ceste sorte. 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5SjZwV0ZHdW93ZEk" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ 
  
  

@@ -19,7 +19,7 @@ environments: []
 animals: [tortue]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-150v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f306.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>150v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-150v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f306.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>150v</a> - - - - - </div>  
   
 
 ## Mouler creux
@@ -64,4 +64,5 @@ Ceste <span class="tl">poincte de <span class="m">fil de fer</span></span>, qui 
 >  X Note qu’aprés que ton<br/> noyau est gecté, il est<br/> mieulx de mectre ton <span class="tl">moule</span><br/> dans l’<span class="m">eau chaulde</span> pour l’ouvrir, affin d’oster le plus de <span class="m">cire</span> que tu pourras, tousjours la<br/> remoll<span class="del">a</span>issant dans l’<span class="m">eau chaulde</span>. Car le moings de <span class="m">cire</span> qu’il y pourra demeurer c’est le mieulx, <br/> affin qu’en rebouillant dans le <span class="tl">moule</span> en grande qua<span class="exp">n</span>tité quand tu le recuits, il ne s’y face des <br/> pustules ou grumeleures. Et puys, s’il n’y ha gueres de <span class="m">cire</span>, il ne te le fauldra pas tant recuire.<br/> En ouvrant le <span class="tl">moule</span>, le gect se rompra. Mays il se peult reparer aysement, encores que tu ne gectes. A 
  
 *[continued]*
+ 
  

@@ -8,24 +8,24 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [carton, silvered, paper, lantern horn, lead, tin, chalk, crushed glass, tripoli, burnt linen, the Champagne one that painters use, magistra, powdered chalk, Crushed glass, common glass sand, however cristallin, common glass, glass, salt of saltwort, cristallin, salt of tartar, saltwort, charcoals, water, Putty, metals]
-tools: [box mold]
+materials: [simple carton, silvered & burnished paper, very clear lantern horn, lead, tin, chalk, crushed glass, tripoli, burnt linen, the Champagne one that painters use, magistra, powdered chalk, Crushed glass, common glass sand, however cristallin, common glass, glass, salt of saltwort, cristallin, salt of tartar, saltwort, charcoals, water, Putty, metals]
+tools: [burnished, box mold]
 measurements: []
 bodyparts: []
 places: [Champagne]
-plants: [trees, Trees]
+plants: [trees]
 professions: [painters]
-environments: []
+environments: [dry place, dry weather, rains]
 animals: [fishes]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-068r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f141.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>068r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-068r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f141.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>068r</a> - - - - - </div>  
   
 
 ## Fanciful tables
 
  
-You can make various grooved compartments & on these, paint <span class="al">fishes</span> naturally & with color on simple <span class="m">carton</span> & if you wish, on <span class="m">silvered</span> and burnished <span class="m">paper</span> to represent the scales. And next, cover them with very clear <span class="m">lantern horn</span>. You can apply the very same to other works.
+You can make various grooved compartments & on these, paint <span class="al">fishes</span> naturally & with color on <span class="m">simple carton</span> & if you wish, on <span class="m">silvered & <span class="tl">burnished</span> paper</span> to represent the scales. And next, cover them with <span class="m">very clear lantern horn</span>. You can apply the very same to other works.
  
  
   
@@ -33,7 +33,7 @@ You can make various grooved compartments & on these, paint <span class="al">fis
 ## Planting <span class="pa">trees</span>
 
  
- <span class="pa">Trees</span> need to be planted in dry weather, & a lot of earth gathered all around their feet, like a mound, so that the rain won't fill the holes & drown the <span class="pa">trees</span>.
+ One needs to plant them in a <span class="del"><span class="env">dry place</span></span> <span class="env">dry weather</span>, & plenty of earth gathered at the foot all around, like a mound, so that the <span class="env">rains</span> do not fill the holes & drown the <span class="pa">trees</span>.
  
  
   
@@ -49,4 +49,5 @@ I have tried four kinds of sand for <span class="m">lead</span> & <span class="m
 >   <span class="m">Putty</span> is considered excellent for these two <span class="m">metals</span>.
  
 *[continued]*
+ 
  

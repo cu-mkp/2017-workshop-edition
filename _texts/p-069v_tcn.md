@@ -19,7 +19,7 @@ environments: [pres de mon sol]
 animals: [bœuf]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-069v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f144.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>069v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-069v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f144.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>069v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -45,4 +45,5 @@ Les <span class="pro">fondeurs</span> gectent bien chassis jusques à 30 ou 40<b
 >   Il est bon pour gra<span class="exp">n</span>d<br/> ouvrage, mays pour<br/> petit il est malaisé<br/> à despouiller <span class="del">Il</span> à<br/> cause qu'il s'esmie.<br/> Il est bon qu'il soit<br/> un peu allié de quelque<br/> chose grasse qui aye<br/> lyaison co<span class="exp">mm</span>e <span class="m">tripoly<br/> moulée</span>, ou <span class="del">ab</span> <span class="m">feultre<br/> bruslé</span>, ou <span class="m">sel armoniac</span>,<br/> ou <span class="m">tripoly</span> & semblables.
  
 *[continued]*
+ 
  

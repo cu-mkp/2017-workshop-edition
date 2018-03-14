@@ -19,7 +19,7 @@ environments: []
 animals: [snakes, lizards, animals, viper]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-164r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f333.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>164r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-164r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f333.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>164r</a> - - - - - </div>  
   
 
 ## Casting
@@ -50,4 +50,5 @@ animals: [snakes, lizards, animals, viper]
 
  
  When you smelt <span class="m">silver</span> and <span class="m">gold</span> do not blow too hard or with force, because the <span class="m">charcoal</span> will become spent and the crucible will sink and, potentially, spill over. But when your mold is ready, blow strongly in order to properly heat the <span class="m">silver</span> or <span class="m">gold</span>. When all are melted it is necessary to blow over the top with a small bellows, doing the same for <span class="m">gold</span>, for it removes and reduces the smoke.
+ 
  

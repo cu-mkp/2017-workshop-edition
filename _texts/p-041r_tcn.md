@@ -19,7 +19,7 @@ environments: [naturel]
 animals: [cheval, boeuf, Canards]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-041r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>041r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-041r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>041r</a> - - - - - </div>  
   
 
 ## <span class="m">Terre de gect pour les <span class="pro">fondeurs</span></span>
@@ -56,3 +56,4 @@ Le sable doibt estre <span class="del">jecté</span> pour gecter choisi, non pas
  
 Les domestiques petits ne croissent d'un moys aprés qu'ilz sont<br/> esclos, ains demeurent en cest estat. Mays aprés ilz croissent bientost,<br/> mesmem<span class="exp">ent</span> s'ilz vont dans l'eau, on les nourrist avecq du <span class="m">grain de mil</span><br/> bouilly leur esmiant parmy du <span class="m">pain</span> et y espandant des <span class="m">laictues</span><br/> fort hachées
 .
+ 

@@ -19,7 +19,7 @@ environments: [vineyard, vineyard that is high up]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-087r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f179.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>087r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-087r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f179.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>087r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -44,4 +44,5 @@ To cast their canons neatly, they mix their <span class="m">earth</span> with so
 
  
 The usual <span class="del">bo</span> good one is <span class="m">the one which is found in a <span class="env">vineyard</span> near <span class="pl">Puy David</span></span>, but the one which is most excellent is <span class="m">the one is from <span class="pl">Touch</span>, near <span class="pl">Sainct Michel</span> & near <span class="pl">Blagnac</span>, in a <span class="env">vineyard that is high up</span></span>. The latter is thinner, & a little fatter than the other, & better for small works. It does not want to be too reheated.
+ 
  

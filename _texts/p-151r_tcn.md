@@ -19,7 +19,7 @@ environments: []
 animals: [tortues]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-151r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f307.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>151r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-151r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f307.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>151r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -39,4 +39,5 @@ la <span class="m">cire blanche</span> de quoy tu as composé ta <span class="m"
 >  A<br/> qu’en <span class="m">plomb</span> ou<br/> <span class="m">estain</span>. Il fault<br/> touteffois rougir<br/> presque aultant le<br/> <span class="tl">moule</span>, co<span class="exp">mm</span>e s’il y avoit<br/> dedans quelque<br/> animal à brusler,<br/> affin que la <span class="m">cire</span> se fonde bien & ne laisse rien dedans & s’escoule toute, tena<span class="exp">n</span>t le <span class="tl">moule</span> panché vers<br/> le gect en le recuisant. Et co<span class="exp">mm</span>e le <span class="tl">moule</span> sera recuit, laisse le refroidir doulcem<span class="exp">ent</span> puys soufle dedans<br/> et attire vers toy en supant affin que la <span class="m">cendre de la cire</span> sorte. Fais cela avecq un <span class="tl">souflet</span>.
  
 *[continued]*
+ 
  

@@ -19,7 +19,7 @@ environments: [eau, garrigue, en terre, soubs de la balle de bled ou fumier chau
 animals: [tortues, tortue d'eau, celle de garrigue, serpents, Celles d'eau, Celles de garrigue, celles d'eau, Crapault]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-143r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f291.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>143r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-143r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f291.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>143r</a> - - - - - </div>  
   
 
 ## Mouler <span class="al">tortues</span>
@@ -67,4 +67,5 @@ Estant moulé, il se peult oster sans le brusler, pource<br/> qu'il est bien de 
  Laisse<br/> refroidir le<br/> <span class="tl">moule</span> plustost<br/> que l'ouvrir,<br/> mesmem<span class="exp">ent</span> aulx<br/> choses espesses.
  
 *[continued]*
+ 
  

@@ -19,7 +19,7 @@ environments: [in the sun]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-003v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f12.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>003v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-003v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f12.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>003v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -47,4 +47,5 @@ This <span class="tl">vessel</span> is used to make large quantities of <span cl
 
  
 <span class="m">Turpentine varnish</span> does not need any <span class="m">glue</span> because it is fat and viscous and it is not absorbed in the <span class="m">wood</span> like that of <span class="m">spike lavender</span> and <span class="m">sandarac</span>. Also, that of<span class="m">spike lavender</span> does not require any <span class="m">glue</span> on <span class="m">iron</span> & similar materials that do not absorb, but on <span class="m">wood</span> and on colors which <span class="del">have</span> <span class="add">do not have</span> <span class="m">gum</span> or <span class="m">colle de destrempe</span>, it is necessary to lay one coat of the said <span class="m"> colle de retailles</span> & to let it dry & to varnish.
+ 
  

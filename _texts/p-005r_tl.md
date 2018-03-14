@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-005r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>005r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-005r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>005r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -31,7 +31,7 @@ or <span class="m"><span class="pa">linen</span></span> & leave it thus for xx4 
 ## <span class="m">Steel</span> mirrors
 
  
-\+They are called <span class="m">steel</span> <span class="sup">mirrors</span> because in the past they were usually made of <span class="m">steel</span> polished with <span class="m">emery paste</span>. But more easily, various kinds are made of <span class="m">cuivre franc</span>, which is <span class="m">rosette</span> and <span class="m">tin</span>, because these can be cast in a mold and made round, hollow, convex or in whatever various shapes you want to represent.
+\+They are called <span class="m">steel</span> <span class="sup">mirrors</span> because in the past they were usually made of <span class="m">steel</span> polished with <span class="m">emery paste</span>. But more easily, various kinds are made of <span class="m">cuivre franc</span>, which is <span class="m">rosette</span> and <span class="m">tin</span>, because these can be cast in a mold and made round, concave, convex or in whatever various shapes you want to represent.
  
 So take half <span class="m">copper de rosette</span> and half soft <span class="m">tin</span>, i.e. fine and yet unused. Place them in a crucible, and first melt the <span class="m">copper</span>. Once it has been well melted, add the <span class="m">tin</span> and mix them together and cast that in a <span class="m">white stone</span> mold with no hole, and grease the mold, which should be moderately warm, with <span class="m">oil</span>. Then, once your mirror has been molded, you can polish it in this manner.
  
@@ -46,4 +46,5 @@ Set one <span class="sup">mirror</span> in <span class="m">plaster</span> to hol
 A concave mirror shaped in the aforesaid form produces an endless number of illusions which seem like magic. If one wants to see oneself from behind, you have to place the concave mirror on the ground on its foot, at a slant, and then look at it one step further. But if you look at it from a closer position, it shows you the right way up but with the face quite large and the hairs of your beard as thick as
  
 *[continued]*
+ 
  

@@ -19,7 +19,7 @@ environments: [in the cellar or other damp place]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-076v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f158.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>076v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-076v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f158.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>076v</a> - - - - - </div>  
   
 
 ## For making very beautiful gold color & of little expense
@@ -50,4 +50,5 @@ One needs to take <span class="m">white wax</span> with <span class="m">ceruse</
 
  
 First it is necessary to wash whatever one wants to gild in wine lees, and then wash it once again with white wine. Take three ounces of terra merita and one choppine of white wine. Boil the matter for half an hour, and apply your colors over your iron or tin, or whatever else. Then leave to dry on a sheet of paper and do not put your hand in your materials.
+ 
  

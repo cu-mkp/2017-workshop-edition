@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-019r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f43.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>019r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-019r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f43.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>019r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -47,5 +47,6 @@ animals: []
  Arquebus à croc weighs 60 pounds, the bigger one is five <span class="ms">panel</span>s long, it is loaded up to the touch line, which is 4 cannonballs thick; it is loaded with <span class="m">lead</span> cannonballs, and is for house's defence. These great and small arquebuses are used for to make orgues, appropriate for an assault outside and inside.They are casted separately in order to be used in various ways. See the 4th leaf marked. 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5WWY3VjdlVktqZVk" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ 
  
  

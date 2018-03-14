@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-145v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f296.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>145v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-145v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f296.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>145v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -31,7 +31,7 @@ But with fingers you cannot press evenly, because if you press on the edges, the
 ## Moulding herbs and flowers
 
  
-You do not need thin sheets of <span class="m">clay</span>, because the herbs and flowers will not lay on it, but as it were in the air, not touching any thing from any side, so you only have need of a circle & contour that is higher than for flat molds. And in this way, take heed to make it strong and thick, with the heft that you find suitable. Otherwise, it will sink in when the sand is inside. Fix & fortify it well with your foot & firmly attach all the joints. Then, have your flower well attached & assuredly fixed to the bottom of the casting with <span class="m">wax</span> that is not at all rough, but smooth, so that it can strip off well. Then moisten your flower or herb in good <span class="m">spirits</span> in a tall glass.
+You do not need thin sheets of <span class="m">clay</span>, because the herbs and flowers will not lay on it, but as it were in the air, not touching anything from any side, so you only have need of a circle & contour that is higher than for flat molds. And in this way, take heed to make it strong and thick, with the heft that you find suitable. Otherwise, it will sink in when the sand is inside. Fix & fortify it well with your foot & firmly attach all the joints. Then, have your flower well attached & assuredly fixed to the bottom of the casting with <span class="m">wax</span> that is not at all rough, but smooth, so that it can strip off well. Then moisten your flower or herb in good <span class="m">spirits</span> in a tall glass.
  
  
 > *at left top margin*
@@ -51,7 +51,7 @@ You do not need thin sheets of <span class="m">clay</span>, because the herbs an
 > *at left bottom margin*
 > 
 > 
->  It's enough to reheat your clayed mold once for flowers & to heat it the second time if you cast in <span class="m">tin</span> & <span class="m">lead</span>, insomuch as for <span class="m">gold</span> & <span class="m">silver</span>, you have to reheat it twice.
+>  It's enough to reheat your clayed mold once for flowers & to heat it the second time if you cast in <span class="m">tin</span> & <span class="m">lead</span>, in so much as for <span class="m">gold</span> & <span class="m">silver</span>, you have to reheat it twice.
  
 > *at bottom margin*
 > 
@@ -59,4 +59,5 @@ You do not need thin sheets of <span class="m">clay</span>, because the herbs an
 >  When very red, cast your tin into the mold when it is so hot that you can<span class="x">not?</span> hold your finger in the hole without <span class="ill"></span>.
  
 *[continued]*
+ 
  

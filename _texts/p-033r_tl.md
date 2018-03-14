@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-033r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f71.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>033r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-033r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f71.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>033r</a> - - - - - </div>  
   
 
 ## Knife to cut a nose or a finger
@@ -46,4 +46,5 @@ This is a well—furbished knife, assembled with a nail in the middle so that it
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5SFNtME0xWURubzA" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
 Take a twig of well dried <span class="m">wicker</span> and cut a small piece like a toothpick, and put one of its ends between your index and middle fingers and clasp both your hands together, fingers well joined, and move them deftly around the lit candle as if you wanted to cover it, and your <span class="m">wicker</span> will light. And instantly remove your hands thus clasped, and instantly put out the candle. And then put your hands around it again as if you wanted to cover it, together with your little light from the glowing <span class="m">wicker</span>. By means of the smoke that you are holding in your two palms, the candle will light. And then instantly extinguish your <span class="m">wicker</span> and secretly discard it.
+ 
  

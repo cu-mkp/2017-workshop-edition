@@ -19,7 +19,7 @@ environments: []
 animals: [oiseau, serpent, serpens]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-117v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f240.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>117v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-117v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f240.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>117v</a> - - - - - </div>  
   
 
 ## Pour faire sortir la <span class="m">cendre</span><br/> des <span class="tl">moules</span> des fleurs et herbes
@@ -73,4 +73,5 @@ Frottes les d’<span class="m">huile</span> avec un <span class="tl">pinceau</s
 
  
 S’il te faut couper quelque <span class="al">serpent</span> dans le <span class="tl">moule</span> pour le brusler,<br/> coupe le loing de l’entrée du <span class="tl">moule</span> affin qu’il n’y demeure point<br/> de <span class="m">sang</span>, car il feroit crouste qui aprés ne s’osteroit point par le<br/> mesme <span class="m">vif argent</span> & osteroit les impressions de ton <span class="tl">moule</span>.
+ 
  

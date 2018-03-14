@@ -19,7 +19,7 @@ environments: [cave, lieu humide]
 animals: [cheval]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-083r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f171.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>083r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-083r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f171.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>083r</a> - - - - - </div>  
   
 
 ## Sable @ pour le <span class="m">plomb</span>
@@ -81,4 +81,5 @@ R<span class="exp">ecipe</span> <span class="del">p</span> <span class="m">tuile
 
  
 <span class="m">Albastre calciné</span> dans un <span class="tl">crusol</span> à foeu de <span class="m">charbon</span> tant qu'en le<br/> touchant il vienne en pouldre. Esta<span class="exp">n</span>t froit, pulverisés le subtilem<span class="exp">ent</span>,<br/> & passés par un <span class="tl">double tamis</span>, & le rendés co<span class="exp">mm</span>e impalpable. Et <span class="del">d</span> avecq<br/> une <span class="ms">lb</span> de <span class="m">albastre</span>, il fault une <span class="ms">℥</span> de <span class="m">sel armoniac</span>. Meslés bien<br/> & incorporés tout ensemble, puys le mettés dans une <span class="del"><span class="env">cave</span></span> <span class="env">cave</span> ou<br/> <span class="env">lieu humide</span>. Et de ceste paste moullés ce qu'il vous fauldra, & aprés<br/> seichés le <span class="tl">moule</span> au foeu, & y gectés tel <span class="m">metal</span> qu'il vous plaira,<br/> pendant que le sable est chault. Et vous gecterés aussy net que le principal;<br/> & le sable sert tousjours, le mectant en <span class="env">lieu humide</span> & seichant au foeu.
+ 
  

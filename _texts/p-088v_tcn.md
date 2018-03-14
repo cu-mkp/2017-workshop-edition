@@ -19,7 +19,7 @@ environments: [mine, cave, à l'humide, pierriere, roche, nature]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-088v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f182.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>088v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-088v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f182.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>088v</a> - - - - - </div>  
   
 
 ## <span class="m">Sable de sel gemme pulverisé</span><br/> et <span class="m">sable de <span class="env">mine</span></span> subtilié sur le <span class="tl"><span class="m">mabre</span></span>
@@ -41,4 +41,5 @@ Que toutesfoys il soict <span class="sn">frangible entre les <span class="tl"><s
 > 
 > 
 >   Le <span class="m"><span class="pa">bled</span> orbere</span> faict<br/> une pouldre tanée, fort<br/> subtile & fort doulce,<br/> qui estant meslée<br/> pourroit <span class="del">mesler</span> mouler<br/> fort net. Essaye<br/> <span class="m"><span class="pa">bled</span> en farine</span><br/> bruslé à feu<br/> clos.
+ 
  

@@ -19,7 +19,7 @@ environments: [humidité, temps obscur]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-031v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f68.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>031v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-031v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f68.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>031v</a> - - - - - </div>  
   
 
 ## <span class="pro">Painctre</span>
@@ -52,4 +52,5 @@ Il ne fault pas entreprendre d'y travailler en <span class="env">temps<br/> obsc
 
  
 Pour le bleu, ilz prenent de l'<span class="m">azur d'esmail</span> du plus<br/> gros & le broyent sur une <span class="tl"><span class="m">escaille</span></span> & y meslent deulx ou trois<br/> <span class="ms">patenostres</span> de <span class="m">roquaille</span> ou plus selon la qua<span class="exp">n</span>tité de la besoigne.<br/> Et ayant faict leur desseing de <span class="m">noir d'escaille</span> (qui se paint<br/> vers le jour et la piece de <span class="m">verre</span> droicte), ils couchent toutes<br/> leurs pieces sur du <span class="m">papier blanc</span> <span class="del">quand</span> pour cognoistre par<br/> la blancheur du <span class="m">papier</span> le jour de leurs histoires et <span class="del">as</span> y assoir<br/> les couleurs qui sont d'une sorte tout à un coup. Puys ilz<br/> recuisent.
+ 
  

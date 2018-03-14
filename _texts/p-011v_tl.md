@@ -19,7 +19,7 @@ environments: []
 animals: [mutton]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-011v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>011v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-011v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>011v</a> - - - - - </div>  
   
 
 ## Applying the color of <span class="m"><span class="pl">Damascene</span> steel</span> on <span class="tl">knives</span>
@@ -59,3 +59,4 @@ These are for tracing what you want to draw on <span class="m">stones</span> & e
  
 Instead of polishing your <span class="m">stone</span>, it is necessary to remove the grease by rubbing the flesh side of a piece of <span class="m">leather</span> <span class="sup">on the <span class="tl">wheel</span></span>, all while spinning the <span class="tl">wheel</span> if you have not worked on it in a long time.
 
+ 

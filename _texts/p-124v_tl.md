@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Rouge clair, enamel, gold, Gold, enamels, rouge clair, arene, rouge claire, or, earth, silver, water, lead, emerald, tin, lime, wax, wire]
+materials: [Rouge clair, enamel, Fine gold, gold, Gold, enamels, rouge clair, arene, grains of gold, or, earth, silver, water, lead, emerald, tin, lime, wax, wire]
 tools: [pot, reverberatory furnace, molds, mold, hot iron]
 measurements: []
 bodyparts: []
@@ -19,17 +19,17 @@ environments: []
 animals: [lizards, snake]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-124v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f254.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>124v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-124v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f254.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>124v</a> - - - - - </div>  
   
 
 ## <span class="m">Rouge clair</span> @ <span class="add"><span class="m">enamel</span></span>
 
  
-Fine <span class="m">gold</span> is unfavorable for it, for <span class="del"><span class="ill"></span></span> on the former it is yellowish. But alloyed <span class="m">gold</span> is more favorable, such as that of <span class="cn">escu</span> & <span class="cn">pistolet</span>. <span class="del">If</span> <span class="m">Gold</span> in its pale color decays the <span class="m">enamel</span>’s hue. <span class="del">Ma</span> And for this occasion, once cut, one puts it back on the fire to give it a reddish color to make <span class="m">enamels</span> beautiful. Otherwise, they are subdued.
+<span class="m">Fine gold</span> is opposed to it, for <span class="del"><span class="ill"></span></span> on this it remains yellowish. But alloyed <span class="m">gold</span> is more appropriate to it, such as that of <span class="cn">escu</span> & <span class="cn">pistolet</span>. <span class="del">If</span> <span class="m">Gold</span> <span class="del">f</span> <span class="del">is not put back on the fire</span> with its own pale color turns the <span class="m">enamel</span> a dead colour. <span class="del">Ma</span> And for this occasion, once cut, one puts it back on the fire to give it a reddish color to make the <span class="m">enamels</span> beautiful. <span class="add">Otherwise, they are subdued.</span>
  
-There is <span class="m">rouge clair</span> that once worn down with <span class="m">arene</span> loses its beauty.
+There is <span class="m">rouge clair</span> which, once it is worn down with <span class="m">arene</span>, loses its beauty.
  
-Some <span class="m">rouge claire</span> is found with grains of <span class="m">gold</span> inside. And it is also the opinion of good <span class="pro">goldsmiths</span> that the good one is made with <span class="m">gold</span>.
+There is some which has <span class="m">grains of gold</span> inside. And it is also the opinion of good <span class="pro">goldsmiths</span> that the good one is made with <span class="m">gold</span>.
  
  
   
@@ -99,4 +99,5 @@ Because you always have to make the gate by the tail, and that it is so delicate
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5aGQ0OTFCTklrQ0k" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
 *[continued]*
+ 
  

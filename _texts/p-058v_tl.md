@@ -19,7 +19,7 @@ environments: []
 animals: [oxen, porcupine, squirrel, rats, dormice, stone martens, weasels]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-058v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f122.item." target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>058v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-058v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f122.item." target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>058v</a> - - - - - </div>  
   
 
 ## Blacks
@@ -75,4 +75,5 @@ When the color has dried inside, & you want to clean them, soak them in <span cl
 >   To work well on a small scale very thin <span class="tl">pinceaulx which have a firm point</span> are needed. And because the <span class="m">hair taken from the tail of a<span class="al">squirrel</span>'s fur</span> is mollesin, the most careful take the <span class="m">bristles of the oldest <span class="al">rats</span></span>, especially of <span class="al">dormice</span> if they can find them & put two or three of them in the middle of the <span class="tl">pinceau</span>. These make a straight line like a <span class="tl"><span class="m">quill</span></span> & all the other <span class="m">hairs</span> of the <span class="tl">pinceau</span> stick to them as to the point. The <span class="m">bristles of <span class="al">stone martens</span> & <span class="al">weasels</span> & small animals which make <span class="m">musk</span></span> are even better, for a single<span class="m">hair</span> in a <span class="tl">pinceau</span> suffices.
  
 *[continued]*
+ 
  

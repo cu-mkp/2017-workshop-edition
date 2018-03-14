@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-163r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f331.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>163r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-163r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f331.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>163r</a> - - - - - </div>  
   
 
 ## <span class="pro">Perfume—makers</span>
@@ -38,4 +38,5 @@ To give off a scent of <span class="m">white amber</span>, in the same way that 
 
  
 <span class="m">Spirits</span> are excellent for making molds clean, in such a way that where you do not apply some, common sand will attack the figure. But it needs to be passed three times. And because it does not take well on oiled things, I believe it may be best to put some into the <span class="m">water</span> with which you have moistened your sand.
+ 
  

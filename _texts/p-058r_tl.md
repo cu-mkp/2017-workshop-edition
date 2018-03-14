@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-058r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f121.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>058r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-058r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f121.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>058r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -32,4 +32,5 @@ One needs to make at least three layers of flesh color to accomplish faces in <s
 <span class="m"><span class="pa">Spike lavender</span> oil</span> is commonly put with <span class="m">lead white</span>, <span class="del">d</span> not entirely pure but mixed with a little <span class="m"><span class="pa">walnut</span> oil</span>. The said <span class="m"><span class="pa">spike lavender</span> oil</span> would not be good for <span class="m">lake</span> & colors that do not have body <span class="add">for it would make them crack</span>, but with those that have body & are somewhat greasy, it is quite appropriate.
  
 <span class="m">Verdigris</span> and <span class="m">orpiment</span> must first be ground with <span class="m">urine</span> rather than thinning them with <span class="m">oil</span>. Thus they are beautiful & do not die.
+ 
  

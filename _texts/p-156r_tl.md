@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-156r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f317.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>156r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-156r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f317.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>156r</a> - - - - - </div>  
   
 
 ## Quickly molding and reducing a relief to a hollow <span class="x">mold</span>
@@ -47,4 +47,5 @@ Cast a lizard or any medal you would like in <span class="m">silver</span>, of l
 
  
 <span class="m">Lead</span> is so fat and soft that one cannot hammer it harshly, one should have a light touch. Other big metals are easier to work with. With a graver called an onglete, you make and retool the finest of details. With the ordinary graver, you make the larger ones, and with the chaple, you can remove the bits that have run, and with the <span class="x">…</span> soften <span class="x">…</span> some lines you flatten or raise the lines.
+ 
  

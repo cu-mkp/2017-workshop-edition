@@ -19,7 +19,7 @@ environments: []
 animals: [Escrevisse, pourceau]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-163v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f332.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>163v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-163v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f332.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>163v</a> - - - - - </div>  
   
 
 ## <span class="al">Escrevisse</span>
@@ -51,4 +51,5 @@ Celuy qui est rouillé de soy mesme, estant arrousé<br/> d'<span class="m">eau 
 
  
 Il est mieulx de reparer peu avecq le <span class="tl">burin</span> apellé <span class="tl">onglet</span>,<br/> ou avecq celuy qu'on apelle <span class="tl">chaple</span>, ou quelque petite <span class="tl">lime</span>.<br/> Mays surtout evite de toucher à ton ouvrage, ains seulem<span class="exp">ent</span><br/> à la bave ou grumeleure qui sera survenue au gect. Et en<br/> reparant, mouille & frotte avecq tes petites <span class="tl">sayettes de <span class="al">pourceau</span></span>.
+ 
  

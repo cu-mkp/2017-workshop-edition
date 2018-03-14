@@ -19,7 +19,7 @@ environments: []
 animals: [horse]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-018r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f41.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>018r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-018r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f41.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>018r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -45,4 +45,5 @@ animals: [horse]
  The bastarde culverine weights 35 <span class="ms">quintal</span>s and is 25 <span class="ms">pan</span>s long. The breech is three cannonballs thick and the front two cannonballs. Its cannonball is like the bastard one, weighing 15 <span class="ms">pound</span>s. These are fixed pieces which cannot be carried on a carriage. They are for city defences. Some make cannons like these which are 27 or 28 <span class="ms">pan</span>s long, like <span class="pl">La Rochelle</span>'s vache, but such pieces are strengthened at the breech with a width of three cannonballs. Their range is one <span class="ms">league</span> and a half. Its load is like the bastarde's one, and if one wants to hit <span class="pro">horsemen</span> very far way, more <span class="m">powder</span> is added. After the cannonball there is a trace of smoke which drives your trajectory to where the cannonball is going. This is understood for cannons and the culverine, but not for small pieces.
  
 *[continued]*
+ 
  

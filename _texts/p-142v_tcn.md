@@ -19,7 +19,7 @@ environments: [en lieu humide]
 animals: [saulterelles, papillon, sauterelle, crapault, cheval]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-142v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f290.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>142v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-142v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f290.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>142v</a> - - - - - </div>  
   
 
 ## Mouler <span class="al">saulterelles</span> et choses<br/> trop tanvres
@@ -62,4 +62,5 @@ Fais les coches d’iceulx qui entrent plus au dedans<br/> du <span class="tl">m
 
  
 Je n’en ay point trouvé de plus tost faict que cestuy cy,<br/> ne de meilleur. P<span class="exp">rens</span> de ceste <span class="m">terre maigre, de laquelle les<br/> <span class="pro">fondeurs d’artiglerie & de cloches</span> font leur trusseaulx<br/> et moules</span>, qui est maigre & sabloneuse. Destrempe l<span class="del">e</span>a<br/> mediocrement comme <span class="m">mortier</span> fort espés. Mesles y environ<br/> la <span class="ms">moictié</span> de <span class="m">fiente de <span class="al">cheval</span></span> & puys la fais battre<br/> fort. Aprés mesles y la <span class="ms">tierce partye</span> de <span class="m">bourre descardé</span><br/> ou de <span class="m">tondure de draps</span>, et la bats encores bien fort.<br/> Tu peulx recuire ton <span class="tl">moule</span> aussytost que le <span class="m">luth</span><br/> sera posé.
+ 
  

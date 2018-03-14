@@ -19,7 +19,7 @@ environments: []
 animals: [lizard]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-119v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f244.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>119v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-119v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f244.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>119v</a> - - - - - </div>  
   
 
 ## Way to rework spat
@@ -49,4 +49,5 @@ You find an earth in <span class="pl">Germany</span>, the color of cooked plaste
 
  
 Cast your animal or <span class="al">lizard</span> or other thing with the above mentioned sand, with alloyed <span class="m">silver</span> and it will come out very neat. But make sure to mould it hollow, or at least leave a small hole in it or in another place. Then gild your animal with fine <span class="m">gold</span>, as much homogeneously as possible, three, four or five times, until your <span class="m">gold</span> becomes as thick as a piece of <span class="m">paper</span> or anything similar. And the scales will always come out evenly. Then dip your cast into good <span class="m">aqua fortis</span>, which will corrode the alloyed <span class="m">silver</span> through the hole, and <span class="m">gold</span> will remain hollow, light and wonderful.
+ 
  

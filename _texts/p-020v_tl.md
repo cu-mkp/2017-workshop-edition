@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-020v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f46.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>020v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-020v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f46.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>020v</a> - - - - - </div>  
   
 
 ## To whiten the <span class="bp">face</span>
@@ -66,4 +66,5 @@ Steeple of <span class="pl">Rodez</span>, church of <span class="pl">Albi</span>
 
  
 Every <span class="tmp">morning</span>, take two or three <span class="m">eggs</span> laid on the same day or the <span class="tmp">day</span> before. Heat them up but do not cook them. Eat the <span class="m">yolk</span>s well dusted with <span class="m">sugar</span>. And afterwards drink one <span class="ms"><span class="bp">finger</span></span> of <span class="m">wine</span>. And in addition to being nourishing, it is good for the <span class="bp">stomach</span>. 
+ 
  

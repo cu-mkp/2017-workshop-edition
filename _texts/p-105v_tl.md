@@ -19,7 +19,7 @@ environments: []
 animals: [worms, nightingales, nightingale, Nightingale, larks, ants, sheep, mealworm]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-105v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f216.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>105v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-105v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f216.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>105v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -75,3 +75,4 @@ The <span class="m">iron</span> wire used for its cage must be the thickest poss
  
 It will need a cage made in the shape of a barn, like the ones for <span class="al">larks</span>, lined with green fabric, because it feels the cold. And to get it to eat when it is first put in the cage, you must give it <span class="al">ants</span> mixed with <span class="m">earth</span> in the bottom of the cage to get it used to pecking, and you can give it minced <span class="al">sheep</span>'s heart, and sometimes eggs, and sometimes <span class="al">mealworm</span>.
 
+ 

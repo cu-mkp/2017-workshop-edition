@@ -8,8 +8,8 @@ author:
 mode: tcn
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [canulles, esmail, fil d'archal, fer, bois, charbon, cendre, cuivre, eau fort, estain, doulx, marbre, plomb, estaim, feultre]
-tools: [lime, lampe, fourneau, four de reverberation, pincettes, pincette, four, burin, ciseau, presse à rouleaux, marteau]
+materials: [canulles, esmail, fil d'archal, fer, bois, charbon, cendre, cuivre, eau fort, estain doulx, marbre poly, plomb, estain, estaim, feultre, dore]
+tools: [lime, lampe, fourneau, four de reverberation, pincettes, pincette, four, burin, ciseau, marbre poly, planche de bois, table, presse à rouleaux, piece de feultre, marteau]
 measurements: []
 bodyparts: []
 places: []
@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-006v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f18.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>006v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-006v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f18.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>006v</a> - - - - - </div>  
   
 
 ## Pour <span class="del">ga cach</span> cages
@@ -41,5 +41,6 @@ Tu les peulx embellir avecq des <span class="m">canulles</span> d’<span class=
 ## Pour stampes à embellir et incruster<br/> ou revestir le bord des mirouers ou dessus<br/> de coffres ou frises des pantes de lict
 
  
-Grave sur <span class="m">fer</span> ou <span class="m">cuivre</span> avecq de l’<span class="m">eau fort</span> ce que tu<br/> y auras poncé et desseigné, aprés nettye le avecq le <span class="tl">burin</span><br/> ou <span class="tl">ciseau</span>. Puys gecte de l'<span class="m">estain</span> <span class="m">doulx</span> qui n'a poinct servi<br/> sur du <span class="m">marbre</span> poly, & avecq une planche de <span class="m">bois</span> l'aplatis<br/> bien tanvre. Ou bien gecte le en table comme le <span class="m">plomb</span>, ou le<br/> passe par la <span class="tl">presse à rouleaux</span>. Aprés pose ta planche<br/> d'<span class="m">estain</span> sur la chose gravée & sur la planche d'<span class="m">estaim</span> pose<br/> une piece de <span class="m">feultre</span> & frappe avecq un <span class="tl">marteau</span> dessus. Puys<br/> le dore en ceste sorte.
+Grave sur <span class="m">fer</span> ou <span class="m">cuivre</span> avecq de l’<span class="m">eau fort</span> ce que tu<br/> y auras poncé et desseigné, aprés nettye le avecq le <span class="tl">burin</span><br/> ou <span class="tl">ciseau</span>. Puys gecte de l'<span class="m">estain doulx</span> qui n'a poinct servi<br/> sur du <span class="tl"><span class="m">marbre poly</span></span>, & avecq une <span class="tl">planche de <span class="m">bois</span></span> l'aplatis<br/> bien tanvre. Ou bien gecte le en <span class="tl">table</span> comme le <span class="m">plomb</span>, ou le<br/> passe par la <span class="tl">presse à rouleaux</span>. Aprés pose ta planche<br/> d'<span class="m">estain</span> sur la chose gravée & sur la planche d'<span class="m">estaim</span> pose<br/> une <span class="tl">piece de <span class="m">feultre</span></span> & frappe avecq un <span class="tl">marteau</span> dessus. Puys<br/> le <span class="m">dore</span> en ceste sorte.
+ 
  

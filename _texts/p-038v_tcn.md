@@ -19,7 +19,7 @@ environments: []
 animals: [dragon]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-038v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>038v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-038v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>038v</a> - - - - - </div>  
   
 
 ## Couleur noire pour taindre
@@ -66,4 +66,5 @@ Ceulx qui vendent par le menu les velours & <span class="del">es</span> aultres<
 
  
 Pource que l’<span class="ms">aulne</span> couste à taindre sept ou huict lb,<br/> ils y employent des draps de sept ou huict frans l’<span class="ms">aulne</span>.<br/> Mays qui en veult avoir de belle, <span class="del">se la</span> qu’il achepte du<br/> <span class="m">drap blanc</span> de quinze frans l’<span class="ms">aulne</span> & la face taindre<br/> avecq <span class="m">pastel</span> pur d’escarlatte & un peu de <span class="m">cochenille</span>. Le <br/> <span class="m">drap noir</span> se trouve fort fin, pource que la <span class="m">taincture</span> est <br/> à bon marché.
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-005v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f16.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>005v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-005v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f16.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>005v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -34,4 +34,5 @@ Tu feras lumiere bien loing de nuict à quelqu'un si tu<br/> poses le mirouer co
 
  
 P<span class="exp">rends</span> <span class="m">estaim de glace</span> et le fais fondre, mects sur demy lb.<br/> d'iceluy demy once d'<span class="m">argent vif</span> et l'oste tout aussy tost<br/> du foeu & le broye, et il sera comme cendre. <span class="del">Broye</span> Lave<br/> le bien fort en <span class="m">eau nette</span>, aprés broye le sur le <span class="m"><span class="tl">mabre</span></span> &<br/> le destrempe avecq <span class="m">eau de <span class="del">ret</span> colle de retaille</span>. Aprés aplique<br/> sur tes chandeliers de bois & aultre ouvrage qu'il te plaira,<br/> & brunis avecq la <span class="m">dent</span>. Tu peulx broyer la <span class="m">limaille d'espingle</span><br/> & l'apliquer avecq ladicte <span class="m">colle</span>.
+ 
  

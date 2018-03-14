@@ -19,7 +19,7 @@ environments: [exposed to the sun]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-060r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f125.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>060r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-060r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f125.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>060r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -55,4 +55,5 @@ When you are working, make sure not to stir up dust, & when you leave your work,
 <span class="m"><span class="pa">Walnut</span> oil</span> extracted like<span class="m">peeled <span class="pa">almonds</span></span> is very white. This one of <span class="m">Palma christi</span>. And when the <span class="m">oil</span> has had a little body, the colors soften. For if the <span class="m">oil</span> is too clear, the colors run & do not bind, even those that do not have body. <span class="m">Fatty oil</span> that is not easily imbibed is appropriate for <span class="m">varnish</span>. The <span class="m">oil</span> is desiccative enough when it dries out as quickly as <span class="m">common varnish</span>. <span class="m">Oils</span> do not dry as quickly in cold countries as in hot countries. <span class="m">Oil</span> <span class="env">exposed to the sun</span> is clarified well. But it fattens. If you put in <span class="m">ceruse</span> or <span class="m">lead filings</span> or <span class="m">lead white</span> or <span class="m">calcined pulverized <span class="del">p</span>glass</span>. To avoid this, put the <span class="tl">vial</span> in <span class="m">clear water</span>.
  
 Colors in <span class="m">oil</span>, once dry, sometimes do not easily receive the second colors, to prevent this, breathe on them & the color will take.
+ 
  

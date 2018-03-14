@@ -19,7 +19,7 @@ environments: []
 animals: [vers, rossignols, rossignol, Rossignol, calandres, fourmis, mouton, vers de farine]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-105v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f216.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>105v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-105v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f216.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>105v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -74,4 +74,5 @@ Il fault que le fil<br/> de <span class="m">fer</span> de sa cage<br/> soict du 
 
  
 Il luy fault une cage<br/> faicte en gra<span class="exp">n</span>ge,<br/> co<span class="exp">mm</span>e celle des <span class="al">calandres</span>,<br/> doublé de drap vert,<br/> pource qu'il craint le froid. Et pour l'acoustumer<br/> à manger au commancem<span class="exp">ent</span> qu'il est prins en cage, il luy fault donner des <span class="al">fourmis</span><br/> avecq de la terre<br/> au fonds de sa<br/> cage pour l'acoustumer<br/> de picoter, <span class="del">puys luy</span><br/> et luy donner d'un<br/> cœur de <span class="al">mouton</span> haché,<br/> & tantost des oeufs,<br/> & des <span class="al">vers de farine</span>.
+ 
  

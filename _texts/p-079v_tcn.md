@@ -8,8 +8,8 @@ author:
 mode: tcn
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [terre, cendres, fumée, verny, masticq, sang daRage darac, gomme arabic, huille d'aspic, colle bien clere, fumée des metaulx, rostie, boeurre, antimoine, vessie de porc, Estaim, estain commun, plomb fin, estain, estain fin, letton, escailles, fer, plomb]
-tools: [pot de terre]
+materials: [terre, cendres, fumée, verny, masticq, sang daRage darac, gomme arabic, huille d'aspic, colle bien clere, fumée des metaulx, rostie, boeurre, antimoine, vessie de porc, Estaim, estain commun, plomb fin, estain, estain fin, antimoine pulverisé, letton, vielles escailles ou lames de fer, testes de cloux de fer, plomb]
+tools: [pot de terre, crusol, four à vent]
 measurements: [heures, lb, quintal]
 bodyparts: []
 places: []
@@ -19,7 +19,7 @@ environments: []
 animals: [porc]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-079v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f164.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>079v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-079v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f164.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>079v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -60,5 +60,6 @@ Ils employent l'<span class="m">estain commun</span>, qui est celuy duquel les<b
 ## Mixture pour les <span class="pro">imprimeurs</span>
 
  
-Fais une couche d'<span class="m">antimoine</span> & <span class="add">pulverisé</span> une couche de <span class="m">letton</span> & vielles<br/> <span class="m">escailles</span> ou lames de <span class="m">fer</span> ou testes de cloux de <span class="m">fer</span>, et<br/> continues ainsy jusques à ce que le crusol soit plain, et<br/> fais fondre au four à vent, & puys mesle un peu d'<span class="m">estain</span> &<br/> acheve de remplir le crusol de <span class="m">plomb</span>.<br/> Et vigore le foeu & mesle pour faire bien allier<br/> les matieres. La mixture des grands lettres est plus dure.
+Fais une couche d'<span class="m">antimoine <span class="add">pulverisé</span></span> & une couche de <span class="m">letton</span> & <span class="m">vielles<br/> escailles ou lames de fer</span> ou <span class="del">clo</span> <span class="m">testes de cloux de fer</span>, et<br/> continues ainsy jusques à ce que le <span class="tl">crusol</span> soit plain. Et<br/> fais fondre au <span class="tl">four à vent</span>, & puys mesle un peu d'<span class="m">estain</span> &<br/> acheve de remplir le <span class="tl">crusol</span> de <span class="m">plomb</span> <span class="del">jusques a ce que il<br/> le cause</span>. Et vigore le foeu & mesle pour faire bien allier<br/> les matieres. La mixture des grandes lettres est plus dure.
 
+ 

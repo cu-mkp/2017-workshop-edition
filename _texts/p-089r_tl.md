@@ -19,7 +19,7 @@ environments: [serain of the night, moisture of the cellar]
 animals: [oxen]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-089r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f183.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>089r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-089r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f183.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>089r</a> - - - - - </div>  
   
 
 ## <span class="m">Sand of burnt <span class="al">oxen</span> bone and rock salt</span>
@@ -42,4 +42,5 @@ Always put the most delicate part, such as the face, above, so that nothing fall
 
  
 It does not want to be reheated for <span class="m">lead</span> and <span class="m">tin</span>, <span class="del">m</span> and is better very new & fresh.
+ 
  

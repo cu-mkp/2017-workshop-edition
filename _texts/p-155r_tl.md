@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-155r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f315.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>155r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-155r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f315.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>155r</a> - - - - - </div>  
   
 
 ## Moulding a rose
@@ -45,4 +45,5 @@ Because of the little branches of the rose bush, which are around the flower, ar
 > 
 > 
 >   Moisten your rose with <span class="m">spirits</span> before placing it in the clay. Do not forget to oil the <span class="m">wax</span> cast. And when you have thrown in your <span class="m">wet sand</span>, blow heavily, until it begins to set. The rose came out well. But because the <span class="m">sand</span> was mixed within the petals, soak your work in water for a long time so that when you shake it in the water, the earth comes off.
+ 
  

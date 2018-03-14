@@ -19,7 +19,7 @@ environments: []
 animals: [cat]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-019v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f44.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>019v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-019v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f44.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>019v</a> - - - - - </div>  
   
 
 ##  Mathematical figures without <span class="tl">ruler</span> or <span class="tl">compass</span>
@@ -54,4 +54,5 @@ animals: [cat]
 
  
  They used to mount them with a <span class="tl"><span class="m">leather</span> handle</span> or <span class="tl">pocket</span>, the best one being of <span class="m"><span class="al">cat</span> pelt</span> which is more padded than any other else. And then they started to fold the <span class="tl">handle</span> from one side and then they kept folding it and turning it on itself and in that way enema runs slowly, but this manner takes more time and is less easy than a <span class="tl">syringe</span> which has been discovered since then with which a man can give to himself an enema. It is true that it always gives wind at the end.
+ 
  

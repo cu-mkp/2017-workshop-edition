@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-099v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f204.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>099v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-099v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f204.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>099v</a> - - - - - </div>  
   
 
 ## Quince trees
@@ -71,4 +71,5 @@ One sublimates it & one grinds it & some put in a little <span class="m">arsenic
 
  
 Some make this of <span class="m">mastic</span> with two <span class="ms">ounces</span> of <span class="m">mastic</span> and one of <span class="m">clear & white turpentine oil</span> & <span class="m">eau de vye</span> as above. Heat it on <span class="m">ashes</span> until it is melted, then let it rest & put it in another <span class="tl">vessel</span> to purge it of dregs.
+ 
  

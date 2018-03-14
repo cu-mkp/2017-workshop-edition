@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-163r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f331.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>163r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-163r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f331.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>163r</a> - - - - - </div>  
   
 
 ## <span class="pro">Parfumeur</span>
@@ -38,4 +38,5 @@ Pour parfumer d'<span class="m">ambre blanc</span> à la façon de<br/> <span cl
 
  
 Elle est excellente à fayre mouler net, de sorte qu'au lieu<br/> où tu n'en mectras point, le sable communem<span class="x"><span class="exp">ent</span></span> s'attaquera à<br/> la figure. Mays elle veult estre de trois passes. Et pource que<br/> elle ne prend pas aysem<span class="x"><span class="exp">ent</span></span> sur les choses <span class="m">huilées</span>, je croy<br/> qu'il seroit bon d'en mectre parmy l'<span class="m">eau</span> dans laquelle tu<br/> destrempes ton sable.
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [flies, butterflies, cicadas, grasshoppers, Bats]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-149v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f304.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>149v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-149v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f304.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>149v</a> - - - - - </div>  
   
 
 ## Molding vases in several pieces
@@ -55,4 +55,5 @@ Large <span class="al">flies</span> can be molded & cast. But you must apply und
 
  
 They have very thin wings and if they are large & dry and the wings are extended, you need a very big mold & it is not certain that the <span class="m">metal</span> will run sufficiently; thus, when you want to mold some, choose the medium—sized ones & and arrange them so that they have their wings are half folded, since in this way they will come out better. But be sure to apply, as you known, some <span class="m">wax</span> on the side of the wings, so that the cast flows well.
+ 
  

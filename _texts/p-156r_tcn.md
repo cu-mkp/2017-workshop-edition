@@ -19,7 +19,7 @@ environments: []
 animals: [lesard]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-156r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f317.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>156r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-156r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f317.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>156r</a> - - - - - </div>  
   
 
 ## Mouler prompteme<span class="exp">n</span>t et reduire un<br/> cave en relief
@@ -47,4 +47,5 @@ Gecte un <span class="al">lesard</span> ou telle medaille qu'il te plaira d'<spa
 
  
 Le <span class="m">plomb</span> est si gras & tendre qu'on n'y peult fraper hardiment,<br/> & fault avoyr la main fort legere. Les aultres <span class="m">grands metaulx</span><br/> sont plus aysés. Avecq un <span class="tl">burin</span> apellé l'<span class="tl">onglet</span> tu fais & resuits<br/> les traits les plus deliés, avecq le <span class="tl">burin ordinayre à tailler</span>, les plus<br/> larges, et avecq le <span class="tl">chaple</span> tu ostes les grosses baves, et avecq les<br/> <span class="tl">ciseaulx</span> tu adoulcis l'asperité des traicts, tu aplanis, tu releves un traict.
+ 
  

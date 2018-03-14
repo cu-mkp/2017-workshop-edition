@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [earthen, ashes, smoke, varnish, mastic, sang daRage darac, gum arabic, spike lavender oil, glue quite clear, smoke of metals, toast, butter, antimony, pig's bladder, Tin, common tin, fine lead, tin, fine tin, latten, metal scrapings, iron, lead]
-tools: [earthenpot]
+materials: [earthen, ashes, smoke, varnish, mastic, sang daRage darac, gum arabic, spike lavender oil, glue quite clear, smoke of metals, toast, butter, antimony, pig's bladder, Tin, common tin, fine lead, tin, fine tin, pulverized antimony, latten, old scrapings or thin plates of iron, iron nail heads, lead]
+tools: [earthenpot, crucible, four à vent]
 measurements: [hours, lb, quintal]
 bodyparts: []
 places: []
@@ -19,7 +19,7 @@ environments: []
 animals: [pig]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-079v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f164.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>079v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-079v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f164.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>079v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -60,5 +60,6 @@ They use <span class="m">common tin</span>, which is the one that <span class="p
 ## Mixture for <span class="pro">printers</span>
 
  
-Apply a coat of <span class="m">antimony</span>, and pulverize on a coat of <span class="m">latten</span>, old <span class="m">metal scrapings</span>, or thin plates of <span class="m">iron</span> or the <span class="del"></span> <span class="m">iron</span> nail heads, and continue in this way until the crucible is full. Melt it inside a four à vent. And then mix in a little <span class="m">tin</span> and fill the rest of the container with <span class="m">lead</span><span class="del"></span>. Build up the fire and stir continuously to make sure that the substances are well—allied. The mixture for large letters is harder.
+Make a layer of <span class="m"><span class="add">pulverized</span> antimony</span>, & a layer of <span class="m">latten</span> & <span class="m">old scrapings or thin plates of iron</span> or <span class="del">clo</span> <span class="m">iron nail heads</span>, and continue in this way until the <span class="tl">crucible</span> is full. And melt inside a <span class="tl">four à vent</span>, & then mix a little <span class="m">tin</span> & fill up the <span class="tl">crucible</span> with <span class="m">lead</span> <span class="del">until it causes it</span>. And increase the fire & mix to make the substances alloy well. The mixture for large letters is harder.
 
+ 

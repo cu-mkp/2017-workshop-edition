@@ -19,7 +19,7 @@ environments: []
 animals: [Sheep, sheep, Spider]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-071v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f148.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>071v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-071v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f148.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>071v</a> - - - - - </div>  
   
 
 ## <span class="m">Varnish</span>
@@ -52,4 +52,5 @@ There are no <span class="sup">spiders</span> in <span class="pl">Ireland</span>
 The <span class="m">cimolée</span> is very good for casting in <span class="m">copper</span>, but one ought not take <span class="m">the one from <span class="pro">cutlers</span></span>, because it is only <span class="m">sludge</span>, but rather the one of those who <span class="del">moulent</span> mold large shears.
  
 <span class="m">Pierres de filieres</span>, which <span class="pro">knife grinders</span> use for whetting, mold very neatly, once scraped, for <span class="m">lead</span>. It is commonly <span class="m">slate</span>—colored. One frequently brings them to <span class="pl">Toulouse</span> from around <span class="pl">Carcassonne</span> .
+ 
  

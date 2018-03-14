@@ -19,7 +19,7 @@ environments: []
 animals: [grasshoppers, butterfly, grasshopper, toads]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-142v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f290.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>142v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-142v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f290.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>142v</a> - - - - - </div>  
   
 
 ## Molding <span class="al">grasshoppers</span> and things too thin
@@ -62,4 +62,5 @@ Make some notches in them <span class="sup">the molds</span> that enter more int
 
  
 I have not found a <span class="sup">lute</span> that is made more quickly than this one, nor a better one. Take some of the lean <span class="m">earth</span> that <span class="pro">artillery founders</span> and <span class="pro">bell founders</span> use to make their trusseaulx and molds, which is lean and sandy. Soak it moderately like a very thick <span class="m">mortar</span>. Mix into it about one half of <span class="m">horse manure</span> and then beat it well. Afterwards mix in one third of <span class="m">cloth waste</span> or <span class="m">cloth shavings</span> and beat it again quite strongly. You can reheat your mold as soon as the <span class="m">lute</span> is ready.
+ 
  

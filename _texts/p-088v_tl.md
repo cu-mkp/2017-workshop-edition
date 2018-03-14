@@ -19,7 +19,7 @@ environments: [mine, cellar, in dampness, quarry, rock formation, nature]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-088v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f182.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>088v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-088v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f182.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>088v</a> - - - - - </div>  
   
 
 ## <span class="m">Sand from pulverised rock salt</span> and <span class="m">sand from the <span class="env">mine</span></span> finely ground on <span class="tl"><span class="m">marble</span></span> 
@@ -41,4 +41,5 @@ However, it should <span class="sn">break apart between your <span class="tl"><s
 > 
 > 
 >   The <span class="m"><span class="pa">bled</span> orbère</span> makes a tawny powder, very delicate & very soft, which once mixed could <span class="del">mix</span> mold very neatly. Try <span class="m"><span class="pa">wheat</span> flour</span> burned over a closed fire.
+ 
  

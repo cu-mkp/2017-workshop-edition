@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-095r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f195.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>095r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-095r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f195.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>095r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -36,4 +36,5 @@ Estant fourbye, on la monte sur les gardes, lesquelles on presente<br/> pour sç
 On mect la lame dans un estoc entre deulx morceaulx de <span class="m">boys</span>,<br/> puys avecq une lime ilz agrandissent, si besoing est, l'entrée de la<br/> garde. Puys, pour la river, on pose sur la ribeure <span class="del">un lopin de</span><br/> & pommeau un lopin de <span class="m">bois</span> & avecq un marteau on frappe dessus<br/> pour faire bien aplomber & asseurer le pommeau. Puys avecq le<br/> marteau on acheve la ribeure, quand le marteau est bien asseuré &<br/> ne bransle point. Le <span class="m">bois</span> s'i mect pour ne gaster point le pommeau.<br/> Aprés on acommode la riveure avecq la lime ou avec un ciseau.<br/> Et aulcuns font <span class="del">le b</span> la riveure en table de diamant quarré, mays<br/> elle n'est pas si bonne que la ronde car à la quarre la riveure se<br/> couppe.
  
 *[continued]*
+ 
  

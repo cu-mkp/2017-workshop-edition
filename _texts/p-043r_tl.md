@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-043r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f91.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>043r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-043r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f91.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>043r</a> - - - - - </div>  
   
 
 ## <span class="m">Mericoton</span> and <span class="m">pavis</span>
@@ -50,4 +50,5 @@ The soft <span class="m">tin</span>, <span class="ms">half an ounce</span> of, m
 
  
 Apply black with <span class="m">glue</span>, as was said, on the medal, then <span class="m">varnish</span>. Once dry, grate <span class="m">mine d'<span class="pl">Angleterre</span></span> on top with a <span class="tl">pinceau</span> or a <span class="tl"><span class="bp">finger</span></span>. The said grated <span class="m">mine</span> embellishes <span class="m">lead</span> medals.
+ 
  

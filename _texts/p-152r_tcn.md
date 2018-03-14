@@ -19,7 +19,7 @@ environments: []
 animals: [rat, lesard, souris, serpents, lesards, mouche, oiseau]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-152r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f309.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>152r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-152r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f309.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>152r</a> - - - - - </div>  
   
 
 ## Mouler un <span class="al">rat</span>
@@ -51,4 +51,5 @@ La barbe de ses moustaches seroict malaisée à venir de gect,<br/> tu les pourr
 > 
 > 
 >  Ne mects ton <span class="tl">moule</span> au <span class="tl">froid</span><br/> qu’il ne soict bien refroidy lentem<span class="exp">ent</span> à sec.<br/> Aultrem<span class="exp">ent</span> il emboit l’humidité, qui le faict<br/> rompre.
+ 
  

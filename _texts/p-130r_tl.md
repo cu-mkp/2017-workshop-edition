@@ -19,7 +19,7 @@ environments: []
 animals: [cats, rats, crayfish, spider, spiders]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-130r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f265.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>130r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-130r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f265.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>130r</a> - - - - - </div>  
   
 
 ## Drying animals in an oven
@@ -63,4 +63,5 @@ Attach it with <span class="m">brass</span> wire points on the jacket of <span c
 > 
 > 
 >   Also. One cannot mold the hairy legs of big <span class="al">spiders</span> or any other hairy animal if they had not been rubbed with <span class="m">wheat oil</span> before they are laid flat. This will make the <span class="m">hair</span> firmer and will dry very quickly. Hairy things entangle in the sand, and do not burn very well.
+ 
  

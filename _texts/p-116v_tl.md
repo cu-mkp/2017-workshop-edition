@@ -19,7 +19,7 @@ environments: []
 animals: [snake, Snake, snakes, animal, mice]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-116v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f238.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>116v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-116v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f238.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>116v</a> - - - - - </div>  
   
 
 ## <span class="tl">Casting</span> <span class="al">snake</span>s in all <span class="tmp">season</span>s
@@ -52,4 +52,5 @@ For fine <span class="pa">herb</span>s, <span class="pa">flower</span>s and <spa
 
  
 For <span class="m">red copper</span> you must add <span class="m">sal ammoniac</span>. It will clean it and remove the crust when melted. Some people add big pieces of <span class="m">new leather</span>. Other add peels of <span class="m"><span class="al">mice</span> feet</span>. Other add melted <span class="m">common salt</span> only, or <span class="m">salt</span> melted with <span class="m">saltpeter</span>. The main ingredients are <span class="m">sal ammoniac</span> and also a little bit of <span class="m">tin</span>, depending on the <span class="tl">cast</span> you want to do. <span class="m">Copper</span> is harder to <span class="tl">cast</span> than <span class="m">tin</span>. But when it is melted it runs better, even if alloyed with <span class="m">tin</span>. Add a quarter of <span class="m">copper</span> to <span class="m">tin</span> and mix it like <span class="m">copper</span>. <span class="m">Calamine</span> especially makes it run well.
+ 
  

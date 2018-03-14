@@ -19,7 +19,7 @@ environments: []
 animals: [crayfish]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-143v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f292.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>143v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-143v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f292.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>143v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -31,7 +31,7 @@ from one leg to another, so that the spread out limbs are in connection with one
 ## Openwork carcanets
 
  
-You can mold them "en noyau" like <span class="al">crayfish</span>, first with one side being made higher with <span class="m">clay</span>, which is hollow, and then you open <span class="sup">it</span> from the other side and make the second casting. You can just as well cast <span class="sup">them</span> "en chassis", provided that they release well. If they do not, you can do a rough cast in <span class="m">wax</span>, or you can fill up the cavities which do not release well with <span class="m">wax</span> or <span class="m">clay</span>.
+You can mold them en noyau like <span class="al">crayfish</span>, first with one side being made higher with <span class="m">clay</span>, which is hollow, and then you open <span class="sup">it</span> from the other side and make the second casting. You can just as well cast en chassis, provided that they release well. If they do not, you can do a rough cast in <span class="m">wax</span>, or you can fill up the cavities which do not release well with <span class="m">wax</span> or <span class="m">clay</span>.
  
  
   
@@ -49,3 +49,4 @@ Because usually <span class="m">filings</span> are mixed with impurities, it is 
  
 Because those that you usually cast are generally quite big, they are heavy. And so for these, you make them with <span class="m">silver</span> leaf or slivers.
 
+ 

@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-162r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f329.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>162r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-162r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f329.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>162r</a> - - - - - </div>  
   
 
 ## For La Boutique
@@ -39,14 +39,14 @@ animals: []
 > 
 >   Galleys.
  
- Herodotus, page 3, says that Gyges offered to the temple of Delphi "pateras aureas sex pondo 30 talentorum".
+ Herodotus, page 3, says that Gyges offered to the temple of Delphi pateras aureas sex pondo 30 talentorum.
  
 > *at left bottom margin*
 > 
 > 
 >   Gold vases
  
- Halyattes, the father of Cresus, "pateram ex ferro compactilem apud Delphos dedicavit spectatu dignam inter omnia quae sunt Delphis donaria, opus Glauci Chii qui solus omnium compactionem ferri excogitavit." Compactile ferrum means made by assembling separate parts.
+ Halyattes, the father of Cresus, pateram ex ferro compactilem apud Delphos dedicavit spectatu dignam inter omnia quae sunt Delphis donaria, opus Glauci Chii qui solus omnium compactionem ferri excogitavit. Compactile ferrum means made by assembling separate parts.
  
 > *at left bottom margin*
 > 
@@ -70,4 +70,5 @@ animals: []
 
  
  Wood that is white, being light as a sponge, if burnt in a close fire, may be used for casting lead in a box and molds very cleanly, but these things <span class="x">such material</span> do not withstand <span class="x">open?</span> fire. 
+ 
  

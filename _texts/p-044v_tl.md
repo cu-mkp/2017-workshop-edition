@@ -19,7 +19,7 @@ environments: []
 animals: [Horse, horse]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-044v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f94.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>044v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-044v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f94.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>044v</a> - - - - - </div>  
   
 
 ## <span class="m"><span class="al">Horse</span>hair sieves</span>
@@ -51,3 +51,4 @@ Have x or 12 <span class="m">Mandragore apples</span>, put them in quarters toge
  
 For <span class="m">glueing</span> <span class="m">stone</span>, some do not use <span class="del">poi</span> <span class="m">resin</span> & <span class="m">black pitch resin</span> because it is too fatty, but take <span class="m">rosin</span> & <span class="m">sulphur</span>, <span class="ms">as much <span class="del">as</span> of one as the other</span>, & as much of <span class="m">wax</span> as the two, and mix it with <span class="m">crushed brick</span> for greater strength. Others, <span class="m">white chalk</span> or <span class="m">crushed & pulverized & sieved white stone</span>.
 
+ 

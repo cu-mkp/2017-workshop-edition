@@ -8,66 +8,81 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gold, crocum ferri, stone alum, iron, Tiles, sand, stones, gravel, plaster, dust, clay, Stone alum, Crocum ferri, Plaster]
-tools: []
-measurements: []
-bodyparts: []
+materials: [gold, crocum ferri, alum de plume, iron, shell of crabs & crayfish, Tiles, stones, gravel, plaster, dust, stone, water, brick, clay, Alum de plume, Crocum ferri, Plaster, charcoal]
+tools: [mold, iron presses, sieve, sleeve, cauldron, skillet, stick, nail]
+measurements: [hours, good amount, months]
+bodyparts: [nail]
 places: []
 plants: []
 professions: []
-environments: []
-animals: []
+environments: [houses, in a dry place, rainy weather]
+animals: [crabs, crayfish, Rats, birds, turtles]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-106v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f218.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>106v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-106v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f218.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>106v</a> - - - - - </div>  
   
 
 ## Casting in <span class="m">gold</span>
 
  
-To cast in <span class="m">gold</span>, <span class="m">crocum ferri</span> is necessary, & more <span class="m">stone alum</span> than in the following mixture. The <span class="m">stone alum</span> mixture cannot spoil anything. The mold must be red & close it immediately with <span class="m">iron</span> presses.
+To cast in <span class="m">gold</span>, <span class="del">il f</span> <span class="m">crocum ferri</span> is necessary, <span class="add">& more <span class="m">alum de plume</span> than in the following mixture. The <span class="m">alum de plume</span> mixture cannot corrupt anything. The <span class="tl">mold</span> needs to be red & press it promptly with <span class="tl"><span class="m">iron</span> presses</span>.</span>
  
-Shells of crabs & <span class="x">shells of</span> crayfish are troublesome to burn & have their own proper way of being molded.
+The <span class="m">shell of <span class="al">crabs</span> & <span class="al">crayfish</span></span> are uneasy to burn & there is a proper way of molding them.
  
-When molding rats & birds, the feet, being burned, are difficult to recover, because they are small & slender. The body is recovered more easily from the mold. The feet are cast in many pieces.
+<span class="al">Rats</span> & <span class="al">birds</span> can be molded, and the feet are uneasy to extract, when burnt, because they are small & delicate. The bodies are extracted more easily from the <span class="tl">mold</span>. The feet are cast in many <span class="del">times</span> pieces.
  
- 
-  
-
-## <span class="m">Tiles</span>
-
+<span class="m">Tiles</span>
  
 > *at right middle margin*
 > 
 > 
->   those of houses that are outdoors, ones <span class="x">that are</span> a bit <span class="m">sand</span>y seem to hold better in fire
+>   Those of the <span class="env">houses</span> that are not sandy seem to withstand fire better.
  
-<span class="m">Tiles</span> with which one covers houses, the hardest & surest and recleaned of <span class="m">stones</span> & large <span class="m">gravel</span>, are taken to mix in with the <span class="m">sand</span> for molding. But, rather, it is necessary to reheat them just until they have been quite red for one or two hours, & crush them & pass them finely through a sieve.
+<span class="m">Tiles</span> with which one covers <span class="env">houses</span>, the hardest & firmest and recleansed of <span class="m">stones</span> & large <span class="m">gravel</span>, are used to <span class="del">p</span> mix in with the sand <span class="del">et</span> for molding. But, before, it is necessary to heat them just until they have been well red for one or two <span class="ms"><span class="tmp">hours</span></span>, & pestle them & pass them finely through a <span class="tl">sieve</span>.
  
-Little turtles just out of the egg are really delightful to mold.
- —————————  
- <span class="add">If the <span class="m">plaster</span> is mixed with some <span class="m">dust</span> or is not the hard kind, <span class="x">...</span> in the fire & make <span class="x">...</span></span>
+The little <span class="al">turtles</span>, having just come out of the egg, are very nice to mold.
  
-The hardest <span class="m">plaster</span>, as was said, is the best, being taken thusly totally raw from stones of this kind. Crush it as finely as possible and pass it through the most fine sieve or sleeve that you can. Having been made fine in this way, put a good amount in a cauldron or frying pan over an open flame. & as it starts to heat up, stir it continuously. And heavy and lumpy though it is, it will become so light and so tractable that it will appear to you not to have any resistance to the said stirring, as though it were of water. Continue to keep stirring it continuously until it returns once again to being heavy and thick. And now this is the sign that it is cooked, but do not reheat it at all such that your <span class="m">stone alum</span> brick be reheated & that <span class="m">clay</span> circles form. Because this must be the last reheating, and when everything else is ready, because the less that the <span class="m">plaster</span> remains reheated & the more suddenly it is put into the work, the better, because it takes rather better. It is not permitted to reheat it except when you want to mold. And to reheat it, put it, in fine, totally raw powder, in a cauldron on a clear flame & do not give it too much <span class="x">heat</span> in one go nor too fierce. Stir continuously with a long stick, turning around the cauldron to avoid the vapor. & in the middle, in the form of a figure 8 at the beginning, you will find it heavy <span class="x">and</span> clayey because it is full of moisture, <span class="x">and</span> when it heats up, it will start to throw off <span class="x">the moisture</span> in some bubbles on the edges of the cauldron. And finally it will become liquid & mealy & like bran & start boiling in the middle. Continue to stir continuously until you recognize that it has once again become heavy ʘʘ
+ <span class="add">If the <span class="m">plaster</span> is mixed with some <span class="m">dust</span> or is not the hard kind, it bursts in the fire & causes flaws.</span>
  
-<span class="m">Stone alum</span> is that which binds well to <span class="m">sand</span>.
+The hardest <span class="m">plaster</span>, as was said, is the best being from <span class="m">stone</span>, therefore take it raw of this kind. Crush it <span class="del">bien</span><span class="add">plus</span> as finely as possible and pass it through the finest <span class="tl">sieve</span> or <span class="tl">sleeve</span> that you can. Being thusly <span class="del">p</span><span class="add">b</span> fine, put it, <span class="add">in a <span class="ms">good amount</span></span>, in a <span class="tl">cauldron</span> or <span class="tl">skillet</span> over an open flame, & as it begins to heat up, stir it continuously, and heavy & lumpy as it is, it will become so light & so handleable that it will seem to you not to have any resistance to <span class="del">handling</span><span class="add">stirring</span>, as if it was <span class="m">water</span>. Keep stirring it continuously until it returns once again to being heavy & dense, and that is the sign it is cooked. <span class="add">But do not reheat it until your <span class="m">brick</span> and <span class="m">alum de plume</span> are reheated & your <span class="m">clay</span> circles are done. For it needs to be the last one reheated & when all the rest is ready, for the less <span class="m">plaster</span>#</span>
  
-<span class="m">Crocum ferri</span> is fit for <span class="m">gold</span>. It is this which, mixed into <span class="m">sand</span>, breaks it up again & keeps it hot.
- ————————— 
+> *at left bottom margin*
+> 
+> 
+>   # remains reheated, & <span class="del">plus</span> the quickest it is put to work, that is the best, for it sets more quickly. One ought not reheat it until you want to mold. And to reheat it, put it, as finely ground raw powder, in a <span class="tl">cauldron</span> on <span class="del">ash</span> a clear flame & do not make it neither too strong nor too violent. Always stir with a long <span class="tl">stick</span>, to avoid the vapor, turning it around the <span class="tl">cauldron</span> & in the middle, in a figure 8. At the beginning, you will find it heavy <span class="del">difficult</span> to stir, because it is full of moisture. As it heats up, it will start to throw off some bubbles at the edge of the <span class="tl">cauldron</span>. And finally it will become like liquid & mealy & like bran & boiling in the middle. Continue to stir continuously until you recognize that it has once again become heavy 
+> *Figure*
+> <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5Uy11NEVSUG0wTkk" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ 
+ 
+<span class="m">Alum de plume</span> is the one that gives good binding to sand.
+ 
+<span class="m">Crocum ferri</span> is appropriate for <span class="m">gold</span>. It is it, once mixed within the sand, that receives it & holds it within its warmth.
+ 
 > *at left top margin*
 > 
 > 
->   <span class="m">Plaster</span> When you have it in stone form, choose the hardest pieces and those which do not easily break into small pieces with your nail, and clean it well of powder & filth rather than crushing them with it.
+>   
+> *at left top margin*
+> 
+> 
+> <span class="m">Plaster</span>
+ When you have it as a <span class="m">stone</span>, choose the hardest bits and those which do not easily crumble away with your <span class="tl"><span class="bp">nail</span></span>, and clean it well from powder & filth before you pestle it.
  
 > *at left middle margin*
 > 
 > 
->   <span class="m">Plaster</span> alone does not sustain <span class="x">...</span> but breaks up into lumps. 
- 
- Keep reheated <span class="m">plaster</span>, as is said here, one or two months well compacted in a dry place, if it's not the rainy season but rather fresh out it is more excellent for exquisite work. 
+>   <span class="m">Plaster</span> alone does not withstand fire, but breaks up into pieces. 
  
 > *at left middle margin*
 > 
 > 
->   It must maintain its fire & turn red like lit charcoal.
+>   Reheated <span class="m">plaster</span><span class="del">se ga</span>, as is said here, keeps well one or two <span class="ms"><span class="tmp">months</span></span> well pressed <span class="env">in a dry place</span>, if it's not <span class="tmp"><span class="env">rainy weather</span></span>. But when fresh, it is excellent for exquisite work. 
+ 
+> *at left middle margin*
+> 
+> 
+>   It must withstand the fire & turn red like a lit <span class="m">charcoal</span>.
+ 
+*[continued]*
+
  

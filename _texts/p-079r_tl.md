@@ -19,7 +19,7 @@ environments: []
 animals: [wolf, dog]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-079r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f163.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>079r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-079r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f163.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>079r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -50,4 +50,5 @@ when you want to use some of it, mix it with <span class="m">very clear glue</sp
  Take six <span class="ms">ounces</span> of <span class="m">calcined tin</span> & as much of <span class="m">natural sulphur</span> & six <span class="ms">ounces</span> of <span class="m">sal ammoniac</span>, and put the <span class="m">tin</span> to melt in a <span class="tl">spoon</span>. When it is melted, put in <span class="m">quicksilver</span>, and throw it in a line, then crush all these <span class="m">drugs</span> together in a <span class="tl">mortar</span>, <span class="del">&</span>
  
 *[continued]*
+ 
  

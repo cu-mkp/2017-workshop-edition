@@ -19,7 +19,7 @@ environments: []
 animals: [rabbits]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-035r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f75.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>035r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-035r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f75.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>035r</a> - - - - - </div>  
   
 
 ## To tell someone that you will teach him something he does not know, and neither do you
@@ -53,4 +53,5 @@ Empty an <span class="m">egg</span> from both ends so that nothing remains insid
 
  
 Have some <span class="m">embers</span> in a pot, and after putting <span class="m">sulphur</span> on top, place it inside the burrows and block them with something light.
+ 
  

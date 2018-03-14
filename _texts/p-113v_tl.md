@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-113v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f232.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>113v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-113v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f232.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>113v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -55,4 +55,5 @@ and this way, while heating it again, the two casts will dissolve. Therefore, ha
  If you don't fill your mold with soaked <span class="m">sand</span> at one go, do mix your second cast with the top part of the first cast, stir with a spoon, or the stick you had took to soak your sand.
  
 You do not need to add <span class="m">sal ammoniac water</span> if you cast small molds which do not need to be reheated too long. However it is better to add some.
+ 
  

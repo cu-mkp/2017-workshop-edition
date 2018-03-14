@@ -19,7 +19,7 @@ environments: [on the little hill]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-081r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f167.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>081r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-081r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f167.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>081r</a> - - - - - </div>  
   
 
 ## Sand
@@ -60,4 +60,5 @@ It is necessary that it be well heated, which you will recognize when cooking it
 
  
 One ought to take <span class="m">paper from <span class="pl">Florence</span></span>, which is the finest, & crush it & soak it several times & change the <span class="m">water</span> <span class="tmp">every day</span>, so that it does not smell bad, & since you will have moulded it in the cavity, put a <span class="tl"><span class="m">linen</span></span> over it, & from the back, rub the back of the <span class="m">paper</span> with a <span class="tl">tooth</span>, as if you wanted to burnish it, and it will mould very neatly. Then <span class="m">glue</span> the <span class="m">cloth</span> on the back with <span class="m">strong glue</span>. 
+ 
  

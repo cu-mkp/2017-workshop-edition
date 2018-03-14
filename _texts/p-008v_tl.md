@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-008v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f22.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>008v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-008v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f22.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>008v</a> - - - - - </div>  
   
 
 ## Polishing of the <span class="m">balas ruby</span>
@@ -57,5 +57,6 @@ Because among the <span class="m">fine tin</span>they often mix well <span class
 ## Perfect amalgam
 
  
-Take the most delicate <span class="m">stoneware</span> you can find, with a cavity in the middle. Put in an <span class="ms">eighth part</span> of <span class="m">☿</span> <span class="del">in</span> & rub it & wear it down while adding <span class="m">water</span>, <span class="m">urc</span>, <span class="m">☾</span> or <span class="m">☼</span> until the substance becomes like paste & even harder. Next, if you want, eat it away with good <span class="m">aqua fortis</span>, if it is <span class="m">☾</span> or <span class="m">♀</span>. Then remelt it, having taken it out as you know. The <span class="m">☾</span> will be colored, and having been melted, will leave some grains of <span class="m">☼</span>, & the <span class="m">♀</span> will be very fine & will have almost no chappe.
+Take the most delicate <span class="m">stoneware</span> you can, with a cavity in the middle. Put in an <span class="ms">eighth part</span> of <span class="m">☿</span> <span class="del">in</span> & rub it & wear it down while adding <span class="m">water</span>, <span class="m">urc</span>, <span class="m">☾</span> or <span class="m">☼</span> until the substance becomes like paste & even harder. Next, if you want, eat it away with good <span class="m">aqua fortis</span>, if it is <span class="m">☾</span> or <span class="m">♀</span>. Then remelt it, having taken it out as you know. The <span class="m">☾</span> will be colored, and having been melted, will leave some grains of <span class="m">☼</span>, & the <span class="m">♀</span> will be very fine & will have almost no chappe.
 
+ 

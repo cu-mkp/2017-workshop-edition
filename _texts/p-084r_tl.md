@@ -19,7 +19,7 @@ environments: [dry place, cellar, mine in Thoulouse, depths of the earth, from t
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-084r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f173.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>084r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-084r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f173.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>084r</a> - - - - - </div>  
   
 
 ## Impromptu mask
@@ -35,7 +35,7 @@ Mold some <span class="m">paper</span> & put it on the face of somebody who is m
 ## <span class="m">Eau magistra</span>
 
  
-Dissolve <span class="m">rock salt</span> or <span class="del"><span class="m">salt</span></span> finely pulverized <span class="m">sandever</span> & put on <span class="tl"><span class="m">marble</span></span> in a <span class="env">cellar</span>, & it will dry out by reheating the <span class="tl">mold</span>, & will give it a bond to withstands several castings. Try to moisten it with <span class="m">tartar oil</span>.
+Dissolve <span class="m">rock salt</span> or <span class="del"><span class="m">salt</span></span> finely pulverized <span class="m">sandever</span> & put on <span class="tl"><span class="m">marble</span></span> in a <span class="env">cellar</span>, & it will dry out by reheating the <span class="tl">mold</span>, & will give it a bond to withstand several castings. Try to moisten it with <span class="m">tartar oil</span>.
  
  
   
@@ -57,4 +57,5 @@ The <span class="m">sand from <span class="pl">Thoulouse</span></span>, which is
 > 
 > 
 >   It is necessary to reheat it before using it. It is rendered better for casting because it is reheated, but when it has been used a lot, one ought to refresh it with new sand.
+ 
  

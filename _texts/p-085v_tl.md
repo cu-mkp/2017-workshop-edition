@@ -19,7 +19,7 @@ environments: [mine]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-085v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f176.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>085v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-085v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f176.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>085v</a> - - - - - </div>  
   
 
 ## <span class="pro">Founder</span>
@@ -68,4 +68,5 @@ I have experimented with <span class="m">sand from <span class="pl">Th<span clas
 >  <span class="m">Sand from a mine</span>, well chosen & well reheated, is the most excellent of all, without looking for any other mixtures, because it receives all <span class="m">metals</span>. It does not want to be used hot, because it makes things porous. The most finely ground for big works is not the best, because it does have enough body to withstand
  
 *[continued]*
+ 
  

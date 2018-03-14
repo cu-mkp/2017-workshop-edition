@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-146r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f297.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>146r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-146r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f297.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>146r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -50,3 +50,4 @@ so that it is wet everywhere. If not, wet it with a large brush dedicated to thi
 > 
 > 
 >  Heed that you not attach the stem of the flower too firmly to the casting with <span class="m">wax</span>, lest it consume something when you remove the <span class="m">wax</span> from the casting. To remove it, you have to loosen it a bit all around & then draw it out by the <span class="m">iron</span> wire with little pincers.
+ 

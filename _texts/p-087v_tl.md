@@ -19,7 +19,7 @@ environments: [mine, deep in the earth, above]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-087v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f180.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>087v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-087v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f180.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>087v</a> - - - - - </div>  
   
 
 ## Sand, <span class="m">slate</span>, and <span class="m">burned earth</span>
@@ -61,4 +61,5 @@ Others beat it well in a <span class="tl">mortar</span>, in small amounts at a t
 > 
 > 
 >   I have molded with it in <span class="m">pure lead</span> very <span class="del">neatly</span> hot, & I had as an example the first very neat one, but the <span class="m">vinegar</span> hardly gives it any bond, & thus it withstood only one cast. 
+ 
  

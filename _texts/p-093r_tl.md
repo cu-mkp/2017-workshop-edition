@@ -19,7 +19,7 @@ environments: [hearth, kitchens, big kitchens]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-093r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f191.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>093r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-093r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f191.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>093r</a> - - - - - </div>  
   
 
 ## Olives
@@ -68,4 +68,5 @@ The <span class="m">white ash of all woods</span>, which still sticks to the <sp
  <span class="del"><span class="m">Ashes</span></span> <span class="m">well pulverized tallow</span> molds & releases very neatly. The one from the <span class="env">kitchens</span>, which is fat & shiny, from the <span class="env">big kitchens</span>, is better.
  
 <span class="m">Finely pulverized quicklime</span> works. The same for broken up <span class="m">flint</span>,which works better in the cavity.
+ 
  

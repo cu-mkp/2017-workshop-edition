@@ -19,7 +19,7 @@ environments: [fireplaces of large kitchens]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-093v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f192.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>093v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-093v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f192.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>093v</a> - - - - - </div>  
   
 
 ## Faces in <span class="m">distemper</span>
@@ -42,4 +42,5 @@ Because colors in <span class="m">distemper</span> dry quickly & one would not h
 
  
 It is made of <span class="m">azure</span> & <span class="m">lake</span> which is also assayed on the <span class="tl">palette</span> with white. It is deemed beautiful that which which, on a <span class="m">polished knife</span> or on <span class="tl"><span class="m">glass</span></span> gives a clear <span class="del">red</span> color of red rose, tending a little towards violet. The kind which is <span class="del">blac</span> dark red is not as pleasant.
+ 
  

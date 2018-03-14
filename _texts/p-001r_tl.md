@@ -19,7 +19,7 @@ environments: []
 animals: [aucupio, venatione, Aquatilium animalium]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-001r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f7.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>001r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-001r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f7.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>001r</a> - - - - - </div>  
   
  Master Nicolas Coste, in the <span class="pl">Rue de la Heaumerie, at the sign of St Claude</span>/Mirrors<br/> Master Jehan Cousin, who resides in the <span class="pl">Faubourg St Germain</span>, knows about the master<br/> Master Jehan Garnier, in the <span class="pl">Rue des Escrivains</span> by <span class="pl">St Jacques de la Boucherie</span>, <span class="pro">currier</span>. Try <span class="m">woad flowers</span>
  
@@ -50,4 +50,5 @@ Les Annales de <span class="pl">Normandie</span>
 Alexander Aphrodisaeus<br/> Polydorus Vergilius<br/> Appianus<br/> Athenaeus<br/> Pausanias<br/> Statius Thebaidos<br/> Servius, In Aeneidem<br/> Macrobius<br/> Aulus Gellius<br/> Alexander ab Alexandria<br/> Festus<br/> Nonius<br/> Magius, Miscellanea<br/> Pollux, Onomasticon<br/> Hyginus<br/> Berosus<br/> Suetonius<br/> Valerius Maximus<br/> Cornelius Tacitus<br/> Xenophon<br/> Seneca<br/> Dionisius Halicarnassensis<br/> Sabellicus<br/> <span class="add">cum permultis<br/>aliis </span>Julius Capitollinus<br/> Budaeus<br/> Spartianus<br/> Blondus<br/> Volaterranus<br/> Herodotus<br/> Paulus Manutius<br/> Strabo<br/> Julius Firmicus<br/> Quintus Curtius<br/> Dio<br/> Cornelius Nepos<br/> Flavius Vopiscus
  
 Monsieur
+ 
  

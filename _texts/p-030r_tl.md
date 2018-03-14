@@ -19,7 +19,7 @@ environments: []
 animals: [horse]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-030r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f65.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>030r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-030r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f65.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>030r</a> - - - - - </div>  
   
 
 ## <span class="m">Lead</span>
@@ -44,4 +44,5 @@ The vessel can be <span class="tl">hammered</span> <span class="del">mar</span> 
 Depending on the size of their dishes & plates, they have notches on the spoke of their <span class="tl"><span class="m">iron</span> wheels</span>. And when they want to apply
  
 *[continued]*
+ 
  

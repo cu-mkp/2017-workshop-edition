@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-160r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f325.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>160r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-160r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f325.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>160r</a> - - - - - </div>  
   
 
 ## <span class="tl">Presse</span> pour les grands <span class="tl">moules</span>
@@ -46,4 +46,5 @@ Ce sont deulx <span class="tl">lamines de <span class="m">fer</span></span> atta
 
  
 S'il est gecté espés, il agrave trop les fleurs & les reserre & reduit<br/> co<span class="exp">mm</span>e amassées ensemble. Advise doncq de le destremper cler, & fort<br/> soufler plustost que la fleur ne soict couverte. Gecte au costé du<br/> <span class="tl">moule</span>. Et destrempa<span class="exp">n</span>t le sable, il ne fault seulem<span class="exp">ent</span> tourner la<br/> <span class="tl">pallette</span>, mays battre le sable dans l'<span class="m">eau</span> co<span class="exp">mm</span>e si tu battois<br/> de la <span class="m">glaire d'oeuf</span>.
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [lizard]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-128v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f262.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>128v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-128v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f262.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>128v</a> - - - - - </div>  
   
  You will see that it will stir it and heat it intensely and soon will make it quite liquid and ready to cast, and lighten it as it should.When it is in that state, very white and polished, shiny like quicksilver, be ready to cast. To that end, have thin, diluted sand in a pot or other vessel, which will be helpful to your mixture. Make a hole in your sand, and with you pincers put your red hot mold in this sand hole. Cover immediately the opening of your mold so that no ash or dust enters in it, and then surround it with sand up to the level of the gate and the vents. This done, peel off you mold and cast you well molten <span class="m">silver</span>, the size of a pea of this metallic grain, which will immediately spread your <span class="m">silver</span> all over, making it boil and cover everything. Cast as soon as you have spread this matter; that is the secret to make <span class="m">silver</span> run, because its crust heats up and lightens it up. You can cast <span class="m">silver</span> thinner than the Capital league <span class="x">norm</span>, as the royal one. 
  
@@ -55,4 +55,5 @@ animals: [lizard]
 > 
 > 
 >   He made sure that his <span class="m">tartar water</span> would not boil over, because its strength would disappear, so when this first boiling happens, remove it from the fire and put it on again. He held this burned <span class="m">tartar</span> mixture put on low quality <span class="m">silver</span> to be a secret.
+ 
  

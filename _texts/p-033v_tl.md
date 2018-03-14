@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-033v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f72.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>033v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-033v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f72.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>033v</a> - - - - - </div>  
   
 
 ## To make it seem to someone that he has a piece of silver on his forehead
@@ -43,4 +43,5 @@ Take a pipe or funnel of <span class="m">white iron</span> which is double—wal
 > 
 > 
 >   # his forehead, then removing your thumb from on top of the hole on the edge near the top, the air, being free, will make the <span class="m">wine</span> flow out from the double wall through the hole marked B, and fall through the tip marked C into the glass. But you must bend the head of the spectator well in order to do it properly.
+ 
  

@@ -19,7 +19,7 @@ environments: [out of the wind, mine]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-086v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f178.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>086v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-086v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f178.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>086v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -43,4 +43,5 @@ When you mold, make certain lines around your <span class="tl">mold</span>, in t
 <span class="m">Potin from seringue</span> & other <span class="del">co</span>works, runs even better than <span class="m">fine latten</span>. But I think that it is better <span class="ms">half</span> <span class="m">copper</span> & <span class="ms">half</span> <span class="m">latten</span>, which have been used & have been in very thin works, such as skillets & other similar things. I have this mixture of <span class="ms">half</span> and <span class="ms">half</span> come out well.
  
 *[continued]*
+ 
  

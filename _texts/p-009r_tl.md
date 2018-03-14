@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-009r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f22.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>009r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-009r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f23.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>009r</a> - - - - - </div>  
   
 
 ## <span class="pro">Plowman</span>
@@ -42,4 +42,5 @@ Some, having laid down their color, soften it with the back of a <span class="tl
 
  
 They commonly have four books. The tiro, which is a formulary for apprentices, by which they can know how much every item of merchandise costs and for how much it should be sold. The second is the waste book, where they put down in rough what they sell daily. The third is the sales book, where they put down the clean copy and detailed account of what is contained in the waste book. The fourth is the ledger, which mentions the sale, the balanced account, the bill and the term of payment, and this book is accepted as evidence in court.
+ 
  

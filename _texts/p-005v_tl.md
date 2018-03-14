@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-005v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f16.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>005v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-005v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f16.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>005v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -34,4 +34,5 @@ You will be able to provide light at night for someone quite far away, if you se
 
  
 Take <span class="m">mirror tin</span> and melt it. On half a pound of this, put half an ounce of <span class="m">quicksilver</span>, and remove it immediately from the fire and grind it until it is like ashes. Wash it thoroughly in <span class="m">clean water</span>, then grind it on a <span class="tl"><span class="m">marble</span> slab</span> and soak it with water of <span class="m">glue de retailles</span>. Then apply that on your wooden candlesticks and any other works you like, and burnish with a <span class="m">tooth</span>. You can grind <span class="m">pin filings</span> and apply them with the said <span class="m">glue <span class="sup">de retailles</span></span>. 
+ 
  

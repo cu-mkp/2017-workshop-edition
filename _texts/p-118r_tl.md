@@ -8,24 +8,24 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [aqua fortis, mother-of-pearl, plaster, ashes, Stone, stuf, charcoal, tin, brass, paper, glass, cork, heated parchment, white coral, wood, looking-glass tin, marcasite, earth, glue, mines, sulfurous marcasites, Red copper, Looking-glass tin, Salt ammoniac, Salt ammoniac water, gold, silver]
+materials: [aqua fortis, mother-of-pearl, plaster, ashes, old vine stocks, Stones made from water, tuf, charcoal, tin, fine latten, paper pestled, pestled glass, cork, heated parchment, white coral, fantastical pieces of wood, mushrooms, potirons, looking-glass tin, marcasite, earth, colle forte, mines, sulfurous marcasites, Rosette, Looking-glass tin, Sal ammoniac, Sal ammoniac water, gold, silver]
 tools: [molded, core mold, molds, presses, pot, burin, chaple, chisel, hammer, casting]
 measurements: [lb]
 bodyparts: []
 places: []
-plants: [vine, potirons]
+plants: [vine, mushrooms, potirons]
 professions: []
-environments: [ocean]
+environments: [sea, grottoes, forests, grotto]
 animals: [Snails]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-118r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f241.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>118r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-118r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f241.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>118r</a> - - - - - </div>  
   
 
 ## <span class="al">Snails</span>
 
  
-Those which are found in the <span class="env">ocean</span> and similarly those in which certain small crabs dwell are very beautiful for grottoes, if they have been rid of the first layer of their shell with <span class="m">aqua fortis</span>, because they really look to be made of <span class="m">mother—of—pearl</span>.
+Those which are found in the <span class="env">sea</span> and similarly those in which certain small crabs dwell are very beautiful for grottoes, if they are stripped of the first crust of their shell with <span class="m">aqua fortis</span>, for they truly appear to be made of <span class="m">mother—of—pearl</span>.
  
  
   
@@ -35,23 +35,23 @@ Those which are found in the <span class="env">ocean</span> and similarly those 
  
 If your <span class="tl">molds</span> are made of good <span class="m">plaster</span> which withstands fire, they will not crack, especially if they are squeezed well between two tables with <span class="tl">presses</span> or in a <span class="tl">pot</span> filled with <span class="m">ashes</span> or sand, and, therefore, they will not develop flaws. If they they develop some <span class="sup">flaws</span>, you can remove them with a <span class="tl">burin</span> called <span class="tl">chaple</span> which has a tip like a small <span class="tl">chisel</span>.
  
-> *at left middle margin*
-> 
-> 
->   The old <span class="pa">vine</span> stocks
- 
  
   
 
-## For grottoes
+## For <span class="env">grottoes</span>
 
- 
-<span class="m">Stone</span>s made from water called <span class="m">stuf</span>; <span class="m">charcoal</span>; the confection of <span class="m">tin</span> and pure <span class="m">brass</span>; <span class="m">paper</span> ground up and mixed with ground up <span class="m">glass</span>; <span class="m">cork</span>; <span class="m">heated parchment</span>, <span class="sup">and</span> <span class="m">white coral</span>, all of them are appropriate for making grottoes. But, once dry, bizarre pieces of <span class="m">wood</span>, which <span class="x">the bizarre pieces of wood</span> are found in the forests and among <span class="sup">regular</span> mushrooms and <span class="pa">potirons</span> <span class="sup">growing on</span> trees, are better than all of them because they are light. Mix in with small pieces of <span class="m">looking—glass tin</span> which have a shiny luster. Grind in a little of a different kind of <span class="m">marcasite</span> in order to clean the <span class="m">earth</span> away, then powder the work, which is very beautiful. If there is no spring in the grotto, glue all of this with strong <span class="m">glue</span>, and then the work is done. You must show all kinds of <span class="m">mines</span>. The <span class="m">sulfurous marcasites</span> which do not have a grain but are even like <span class="m">looking—glass tin</span> are very beautiful.
  
 > *at left middle margin*
 > 
 > 
->   <span class="m">Red copper</span> is found sometimes mixed with certain brittle lumps which are pulverized under the <span class="tl">hammer</span>, which are very beautiful pulverized on grottoes.
+>   The <span class="m">old <span class="pa">vine</span> stocks</span>
+ 
+<span class="m">Stones made from water</span> called <span class="m">tuf</span>; <span class="m">charcoal</span>; the compound of <span class="m">tin</span> & <span class="m">fine latten</span>; <span class="m">paper pestled</span> & mixed with <span class="m">pestled glass</span>; <span class="m">cork</span>; <span class="m">heated parchment</span>; <span class="m">white coral</span> are appropriate for making <span class="env">grottoes</span>. But <span class="m">fantastical pieces of wood</span> which are found in the <span class="env">forests</span> & <span class="m"><span class="pa">mushrooms</span></span> and <span class="m"><span class="pa">potirons</span></span> of trees, once dry, are better than all because they are light. One mixes in small pieces of <span class="m">looking—glass tin</span> which has a shiny luster. One finely pestles in a different kind of <span class="m">marcasite</span> which one washes to cleanse them of <span class="m">earth</span>, &one dusts the work with it, which is very beautiful. If there is no fountain in the <span class="env">grotto</span>, one glues all <span class="del">al</span> of this with <span class="m">colle forte</span>, <span class="del">which</span> and it is soon done. <span class="add">Take examples of all kinds of <span class="m">mines</span>. The <span class="m">sulfurous marcasites</span> which do not have a grain but are even like <span class="m">looking—glass tin</span> are very beautiful.</span>
+ 
+> *at left middle margin*
+> 
+> 
+>   <span class="m">Rosette</span> is found sometimes mixed with certain brittle lumps which are pulverized under the <span class="tl">hammer</span>, which are very beautiful pulverized on <span class="env">grottoes</span>.
  
  
   
@@ -59,13 +59,14 @@ If your <span class="tl">molds</span> are made of good <span class="m">plaster</
 ## <span class="m">Looking—glass tin</span>
 
  
-If one ounce of <span class="sup"><span class="m">looking—glass tin</span></span> is put in with it <span class="sup">pure <span class="m">tin</span></span>, pure <span class="m">tin</span> whitens and becomes firm, that is, i ℥ of <span class="m">looking—glass tin</span> in one <span class="ms">lb</span> of pure <span class="m">tin</span>.
+It whitens and renders firm fine <span class="m">tin</span> if <span class="del">en on</span> one puts <span class="del">in</span> in one ounce of it, that is to say, i ℥ of <span class="m">looking—glass tin</span> in one <span class="ms">lb</span> of fine <span class="m">tin</span>.
  
  
   
 
-## <span class="m">Salt ammoniac</span>
+## <span class="m">Sal ammoniac</span>
 
  
-<span class="m">Salt ammoniac water</span> is naturally quite good for <span class="tl">casting</span> in <span class="m">gold</span> and in <span class="m">silver</span>.
+<span class="del">It</span><span class="m">Sal ammoniac water</span> is very right for <span class="tl">casting</span> in <span class="m">gold</span> and in <span class="m">silver</span>.
+ 
  

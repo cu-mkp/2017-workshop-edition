@@ -19,7 +19,7 @@ environments: []
 animals: [crayfish, Stag beetles, crabs, turtles]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-141r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>141r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-141r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>141r</a> - - - - - </div>  
   
 
 ## Casting a <span class="al">crayfish</span>
@@ -73,4 +73,5 @@ The<span class="al">crayfish</span> is one of the most fantastical to cast, but 
 > To paint it, boil it with <span class="m">wine</span> and a bit of <span class="m">salt</span> so that they become very red and use this as a model. Paint the back with <span class="m">vermillion</span> mixed with <span class="m">laquer</span>, and the sides and the underside of the belly and the legs with <span class="m">vermillion</span> and <span class="m">yellow ochre</span> and <span class="m">white</span>.
  
 *[continued]*
+ 
  

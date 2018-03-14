@@ -19,7 +19,7 @@ environments: []
 animals: [rat, lizard, mouse, snakes, lizards, rats]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-152r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f309.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>152r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-152r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f309.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>152r</a> - - - - - </div>  
   
 
 ## Molding a <span class="al">rat</span>
@@ -52,3 +52,4 @@ The hairs of his whiskers are difficult to come out of the mold, you can therefo
 > 
 > Only put your mold in the oven after it has cooled, drying slowly, otherwise it will absorb the moisture and break.
 
+ 

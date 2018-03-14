@@ -19,7 +19,7 @@ environments: [wind]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-016r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f37.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>016r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-016r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f37.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>016r</a> - - - - - </div>  
   
 
 ## Melting <span class="m">soft iron</span>
@@ -49,4 +49,5 @@ It is necessary that the tuelle is inserted <span class="sup">through</span> to 
 >   Some make a mould of the same size as the piece, then immerse it, then beat a soft <span class="m">iron</span> piece cut to size, and when this bit is red hot, they beat it into the mould and round it out with a large <span class="tl">file</span>. These bullets are thought to be stronger than the melted ones which, being made of hard <span class="m">iron</span>, are more prone to break.
  
 *[continued]*
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [lizards, snake, lizard, frog, wall lizard]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-133v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f272.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>133v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-133v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f272.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>133v</a> - - - - - </div>  
   
 
 ##  Porosity and little holes which are in the mold
@@ -54,4 +54,5 @@ animals: [lizards, snake, lizard, frog, wall lizard]
  You can entwine a <span class="al">snake</span> with a <span class="al">lizard</span>, each one biting the other, or a <span class="al">snake</span> eating a <span class="al">frog</span>, or a <span class="al">wall lizard</span> or something similar. But since these interlacings cannot be stripped, cut what's possible, and allow the rest to burn. To make the mouth of the <span class="al">snake</span>, which must stand high, hold a <span class="al">wall lizard</span>, which is small and would need to be held in the air, because the <span class="al">snake</span>'s head is higher, put under the <span class="al">wall lizard</span> a mound of earth suitable to support it. And if you place the mold in a furnace, the animal drying quickly, it will quickly shrink, then it will burn more easily. These interlacings are also made to mask wounds or defects on the animal which happen when we catch them. Do not forget to join with <span class="m">wax</span>, applied carefully with a hot <span class="m">iron</span> wire, all the parts of the animal which are one on top of the other, or those which are not well pressed on the slab of clay, so that the soaked sand does not remove them. Do that in order to 
  
 *[continued]*
+ 
  

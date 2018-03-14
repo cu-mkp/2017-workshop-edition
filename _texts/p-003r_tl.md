@@ -19,7 +19,7 @@ environments: [in the shade, in the sun, rain]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-003r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f11.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>003r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-003r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f11.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>003r</a> - - - - - </div>  
   
 
 ## <span class="m">Counterfeit coral</span>
@@ -74,4 +74,5 @@ Take a <span class="ms">lb</span> of <span class="m"><span class="pl">Venice</sp
 There is a <span class="m">varnish</span> that takes a long time to dry & still drips up to two <span class="tmp">months</span> after it has been applied to the floorboards. But this one does not drip like the one used <span class="tmp">in the past</span>, which was made of <span class="m">linseed oil</span> boiled with <span class="m">garlic</span>, to extinguish it & take out the fattiness, & with <span class="m">wheat</span>. And this one yellowed & made the blue color of paintings greenish. This one is made like the other one except that one puts <span class="m">common thick turpentine</span>
  
 *[continued]*
+ 
  

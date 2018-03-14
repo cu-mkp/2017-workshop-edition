@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-117v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f240.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>117v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-117v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f240.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>117v</a> - - - - - </div>  
   
 
 ## To make the ashes of <span class="pa">flowers</span> and <span class="pa">herbs</span> leave <span class="tl">molds</span>
@@ -73,4 +73,5 @@ Rub them with <span class="m">oil</span> with a <span class="tl">brush</span>. B
 
  
 If you have to cut some snake inside a <span class="tl">mold</span> in order to burn it, cut it far from the intake of the <span class="tl">mold</span> so that no <span class="m">blood</span> at all remains, because it makes a crust that afterwards would not be taken away by the same <span class="m">quicksilver</span> & removes impressions from your <span class="tl">mold</span>.
+ 
  

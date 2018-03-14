@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-021v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f48.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>021v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-021v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f48.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>021v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -41,3 +41,4 @@ Some people say that one should remove the cannonball if the cannon is loaded an
  
 There is nothing more efficient for defending a breach than mortars placed at the front line, as soon as the initial assault. They carry a lot of ammunition and are filled with cart <span class="m">nails</span>, big <span class="m">steel</span> dice, bits of <span class="m">chains</span> and similar items. And when one senses that the enemy is close, one lights everything on fire. Grenades, well—constructed and thrown at the right moment, also cause much damage. And to make them worse, one can add some roughly crushed <span class="m">glass</span>, either in the mold or in the crucible, when one casts them. This worsens the wounds. The grenades must not be too brittle, but it is good that they be somewhat alloyed with the material of the grenade so that instead of breaking up, they resist shock better and inflict more violence.
 
+ 

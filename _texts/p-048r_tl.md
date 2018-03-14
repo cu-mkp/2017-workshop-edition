@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-048r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f101.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>048r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-048r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f101.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>048r</a> - - - - - </div>  
   
 
 ## <span class="pro">Founder</span>
@@ -53,4 +53,5 @@ Dry some <span class="m">bread</span> in an oven, then stick <span class="m">clo
 
  
 Take a measurement from <span class="x">the part of</span> their body that is fleshy and more susceptible to decay, with some <span class="m">canvas</span> that you shall cut according to their size and width. Having filled this with <span class="m">cotton</span> and stitched it, skin them. But leave the head, neck, wings and feet of birds, and head, legs, feet and tail of animals, because those dry easily. Then use that <span class="m">skin</span> to dress the mold made of <span class="m">canvas</span>. Small ones can be dried in an oven or covered in <span class="m">sel ammoniac</span> and <span class="m">(?)</span>.
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-097r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f199.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>097r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-097r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f199.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>097r</a> - - - - - </div>  
   
 
 ## <span class="m">Black varnish</span>
@@ -42,4 +42,5 @@ One prepares the guards thoroughly with a soft, very <span class="tl">soft file<
 
  
 One needs to prepare the guards & whiten them with a <span class="del">lince </span> <span class="tl">file</span>, a little coarser <span class="del">for</span> than for <span class="m">gold</span>. And one makes them pass to grey, as for gilding. And when they are warm, one needs to double the <span class="m">leaf of silver</span>, then divide it with a <span class="tl">knife</span>, next cover the guard with it, with <span class="del">un petit</span> <span class="tl">tweezers</span> & a small <span class="tl">burnisher</span>. And then reheat & apply them, until they are all gilded in <span class="m">silver</span>. Next one needs to cover them for the third time, with the <span class="m">leaf</span> doubled as has been said, then burnish them very strongly & with good strength, not with the <span class="m">bloodstone</span>, but with a strong <span class="tl">burnisher</span>, just as the <span class="tl">burnisher</span> ought not to burnish <span class="m">gold</span>.
+ 
  

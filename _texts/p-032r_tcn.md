@@ -19,7 +19,7 @@ environments: [à la pluye]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-032r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f69.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>032r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-032r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f69.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>032r</a> - - - - - </div>  
   
 
 ## Corps de cuirasse
@@ -48,4 +48,5 @@ Celuy qui sçaict bien travailler à <span class="m">destrempe</span> travailler
 Les <span class="pro">scribes</span> & <span class="pro">painctres</span> vulgaires font de la <span class="m">batture</span>,<br/> c'est <span class="m">colle de <span class="pro">menusier</span></span> destrempée en <span class="m">eau</span> sur le foeu, mediocrem<span class="exp">ent</span><br/> claire, meslee de fort peu de <span class="m">miel</span>, c'est à sçavoir quelques<br/> <span class="ms">gouttes</span> pour faire griper. Et en forment des lettres ou<br/> ce qu'ilz veulent <span class="m">dorer</span> avecq le <span class="tl">pinceau</span>, et bientost<br/> aprés couchent l'<span class="m">or</span>, mays jamays ilz ne font leur<br/> ouvrage bien net, et s'il y a beaucoup de <span class="m">miel</span>, cela ne<br/> seiche qu'à grand peine. Ceste couche se deffaict <span class="env">à la pluye</span>.
  
 Aultres font mieulx. Ilz destrempent du <span class="m">sucre candy</span><br/> en <span class="m">eau</span> et le meslent avecq de la <span class="m">sanguine</span>, qu'ilz appellent<br/> <span class="m">cocon</span>, fort brayé, y adjoustant un peu de <span class="m">savon</span>. Cestuy<br/> se faict net & rend l'<span class="m">or</span> beau si on en faict son assiette.
+ 
  

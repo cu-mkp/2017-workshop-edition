@@ -19,9 +19,9 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-170v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f346.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>170v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-170v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f346.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>170v</a> - - - - - </div>  
   
-L'an mil cinq cens septante huict le deuxiesme de juillet a esté faict<br/> transport aulx heritiers de feu sr Ouvryer <span class="del">deux cens cinq escu</span><br/> du rentement de S<span class="exp">ainc</span>t Frajou, montant douze cens trente livres.
+L'an mil cinq cens septante huict le deuxiesme de juillet a esté faict<br/> transport aulx heritiers de feu s^(r) Ouvryer <span class="del">deux cens cinq escu</span><br/> du rentement de S<span class="exp">ainc</span>t Frajou, montant douze cens trente livres.
  
 Autre transport leur a esté faict sur les fruictz de l'année<br/> mil cinq cens septante neuf de <span class="del">deux</span> <span class="add">trois</span> cens quarante trois escus<br/> un tiers <span class="del">sur qu</span>.
  
@@ -67,4 +67,5 @@ Marmodaeus, <span class="del">ge</span> De lapillis præciosis
 > 
 > 
 > @ Hyeronimus<br/> mercurialis<br/> variarum
+ 
  

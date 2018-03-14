@@ -19,7 +19,7 @@ environments: [churches]
 animals: [oyster, cuttlefish]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-049r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f103.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>049r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-049r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f103.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>049r</a> - - - - - </div>  
   
 
 ## <span class="m">Lead</span> casting
@@ -59,4 +59,5 @@ Those who cast those small works that are sold in front of <span class="env">chu
 They put into one <span class="ms">quintal</span> of <span class="m">fine tin</span> one <span class="ms">lb</span> of <span class="m">looking glass tin</span>, which renders the <span class="m">tin</span> thicker. There are two kinds of <span class="m">tin</span>, one of them, nearly like <span class="m">lead</span>, which runs better, the other, brittle, which renders itself thicker. They cast in solid <span class="tl"><span class="m">tin</span> molds</span> & thick or, to do it more neatly in <span class="tl"><span class="m">copper</span> molds engraved with a <span class="tl">burin</span>, or in <span class="m">stone</span> or in <span class="m">earth</span></span>. <span class="m">Latten</span> shards, mixed in, only rendering the <span class="m">tin</span> more breakable & harder & difficult to work with, they cast <span class="add">in</span> very hot <span class="tl">molds</span> <span class="del">& almost red</span> & very hot <span class="m">tin</span>. They fumigate their <span class="tl"><span class="m">tin</span> molds</span> with <span class="m">resin candles</span>.
  
 <span class="m">Brittle <span class="del">dou</span> tin</span> is found mixed into saulmons, easy for cutting, but difficult to put to work &melts if it is not mixed with the other soft one. Otherwise, it would become waste.
+ 
  

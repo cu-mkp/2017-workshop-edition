@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-045v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f96.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>045v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-045v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f96.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>045v</a> - - - - - </div>  
   
 
 ## Charger arquebus
@@ -37,4 +37,5 @@ Il fault que tu ayes diverses charges selon la portée<br/> que tu vouldras donn
 
  
 Oste la culace et le pose sur une table bien unie & bien<br/> posée à plomb et passe par le dedans un <span class="tl">filet</span> sans noeuds &<br/> bien uni, à chasque bout duquel il y aye un plomb qui pende<br/> de chasque costé. Puys regarde dans le canon le long du<br/> filet, et s’il ne touche esgalement partout, remarque l’endroict<br/> où il ne touche poinct & fais fraper d’un <span class="tl">marteau</span> par dehors<br/> de ce costé & au mesme lieu & ainsy il se redressera, &<br/> fais ainsy tout aultour.
+ 
  

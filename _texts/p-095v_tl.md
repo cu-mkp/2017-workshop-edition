@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-095v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f196.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>095v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-095v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f196.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>095v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -40,4 +40,5 @@ Theses <span class="m">wood</span> pieces are thus called estelles, and have to 
 Then the <span class="pro">furbisher</span> puts them on a small bench, called a scabbard bench and with a small <span class="m">iron</span> tool similar to the <span class="pro">joiners</span>' bench, they maintain it firmly. Then with a plane, which is like a two—handled knife, they work the <span class="m">wood</span> piece from the top, then use the <span class="pro">joyner</span>'s plane to flatten it more. Afterwards, the inside is scoured with a
  
 *[continued]*
+ 
  

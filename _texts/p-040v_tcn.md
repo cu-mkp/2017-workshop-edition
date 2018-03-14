@@ -19,7 +19,7 @@ environments: []
 animals: [dragon]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-040v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>040v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-040v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>040v</a> - - - - - </div>  
   
 
 ## Croix des <span class="pro">commandeurs<br/> de <span class="pl">Malte</span></span>
@@ -50,4 +50,5 @@ L'<span class="m">estaim doibt estre pur</span> car s’il y a du <span class="m
 
  
 Si ta cornue est bien <span class="m">lutée</span> il ne la fault poinct entourner<br/> de <span class="m">cendres</span>, qui ne feroient qu'empescher de bien chasser les<br/> espricts. Mays quand tu luy donneras sur la fin feu de<br/> chasse, entourne la de <span class="m">charbons</span> qui plustost soient allumés ailleurs,<br/> co<span class="x">mm</span>e doibvent estre ceulx du <span class="tl">fourneau</span>, affin qu'ilz ne petillent<br/> poinct & ne fassent poinct de fumée. Mects lesdicts <span class="m">charbons</span><br/> allumés aultour le corps de la cornue & non pas pres du col,<br/> qui n'a poinct besoing d'estre si vivement chaufé. La grille<br/> haulte où tu assois ta cornue est assés distante d'un <span class="ms">dour</span> ou<br/> demy <span class="ms">pied</span> de la grille basse où se mect le <span class="m">charbon</span>, car en ce<br/> faisant il ne s'en gaste pas tant.
+ 
  

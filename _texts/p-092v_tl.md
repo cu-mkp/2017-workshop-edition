@@ -19,7 +19,7 @@ environments: [river, fresh river waters]
 animals: [tellins, mussels, shells]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-092v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f190.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>092v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-092v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f190.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>092v</a> - - - - - </div>  
   
 
 ## <span class="m">Sand from <span class="env">river</span> <span class="al">tellins</span> and <span class="al">mussels</span></span>
@@ -46,4 +46,5 @@ It can also be frozen, as I assayed, in <span class="m">aqua fortis</span> which
 
  
 <span class="m">Fine tin</span>, <span class="m">frozen mercury</span> with the smell of <span class="m">tin</span>, <span class="m">looking glass tin</span>, <span class="m">fine lead</span>, <span class="ms">as much of one as the other</span>, makes a substance that melts very quickly, but breakable & white. I think that it would be good for <span class="m">solder</span>. A long time to cool.
+ 
  

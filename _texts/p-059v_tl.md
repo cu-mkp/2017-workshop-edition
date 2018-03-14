@@ -19,7 +19,7 @@ environments: [in damp weather, in the sun]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-059v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f124.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>059v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-059v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f124.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>059v</a> - - - - - </div>  
   
 
 ## <span class="del">Black</span>Painting of armory
@@ -68,4 +68,5 @@ One needs to take care that none are made which are false, but that only that wh
 If a painted panel breaks you can <span class="m">glue</span> it well on the reverse, but to fill in the cracks well in order to paint on it & repair it, it ought not to be with <span class="m">glue </span>, which rots <span class="env">in damp weather</span> & would swell when touched with the <span class="m">oil</span> of the painting. But take <span class="m">white wax</span>, which is harder than the other kind. The <span class="m">oil</span> mixed in among the <span class="m">wax</span> prevents it from melting <span class="env">in the sun</span>. The <span class="m">wax</span> ought not to be hard, but soft as if recently cooled. Apply it on cracks & crevices with the <span class="tl">tip of a knife</span>, then scrape.
  
 *[continued]*
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [turtles, lizards]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-150r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>150r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-150r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>150r</a> - - - - - </div>  
   
 
 ## Very strong <span class="m">wax</span>
@@ -33,11 +33,11 @@ Mix with this some <span class="m">resin</span> and <span class="m">bole</span>.
 ## Diverse ligues of <span class="m">tin</span> and <span class="m">lead</span>
 
  
-For hollow things like <span class="al">turtles</span>, <span class="sup">use</span> half refined <span class="m">lead</span> and half <span class="m">tin</span>.
+For hollow things like <span class="al">turtles</span>, half refined <span class="m">lead</span> and half <span class="m">tin</span>.
  
-For flowers, <span class="sup">use</span> almost all <span class="m">lead</span>, that is to say, a lb of refined <span class="m">tin</span>, and two ℥ of refined <span class="m">lead</span>.
+For flowers, almost all <span class="m">lead</span>, that is to say, a lb of refined <span class="m">tin</span>, and two ℥ of refined <span class="m">lead</span>.
  
-For <span class="al">lizards</span> that are as thick as one or two fingers, <span class="sup">use</span> almost all <span class="m">lead</span>, that is to say, a lb of refined <span class="m">lead</span> and 4 ℥ of refined <span class="m">tin</span>.
+For <span class="al">lizards</span> that are as thick as one or two fingers, almost all <span class="m">lead</span>, that is to say, a lb of refined <span class="m">lead</span> and 4 ℥ of refined <span class="m">tin</span>.
 
  
   
@@ -65,4 +65,4 @@ Brick cools the <span class="m">metal</span>, and if this is not for binding, it
 > 
 > <span class="m">Iron filings</span> being finely ground, makes them <span class="sup">molds</span> very firm and strong.
 
-.
+. 

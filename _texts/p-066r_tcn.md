@@ -19,7 +19,7 @@ environments: [à la pluye,, à la pluye]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-066r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f137.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>066r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-066r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f137.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>066r</a> - - - - - </div>  
   
 
 ## Doubles couches
@@ -82,4 +82,5 @@ Halene sur l’or couleur, et s’il ternist,<br/> il est asses sec, mays s’il
 Il ne fault<br/> pas dorer d’<span class="m">or<br/> mat</span> aprés <span class="del">avecq</span><br/> avoyr <span class="m">doré</span>.<br/> Mays attendre<br/> <span class="tmp">un jour ou une<br/> nuit</span>, <span class="del">Mays advise<br/> qu’il ne</span> et lors<br/> estant co<span class="exp">mm</span>e sec, il<br/> grippe l’<span class="m">or</span>, aprés<br/> on vernit.
  
 *[continued]*
+ 
  

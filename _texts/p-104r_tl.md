@@ -8,18 +8,18 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gold, salt, aqua fortis, tenuous gold, silver, iron, verdigris, coarse salt, sublimate, ocher, linseed oil, ammoniac, water, Sulphur, gravel, turmeric, sulphur, copper, latten, gilt, walnut oil, Enamel, carnelian, wheat flour, white wine, violet]
+materials: [gold, salt, aqua fortis, tenuous gold, silver, iron, verdigris, coarse salt, sublimate, ocher, linseed oil, ammoniac, water, Sulphur, gravel, terra merita, sulphur, copper, latten, gilt, walnut oil, Enameling, cornaline, wheat flower, white wine]
 tools: []
-measurements: []
+measurements: [as much of one as of the other, third part, hours]
 bodyparts: []
 places: []
-plants: []
+plants: [wheat]
 professions: [silversmiths]
 environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-104r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f213.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>104r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-104r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f213.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>104r</a> - - - - - </div>  
   
 
 ## Corroding and dissolving absolutely pure <span class="m">gold</span>
@@ -38,10 +38,10 @@ One ℥ of <span class="m">verdigris</span> and 2 ℥ of <span class="m">coarse 
  
   
 
-## Good mixture to color <span class="m">gold</span>
+## Good mixture to color gold
 
  
-<span class="m">Sulphur</span> & small <span class="m">gravel</span> as much of one as of the other, & the third part of this quantity of <span class="m">salt</span>, & as much <span class="m">turmeric</span> as <span class="m">sulphur</span>.
+<span class="m">Sulphur</span> & small <span class="m">gravel</span> <span class="ms">as much of one as of the other</span>, & the <span class="ms">third part</span> of <span class="del">soufr</span> <span class="m">salt</span>, & as much <span class="m">terra merita</span> as <span class="m">sulphur</span>.
  
  
   
@@ -54,8 +54,9 @@ Mold the <span class="m">silver</span> as the <span class="m">gold</span>, & put
  
   
 
-## <span class="m">Enamel</span>ing a <span class="m">carnelian</span>
+## <span class="m">Enameling</span> a <span class="m">cornaline</span>
 
  
-Soak some <span class="m">wheat flour</span> in <span class="m">white wine</span>, and slop & cover the whole <span class="m">carnelian</span>. Then cook the <span class="m">violet</span> again, then soak it into <span class="m">white wine</span> for one or two hours, then rub it & leave the part you want to keep on it, then lay on some more on top again.
+Soak some <span class="m"><span class="pa">wheat</span> flower</span> in <span class="m">white wine</span>, then besmear & cover the whole <span class="m">cornaline</span> with it. And bring the violet kind to heat again, then put it to temper in <span class="m">white wine</span> for one or two <span class="ms"><span class="tmp">hours</span></span>, then scratch it & leave the part you want to keep on it, then lay on some more on top again.
+ 
  

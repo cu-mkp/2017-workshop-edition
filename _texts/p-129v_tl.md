@@ -19,7 +19,7 @@ environments: []
 animals: [snakes, birds, spider]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-129v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f264.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>129v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-129v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f264.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>129v</a> - - - - - </div>  
   
 
 ## Animals oven dried for a long time
@@ -67,4 +67,5 @@ Be careful that your cast is not too thick, and do not forget to make 2 or 3 hol
 > 
 > 
 >   🜊 🜊 When the wax is cool, scrape away the superfluous parts with the point of a penknife, that way the end of the legs will stay neat. Then arrange the disc of earth around the spider, and cast your soaked sand, as you did for others. In this fashion you will have to burn the vine leaf in the mold. Otherwise, you will not have to. To cast your <span class="al">spider</span> more easily, make sure the animal is dead, avoiding the entanglement of its legs while agonizing. When you have done your first cast, peel this side of the leaf, then do the second cast. 
+ 
  

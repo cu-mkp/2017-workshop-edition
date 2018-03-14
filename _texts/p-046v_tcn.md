@@ -19,13 +19,13 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-046v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f98.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>046v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-046v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f98.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>046v</a> - - - - - </div>  
   
 
 ## Escrivain, <span class="m">huile de soufre</span>
 
  
- Si l’escrivain veult promptement netoyer sa plume de l’espesseur<br/> de l’<span class="m">ancre</span> qui s’i est deseché, il ne la fault que tremper<br/> dans l’<span class="m">huile de soufre</span>, et incontinent elle sera blanche<br/> & nette. Urb.
+ Si l’escrivain veult promptement netoyer sa plume de l’espesseur<br/> de l’<span class="m">ancre</span> qui s’i est deseché, il ne la fault que tremper<br/> dans l’<span class="m">huile de soufre</span>. Et incontinent elle sera blanche<br/> & nette. Urb.
  
  
   
@@ -74,4 +74,5 @@ animals: []
 
  
  Le mesme <span class="m">huile<span class="sup"> de soufre</span></span> sur des l<span class="exp">ett</span>res gravées en <span class="m">pierre</span> & chaufé<br/> vient noir & penetre.
+ 
  

@@ -19,7 +19,7 @@ environments: [light]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-061r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f127.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>061r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-061r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f127.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>061r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -67,4 +67,5 @@ Your <span class="tl">pinceau</span> shows it to you by casting a shadow which m
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5a0g1a0hvTUdHRFE" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  The panel needs to not be facing the <span class="env">light</span> head—on, but half turned against it. And above all look for a soft light, for it makes soft both the shadow & the work, like a harsh light <span class="sup">makes</span> a harsh work.
+ 
  

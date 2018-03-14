@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-167r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f339.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>167r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-167r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f339.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>167r</a> - - - - - </div>  
   
 
 ## Mortars
@@ -34,4 +34,5 @@ Mortars are made of the best alloy of <span class="m">métal</span> and the fine
  narrower on the inside of the bottom and getting wider towards the mouth. And this is to reinforce the bottom, given the quantity of powder they hold, and so that they do not burst. Those of 4 s. lb. are eight lignes thick at the bottom, and get thinner in the inside towards the opening, which is of 4 lignes. They have xiii poulsses long and seven in diameter at the mouth and opening.
  
 *[continued]*
+ 
  

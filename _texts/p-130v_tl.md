@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-130v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f266.item.r=.zoom" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>130v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-130v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f266.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>130v</a> - - - - - </div>  
   
 
 ## Molding a crab
@@ -52,4 +52,5 @@ Like a crab, it <span class="x">a stag beetle</span> is also difficult to burn, 
 
  
 After you have molded the first mold as the core, leave it to dry well before removing the figure from <span class="m">wax</span>, so that the mold is not ruined. Afterwards, then make make a small <span class="m">lasagna of paste</span> as thick as you like, and, once you have greased the cavity of your first hollowed mold with <span class="m">butter</span>, apply the <span class="m">paste</span> to it <span class="x">the cavity of the first concave mold</span> and then the upper part of the second mold. If you grease <span class="x">the mold</span> with <span class="m">oil</span>, it will be soaked up <span class="x">into the mold</span> and it will not be as clean as <span class="m">butter</span>.
+ 
  

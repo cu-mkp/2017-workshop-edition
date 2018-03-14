@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gum wax, Lacquer, water, canvas, Plaster, earth, plaster, oil, Dragon's blood, lake, gold, silver, varnish, iron, steel, mouth glue, wax, glue]
-tools: []
+materials: [gum wax, Lake, water, canvas, Plaster, earth, plaster, oil, Dragon's blood, lake, gold, silver, varnish, iron, steel, mouth glue, wax, glue]
+tools: [sponge]
 measurements: []
 bodyparts: []
 places: []
@@ -19,7 +19,7 @@ environments: []
 animals: [Dragon, snakes, lizards]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-165r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f336.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>165r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-165r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f335.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>165r</a> - - - - - </div>  
   
 
 ## To repair
@@ -30,10 +30,10 @@ If in your cast, there appear some little hole, fix it with black or gray fillin
  
   
 
-## <span class="m">Lacquer</span>
+## <span class="m">Lake</span>
 
  
-If, having been ground, you let it dry without keeping it in <span class="m">water</span>, it will dry out and it will be quite difficult to crush it as before.
+If, once it is ground, you let it dry without keeping it in <span class="m">water</span>, it will dry out & you will have as much trouble grinding it as before. <span class="del"><span class="add">La</span></span>
  
  
   
@@ -41,7 +41,7 @@ If, having been ground, you let it dry without keeping it in <span class="m">wat
 ## Stretching a <span class="m">canvas</span> portrait
 
  
-If it is crumpled or folded from when it was rolled up, moisten the back side with a wet sponge. Then stretch it very evenly without damaging it.
+If it is crumpled & creased from being rolled up, moisten it from behind with a wet <span class="tl">sponge</span> & you will stretch it very evenly without spoiling it.
  
  
   
@@ -71,4 +71,5 @@ It is imitated with <span class="m">lake</span> that surpasses it in beauty if, 
 
  
 You could make some marks according to the form of their scales, making some bigger ones and some smaller ones, according to the shape of the neck, the body and the tail. If there is something broken, you can attach it with small <span class="m">iron</span> or <span class="m">steel</span> nails, and glue it with some <span class="m">mouth glue</span>, then cover the whole thing with gray or black <span class="m">wax</span>. But it is necessary to let the <span class="m">glue</span> dry for one day without touching it.
+ 
  

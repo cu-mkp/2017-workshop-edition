@@ -8,24 +8,24 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gum, egg white, fig peels, green verditer, white lead, ceruse, massicot, scudegrun, cendré d'azur, verdigris, vinegar, lead, tin, sulfur, looking-glass tin, silver, wheat oil]
+materials: [metal, gum, oil, glair, fig tree rind, green verditer, white lead, ceruse, massicot, scudegrun, cendré d'azur, verdigris, vinegar, lead, tin, sulfur, looking-glass tin, silver, wheat oil]
 tools: []
 measurements: []
 bodyparts: []
 places: []
-plants: []
+plants: [fig tree]
 professions: []
 environments: []
 animals: [Viper color, snake, lizard, flies]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-129r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f263.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>129r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-129r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f263.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>129r</a> - - - - - </div>  
   
 
-## Painting metal herbs
+## Painting <span class="m">metal</span> herbs
 
  
-If you are in a hurry it would be better to dilute your color with a <span class="m">gum</span> not too thick because its oil takes a long time to dry, and it runs if thinly applied, as you have to do with herbs. If you are still in a hurry, dilute your color with <span class="m">egg white</span> beaten with <span class="m">fig peels</span>; and your work will soon be dry. But do apply it thinly.
+If you are in a hurry it would be better to mix your color with a not—too—thick <span class="m">gum</span> <span class="del">or</span> because <span class="m">oil</span> takes a <span class="tmp">long time</span> to dry, and it runs if it is transparently layered, as the herbs require. And if you still want it <span class="add">done</span> quickly, mix your color with <span class="m">glair</span> beaten with <span class="m"><span class="pa">fig tree</span> rind</span>, and your work will soon be dry. But layer it transparently.
  
  
   
@@ -55,4 +55,5 @@ If you are in a hurry it would be better to dilute your color with a <span class
 
  
  Roses are molded with difficulty because of their petals, which are very delicate, weak, and doubled. To avoid this, rub them with <span class="m">wheat oil</span> which is very dessicative, and once dried it stiffens and firms up the leaves to separate them and for them to withstand soaked sand. Do the same thing with <span class="al">flies</span>, pansies, and other delicate things like capers.
+ 
  

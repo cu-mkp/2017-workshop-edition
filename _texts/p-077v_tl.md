@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-077v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f160.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>077v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-077v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f160.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>077v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -50,4 +50,5 @@ Take <span class="m">huille petrolle</span> & <span class="m"><span class="pa">s
 Take one <span class="ms">ounce</span> of <span class="m"><span class="pa">spike lavender</span> oil</span> & of <span class="m">sang <span class="del">de ra<span class="del">i</span><span class="add">y</span>e</span> <span class="add">da Rac</span></span> & make
  
 *[continued]*
+ 
  

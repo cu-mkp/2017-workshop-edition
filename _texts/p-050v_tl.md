@@ -19,7 +19,7 @@ environments: []
 animals: [Little Birds, Buntings, Chaffinches, Goldfinches, owsell, spider, lark, cuckoo, bunting, verdaule, goldfinches, linnets]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-050v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f106.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>050v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-050v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f106.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>050v</a> - - - - - </div>  
   
 
 ## <span class="al">Little Birds</span>
@@ -45,3 +45,4 @@ The <span class="m">steel</span> that <span class="pro">blacksmiths</span> and o
 > 
 > <span class="pl">Levantines</span> refine our own <span class="m">steel</span> because their country provides them with none, and they reheat it in a pot with <span class="m">bitumen</span> etc.
 
+ 

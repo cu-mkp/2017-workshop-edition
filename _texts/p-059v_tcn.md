@@ -19,7 +19,7 @@ environments: [en temps humide, au soleil]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-059v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f124.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>059v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-059v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f124.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>059v</a> - - - - - </div>  
   
 
 ## <span class="del">Noir</span>Paincture d'armes
@@ -68,4 +68,5 @@ Le <span class="m">blanc de plomb</span> & le <span class="m">massicot</span> so
 Si un tableau painct se rompt, tu le peulx bien <span class="m">coller</span><br/> par derriere. Mays pour bien boucher les fentes pour<br/> y paindre & le reparer, il ne fault pas que ce soict<br/> avecques la <span class="m">colle</span>, qui se relentist <span class="env">en temps humide</span> & esta<span class="exp">n</span>t<br/> touché de l'<span class="m">huile</span> de la paincture s'enfleroit, mays<br/> ayes de la <span class="m">cire blanche</span>, qui est plus dure que l'aultre.<br/> @L'<span class="m">huile</span> meslée parmy la <span class="m">cire</span> empesche qu'elle ne se fonde<br/> <span class="env">au soleil</span>. Il ne fault pas que la <span class="m">cire</span> soict dure, ains molle co<span class="exp">mm</span>e<br/> nagueres refroidie. Aplique la par les fentes & crevasses avecq la<br/> <span class="tl">poincte d'un costeau</span>, puys racle.
  
 *[continued]*
+ 
  

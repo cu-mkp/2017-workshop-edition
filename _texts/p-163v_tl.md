@@ -19,7 +19,7 @@ environments: []
 animals: [Crayfish, crayfish]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-163v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f332.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>163v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-163v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f332.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>163v</a> - - - - - </div>  
   
 
 ## <span class="al">Crayfish</span>
@@ -49,5 +49,6 @@ That which has become rusty by itself, having been doused with <span class="m">w
 ## Repairing
 
  
-It is much better to only lightly repair your work with a burin called an "onglet" or the one called "chaple" or with a small file. Above all, avoid touching your work, but touch only the burr or lumpy parts that will have occurred during the casting. While reworking, moisten and rub your work with a small <span class="m">bristle</span> brush.
+It is much better to only lightly repair your work with a burin called an onglet or the one called chaple or with a small file. Above all, avoid touching your work, but touch only the burr or lumpy parts that will have occurred during the casting. While reworking, moisten and rub your work with a small <span class="m">bristle</span> brush.
+ 
  

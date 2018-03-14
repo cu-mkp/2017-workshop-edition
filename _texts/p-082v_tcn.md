@@ -19,13 +19,13 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-082v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f170.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>082v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-082v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f170.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>082v</a> - - - - - </div>  
   
 
 ## <span class="pro">Horlogeurs</span>
 
  
-Ancienem<span class="exp">ent</span> ilz destrempoient leurs ressorts les plongea<span class="exp">n</span>t<br/> dans du <span class="m">plomb</span> fondu. Mays aujourd'huy ilz trempent<br/> leurs ressorts touts droits & les replient estant trempés,<br/> qui est un beau secret.
+Ancienem<span class="exp">ent</span> ilz destrempoient leurs ressorts les plongea<span class="exp">n</span>t<br/> dans du <span class="m">plomb</span> fondu. Mays aujourd’huy ilz trempent<br/> leurs ressorts touts droits & les replient estant trempés,<br/> qui est un beau secret.
  
  
   
@@ -35,17 +35,17 @@ Ancienem<span class="exp">ent</span> ilz destrempoient leurs ressorts les plonge
  
 Il y en ha qui font leurs caves de <span class="m">plomb</span> espés puys<br/> y gectent <span class="m">plomb</span>.
  
-Le <span class="m">plomb</span> n'estant pas gecté assés chault est blanc,<br/> & plus noir quand il est gecté bien chault.
+Le <span class="m">plomb</span> n’estant pas gecté assés chault est blanc,<br/> & plus noir quand il est gecté bien chault.
  
 > *at left top margin*
 > 
 > 
->   On peult faire<br/> <span class="tl">moule de <span class="m">plomb</span></span><br/>. & pour y gecter<br/> fumer avecq du <span class="m">noir<br/> de chandelle</span>.<br/> Mays il n'est<br/> jamays si net.
+>   On peult faire<br/> <span class="tl">moule de <span class="m">plomb</span></span><br/>. & pour y gecter<br/> fumer avecq du <span class="m">noir<br/> de chandelle</span>.<br/> Mays il n’est<br/> jamays si net.
  
 > *at left top margin*
 > 
 > 
->   Jamays le <span class="m">plomb</span><br/> ne vient si net<br/> que @ l'<span class="m">estaing</span>.
+>   Jamays le <span class="m">plomb</span><br/> ne vient si net<br/> que @ l’<span class="m">estaing</span>.
  
  
   
@@ -53,7 +53,7 @@ Le <span class="m">plomb</span> n'estant pas gecté assés chault est blanc,<br/
 ## Sable
 
  
-S'il est trop gras, il le fault recuire et le repasser.
+S’il est trop gras, il le fault recuire et le repasser.
  
  
   
@@ -61,7 +61,7 @@ S'il est trop gras, il le fault recuire et le repasser.
 ## Forme de gecter en <span class="m">bronze</span>
 
  
-Le <span class="m">laitton de potin</span> <span class="del">cor</span>, qui est le plus aigre, moule plus net<br/> selon l'opinion de plusieurs que le <span class="m">laitton fin de cassole</span>, co<span class="exp">mm</span>e tout <span class="m">letton<br/> fin</span> moule plus net que le <span class="m">cuivre rouge</span>. Si tu veulx gecter quelque<br/> chose subtile & tanvre, tout le secret est de gecter le plus chault<br/> qu'il te sera possible, de sorte que la matiere bouille. Tu<br/> cognoistras qu'il est bien chault quand il fume fort, et quand<br/> en le remuant il gecte des estincelles. Pour bien chaufer, colloque<br/> ton <span class="tl">creuset</span> au plus bas & au ras de la <span class="tl">forge</span> affin que les<br/> <span class="tl">souflets</span> <span class="del">fra</span> battent au milieu du <span class="tl">crusol</span>, car en ceste sorte il<br/> chaufe mieulx que sur la <span class="tl">grille</span> sur laquelle on pose le <span class="tl">creuset</span>,<br/> soubs lequel battent les <span class="tl">souflets</span>. Il est vray que le <span class="tl">creuset</span> est<br/> plus dangereulx à casser, mays tu le peulx <span class="m">luter</span> co<span class="exp">mm</span>e tu sçais que<br/> font les <span class="pro">fondeurs</span>. Et aussy fault il entretenir tousjours du<br/> <span class="m">charbon</span> entre les <span class="tl">souflets</span> & le <span class="tl">cruset</span>. Advise aussy de gecter<br/> tout à un coup & non pas à parcelles & à gouttes, qui s'arresteroient<br/> & boucheroient le conduit de la matiere. Et si tu fesois au gect<br/> un abreveoir pour abrever ta medaille, il n'en seroit que mieulx.<br/> Et affin que la matiere chaufe bien au fonds, remue la, esta<span class="exp">n</span>t<br/> fondue, avecq un <span class="tl">baston</span>, car le <span class="m">fer</span> ne faict qu'aigrir. Tourne. 
+Le <span class="m">laitton de potin</span> <span class="del">cor</span>, qui est le plus aigre, moule plus net<br/> selon l’opinion de plusieurs que le <span class="m">laitton fin de cassole</span>, co<span class="exp">mm</span>e tout <span class="m">letton<br/> fin</span> moule plus net que le <span class="m">cuivre rouge</span>. Si tu veulx gecter quelque<br/> chose subtile & tanvre, tout le secret est de gecter le plus chault<br/> qu’il te sera possible, de sorte que la matiere bouille. Tu<br/> cognoistras qu’il est bien chault quand il fume fort, et quand<br/> en le remuant il gecte des estincelles. Pour bien chaufer, colloque<br/> ton <span class="tl">creuset</span> au plus bas & au ras de la <span class="tl">forge</span> affin que les<br/> <span class="tl">souflets</span> <span class="del">fra</span> battent au milieu du <span class="tl">crusol</span>, car en ceste sorte il<br/> chaufe mieulx que sur la <span class="tl">grille</span> sur laquelle on pose le <span class="tl">creuset</span>,<br/> soubs lequel battent les <span class="tl">souflets</span>. Il est vray que le <span class="tl">creuset</span> est<br/> plus dangereulx à casser, mays tu le peulx <span class="m">luter</span> co<span class="exp">mm</span>e tu sçais que<br/> font les <span class="pro">fondeurs</span>. Et aussy fault il entretenir tousjours du<br/> <span class="m">charbon</span> entre les <span class="tl">souflets</span> & le <span class="tl">cruset</span>. Advise aussy de gecter<br/> tout à un coup & non pas à parcelles & à gouttes, qui s’arresteroient<br/> & boucheroient le conduit de la matiere. Et si tu fesois au gect<br/> un abreveoir pour abrever ta medaille, il n’en seroit que mieulx.<br/> Et affin que la matiere chaufe bien au fonds, remue la, esta<span class="exp">n</span>t<br/> fondue, avecq un <span class="tl">baston</span>, car le <span class="m">fer</span> ne faict qu’aigrir. Tourne. 
  
 > *at left middle margin*
 > 
@@ -76,5 +76,6 @@ Le <span class="m">laitton de potin</span> <span class="del">cor</span>, qui est
 > *at left bottom margin*
 > 
 > 
->   La matiere de<br/> <span class="m">cuivre</span> se trouve<br/> bonne pour gect<br/> quand estant<br/> rompue elle fait<br/> le grain long &<br/> non ras, car cela<br/> demonstre qu'elle est<br/> doulce. C'est <span class="ms">moictié</span><br/> <span class="m">letton fin</span> & <span class="ms">moictié</span><br/> <span class="m">cuivre rouge</span>. Ce grain long s'appelle longue tige.
+>   La matiere de<br/> <span class="m">cuivre</span> se trouve<br/> bonne pour gect<br/> quand estant<br/> rompue elle fait<br/> le grain long &<br/> non ras, car cela<br/> demonstre qu’elle est<br/> doulce. C’est <span class="ms">moictié</span><br/> <span class="m">letton fin</span> & <span class="ms">moictié</span><br/> <span class="m">cuivre rouge</span>. Ce grain long s’appelle longue tige.
+ 
  

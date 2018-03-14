@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [wax, lead, paper, gold, silver, fish glue, hairs of a pig, cords of a spinet, clay, tin, ashes]
-tools: []
+materials: [wax, lead, paper, gold, silver, Rouge cler, thinly beaten esp gold, gold ingot, fish glue, hairs of a pig, cords of a spinet, clay, tin, ashes]
+tools: [burnished, chaple]
 measurements: []
 bodyparts: []
 places: []
@@ -19,21 +19,21 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-157r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f319.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>157r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-157r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f319.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>157r</a> - - - - - </div>  
   
 
 ## The mode in which <span class="pro">goldsmiths</span> mold hollow molds
 
  
- They mold their animal, or another solid work that they have already made or rough—hewn in <span class="m">wax</span> and cast in <span class="m">lead</span>, in two cuttlefish bones. When it is good and impressed in the two cuttlefish bones, they put a piece of <span class="m">paper</span> between the two bones & join the bones and cast. The work comes in parts by halves. And then with a chisel they dig into the two half castings of <span class="m">gold</span> or <span class="m">silver</span> as subtly as they like, and then they solder or braze them.
+ They mold their animal, or another solid work that they have already made or rough—hewn in <span class="m">wax</span> and cast in <span class="m">lead</span>, in two cuttlefish bones. When it is good and impressed in the two cuttlefish bones, they put a piece of <span class="m">paper</span> between the two bones & join the bones and cast. The work comes in parts by halves. And then with a chaple they excavate the two half castings of <span class="m">gold</span> or <span class="m">silver</span> as subtly as they like, and then they solder or braze them.
  
  
   
 
-## Bright red
+## <span class="m">Rouge cler</span>
 
  
- Some <span class="pro">goldsmiths</span> try it out on finely beaten gold that is well burnished with a chisel. But it is better to try it out on a <span class="m">gold</span> ingot, and to test it as well on a work or <span class="ill"></span> your materials fantastic, since if they look good & extraordinary on a big work, they will show excellently on a common work.
+ Some <span class="pro">goldsmiths</span> assay it on <span class="m">thinly beaten <span class="del">esp</span> gold</span> & that is well <span class="tl">burnished</span> with a <span class="tl">chaple</span>. But it is better to assay it on a <span class="m">gold ingot</span>. And also assay your substances in large or fantastical work, since if they appear good & extraordinary in large work, they will show excellently on a common work.
  
  
   
@@ -63,4 +63,5 @@ Make some lye passed through scrupulously with good <span class="m">ashes</span>
 > 
 > 
 >   When you know that the stem of a flower burned in a mold that will not open at all is totally reduced to ashes, this is the sign that everything else is well—burned.
+ 
  

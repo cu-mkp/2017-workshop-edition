@@ -8,8 +8,8 @@ author:
 mode: tcn
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [buys, ebene, sandal, yvoire, or, argent, damasquine, os de seiche, beril, cristal, bronze, plomb, d'argent, bois, corne, eau, cothon, ail]
-tools: [poincte d'argent, os de seiche, mail, triboulet]
+materials: [buys, ebene, sandal, yvoire, or, argent, damasquine, os de seiche, beril, cristal, bronze, plomb, clinquant, lames de plomb ou d'argent recuit recuit, bois, corne, eau, cothon, ail]
+tools: [poincte d'argent, os de seiche, mail de bois, triboulet]
 measurements: []
 bodyparts: [Oreilles, oeil, oreille, coulde]
 places: []
@@ -19,7 +19,7 @@ environments: []
 animals: [seiche]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-015v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f36.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>015v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-015v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f36.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>015v</a> - - - - - </div>  
   
 
 ## Tablettes
@@ -41,7 +41,7 @@ On taille les plus grandes pieces de <span class="m">beril</span> ou <span class
 ## Stamper
 
  
-Si tu as quelque medaille de <span class="m">bronze</span> & que tu la veuilles<br/> fayre fort legere, fais en un cave de <span class="m">plomb</span> puys estands<br/> sur iceluy du clinquant ou des lames de <span class="m">plomb</span> ou <span class="m">d'argent</span><br/> <span class="del">recuit</span> recuit & pose ta medaille de <span class="m">bronze</span> dessus & frappe avecq<br/> un <span class="tl">mail</span> de <span class="m">bois</span>.
+Si tu as quelque medaille de <span class="m">bronze</span> & que tu la veuilles<br/> fayre fort legere, fais en un cave de <span class="m">plomb</span>, puys estands<br/> sur iceluy du <span class="m">clinquant</span> ou des <span class="m">lames de plomb ou d'argent<br/> <span class="del">recuit</span> recuit</span> & pose ta medaille de <span class="m">bronze</span> dessus & frappe avecq<br/> un <span class="tl">mail de <span class="m">bois</span></span>.
  
  
   
@@ -66,4 +66,5 @@ Quand quelque defluxion y vient, il se fault bien garder d'y rien<br/> mectre de
 
  
 Aulcuns mectent une gousse d'<span class="m">ail</span> dans l'oreille qui est<br/> du costé que la dent faict mal, & en deux ou trois heures<br/> il<span class="x">z</span> s'en trouvent bien. Aultres mectent dans la narine<br/> qui est du costé de la dent qui deult de la peau verte<br/> raclee d<span class="del">e</span>u serment de bisaube, sçavoir celle qui est soubs<br/> la grise qui semble sarment.
+ 
  

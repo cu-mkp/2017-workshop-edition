@@ -19,13 +19,13 @@ environments: []
 animals: [horse]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-010v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f26.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>010v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-010v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f26.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>010v</a> - - - - - </div>  
   
 
 ## For painting in <span class="m">oil</span> on <span class="m">taffeta</span> <span class="add">without the <span class="m">oil</span> running</span>
 
  
-One needs to make a layer of <span class="m">batture</span>, which is made <span class="del">of well cooked honey & <span class="m">turpentine</span></span> of <span class="m">colle forte</span> soaked for 24 <span class="ms">hours</span> in <span class="m">water</span> then gently bring to the boil so that it is hardly strong. Next stir in a little <span class="m">honey</span> to soften it, & let it boil all together. And on top of this layer, which will soon be dry, you will be able to paint in <span class="m">oil</span>, which will soften the layer even more, and which can also serve to make a ground layer for <span class="m">gold</span>. <span class="m">Water of alum</span> also keeps <span class="m">oil</span> from running.
+One needs to make a layer of <span class="m">batture</span>, which is made <span class="del">of well cooked honey & <span class="m">turpentine</span></span> of <span class="m">colle forte</span> soaked for 24 <span class="ms">hours</span> in <span class="m">water</span> then gently brought to boil so that it is hardly strong. Next stir in a little <span class="m">honey</span> to soften it, & make it boil all together. And on top of this layer, which will soon be dry, you will be able to paint in <span class="m">oil</span>, which will soften the layer even more, and which can also serve to make a ground layer for <span class="m">gold</span>. <span class="m">Water of alum</span> also keeps <span class="m">oil</span> from running.
  
  
   
@@ -50,4 +50,5 @@ Rub your weapons or other gilt objects with <span class="m">dry <span class="al"
 
  
 Hard—boil <span class="m">eggs, divide them in half & take the yolk out, & between the two halves of the white</span> put a piece of <span class="m">ceruse</span>, & tie them together with <span class="tl">thread</span>. Then boil in <span class="m">clear water</span>, & it will become entirely black, & thus the <span class="m">ceruse</span> will be purified. Some reheat it over fire & it becomes very white.
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [dragon]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-040v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>040v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-040v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>040v</a> - - - - - </div>  
   
 
 ## Cross of the <span class="pro">commanders of <span class="pl">Malta</span></span>
@@ -51,3 +51,4 @@ This beautiful <span class="m">rouge clair</span> which makes the field of the w
  
 If your retort is well luted you should not surround it with <span class="m">ashes</span>, which would only prevent the vapors from escaping properly. But when, towards the end, you fire it intensely, surround it with <span class="m">charcoals</span> lit elsewhere beforehand, such as those in the furnace should be, so they do not crackle or smoke. Place said lit <span class="m">charcoals</span> around the body of the retort, not close to the neck, which does not need to be heated as much. The top grate, on which you place your retort, should be sufficiently far, one <span class="ms">dour</span> or half a foot, from the bottom grate where the <span class="m">charcoal</span> is placed, since thus you will not waste as much <span class="sup">aqua fortis</span>.
 
+ 

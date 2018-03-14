@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-154r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f313.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>154r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-154r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f313.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>154r</a> - - - - - </div>  
   
 
 ## L'<span class="m">or</span> n'estre fixe
@@ -70,4 +70,5 @@ Estant bien pulverisé & subtiliée sur le <span class="tl"><span class="m">mabr
 
  
 Elle ne se font pas d'elle mesme si elle n’est aydée de<br/> quelque portion de <span class="m">metal</span> semblable fondu pour<br/> l'assembler & mectre en bain, car elle est plus tost<br/> bruslée que fondue. La <span class="m">limaille d'estain et plomb</span><br/> se font avecq du <span class="m">suif</span>, <span class="m">celle d'or</span> avecq du <span class="m">salpestre</span>,<br/> <span class="m">celle d'argent</span> avecq du <span class="m">suin de verre</span>.
+ 
  

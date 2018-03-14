@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-043v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f92.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>043v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-043v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f92.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>043v</a> - - - - - </div>  
   
 
 ## <span class="m">Vin</span> diversifié et transmué
@@ -50,4 +50,5 @@ Pour tirer justement de ton harquebus, il fault que le bout<br/> de la culasse s
 
  
 Si tu veulx qu'elle aille ensemble, pose dessus une piece<br/> de <span class="m">feultre</span> ou <span class="m">cuir</span> ou <span class="m">papier</span>, selon la dista<span class="exp">n</span>ce, & que la piece<br/> soict avecq un <span class="tl">portepiece</span> justem<span class="exp">ent</span> coupée selon le qualibre<br/> de l'harquebus. 
+ 
  

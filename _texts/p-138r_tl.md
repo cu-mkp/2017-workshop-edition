@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-138r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f281.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>138r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-138r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f281.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>138r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -39,4 +39,5 @@ You must not mold on <span class="m">brick</span> or <span class="m">wood</span>
 > 
 > 
 >   For medals, and flat things, the <span class="m">sand</span> must be quite thick and moistened so that it sets quickly. And when the <span class="m">sand</span> is thusly thick, you can shake and move the table where you mold lies, so that <span class="x">the movement</span> makes the <span class="m">sand</span> go everywhere. But when the <span class="m">sand</span> is clear, as for flowers and herbs, you cannot shake it, nor can you do it when there is something attached to <span class="m">wax</span> or other things which are prone to come off, such as the legs of crayfish or other similar things. And if by chance your <span class="m">sand</span> is too thick, you must quickly add some water. And having put the <span class="m">sand</span> in the water, examine it until it is thick on the bottom and clear on top. The clearest is thrown in immediately and then bubbles and the thickest is thrown in at the end so that it strengthens the mold.
+ 
  

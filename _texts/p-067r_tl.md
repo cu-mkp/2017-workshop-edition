@@ -19,7 +19,7 @@ environments: [the first rain]
 animals: [rat, petit-gris, duck, crow]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-067r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>067r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-067r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>067r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -56,4 +56,5 @@ Before you put in the <span class="m">metal</span>, it is necessary that it be r
 
  
 The <span class="pl">Germans</span> make boxes <span class="del">p</span> covered with painted <span class="m">paper</span> & varnish it with <span class="m">glair of the egg</span> mixed with <span class="m">gum</span> & a little <span class="m"><span class="m">oil</span>, not of <span class="m"><span class="pa">spike lavender</span></span>, but another <span class="sn">odorant</span> that resembles <span class="m"><span class="pa">olive</span> oil</span></span>. Every work done with <span class="m">glair</span> supports <span class="m">oil</span>. It is with this that <span class="pro">painters</span> trick the <span class="pro">poor peasants</span>, painting their bands of <span class="m">taffeta</span> with this <span class="m">glair</span>, to be done sooner. But <span class="env">the first rain</span> carries away everything.
+ 
  

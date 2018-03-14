@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-033r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f71.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>033r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-033r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f71.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>033r</a> - - - - - </div>  
   
 
 ## <span class="tl">Cousteau</span> pour couper le nes ou<br/> un doict
@@ -46,4 +46,5 @@ C'est un <span class="tl">cousteau</span> bien fourby, cloué de telle sorte par
 > <a href="" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
 Ayes un petit <span class="tl">baston</span> d'<span class="m">ouzier</span> <span class="del">entre</span> bien sec et en couppe une petit piece<br/> comme un curedant, & mects l'un bout entre l'<span class="bp">indice</span> & le grand <span class="bp">doigt</span>,<br/> et enlasse les deulx <span class="bp">mains</span> les <span class="bp">doigts</span> bien joincts, et les passe dextrement<br/> aultour de la chandelle allumée comme si tu l'en voulois couvrir, & ton<br/> <span class="m">osier</span> s'allumera, & soubdain retire les <span class="bp">mains</span> <span class="del">jo</span> ainsy enlassées, & soubdain<br/> tue la chandelle. Et puys remects tes <span class="bp">mains</span> aultour co<span class="exp">mm</span>e si tu la<br/> voulois couvrir, & ta petite <span class="del">lumiere de p</span> de l'<span class="m">osier</span>. Par le<br/> moyen de la fumée que tu retiens avecq les deulx <span class="bp">paulmes</span>, la cha<span class="exp">n</span>delle<br/> s'allumera. Puys soubdain estains ton <span class="m">ozier</span> & le jecte secrettem<span class="exp">ent</span>.
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-138v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f282.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>138v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-138v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f282.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>138v</a> - - - - - </div>  
   
 
 ## <span class="m">Talcum</span> mixed with the molds
@@ -48,4 +48,5 @@ And other fruit <span class="m">leaves</span>, but with branch<span class="x">es
 
  
 Spread a fine layer of imprinting black wax on the inside of the frame then coat it inside with <span class="m">wheat oil</span>, then dust it with <span class="m">lamp smoke</span> because this color should not be lustrous for fake stones. Having done this, set your stone with a piece of wax then, with a steel point, or a small finishing hammer, join the edge of the frame with the stone, so that light cannot get in but be careful not to hit the stone, which would break.
+ 
  

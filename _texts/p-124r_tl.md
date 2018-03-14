@@ -19,7 +19,7 @@ environments: []
 animals: [Spider]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-124r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f253.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>124r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-124r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f253.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>124r</a> - - - - - </div>  
   
 
 ## Hairy animals and very fragile and thin <span class="pa">flowers</span>
@@ -51,3 +51,4 @@ It comes undone in <span class="m">water</span> & because of this, cannot be mol
  
 There is a kind of <span class="m">gold</span> which, even though it is very fine & unalloyed & has been passed through <span class="m">aqua fortis</span> & <span class="m">antimony</span>, is however so brittle that it hardly withstands the hammer. And the composition of <span class="m">verdigris</span> mentioned above to make <span class="m">gold</span> flow, makes it as doux as <span class="m">lead</span>.
 
+ 

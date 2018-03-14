@@ -19,7 +19,7 @@ environments: [in the rain]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-031r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f67.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>031r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-031r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f67.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>031r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -56,4 +56,5 @@ Distilled <span class="m">urine</span>, <span class="m">distilled vinegar</span>
 
  
 One does not paint them with a <span class="tl">pinceau</span> like other <span class="del">s</span> things with moistened color, because the <span class="m">sugar</span> would melt. But one rubs them with color with the <span class="tl"><span class="bp">finger</span></span>.
+ 
  

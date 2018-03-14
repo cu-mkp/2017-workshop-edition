@@ -19,7 +19,7 @@ environments: [exposé au soleil]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-060r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f125.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>060r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-060r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f125.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>060r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -55,4 +55,5 @@ Quand tu travailles garde bien de n'exciter poinct de<br/> poulsiere, & quand tu
 L'<span class="m">huile de <span class="pa">noix</span></span> tiré co<span class="exp">mm</span>e les <span class="m"><span class="pa">amendes</span> pelées</span> est fort blanc.<br/> Celuy de <span class="m">palma christi</span>. Et quand l'<span class="m">huile</span> a eu peu de corps,<br/> les couleurs s'en adoulcissent. Car si l'<span class="m">huile</span> est trop cler, les<br/> couleurs coulent & n'ont poinct de liaison, mesmes celles qui n'ont<br/> gueres de corps. L'<span class="m">huile gras</span> qui ne s'emboict pas aysem<span class="exp">ent</span><br/> est propre pour <span class="m">vernis</span>. L'<span class="m">huile</span> est assés desiccatif quand il<br/> se deseche aussy tost que <span class="m">vernis commun</span>. Les <span class="m">huiles</span> ne se desechent<br/> pas si tost en pays froit qu'en pays chault. L'<span class="m">huile</span> <span class="env">exposé au soleil</span><br/> s'esclarcist bien. Mays il s'engraisse. Si<br/> tu y mects de la <span class="m">ceruse</span> ou du <span class="m">plomb limé</span> ou <span class="m">blanc de plomb</span><br/> ou <span class="m">verre <span class="del">p</span> calciné pulverisé</span>. Pour eviter cela, mects la<br/> <span class="tl">phiole</span> dans de l'<span class="m">eau claire</span>.
  
 Les couleurs à <span class="m">huile</span>, estant seiches, ne reçoivent pas aysem<span class="exp">ent</span> quelque foys<br/> les secondes couleurs, pour obvier à cela, halene dessus & la couleur y<br/> prendra.
+ 
  

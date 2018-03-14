@@ -13,19 +13,19 @@ tools: [linge rude]
 measurements: [demy balle d'harquebus]
 bodyparts: []
 places: []
-plants: [Roses, froment, pensées, caprier]
+plants: [figuier, Roses, froment, pensées, caprier]
 professions: []
 environments: []
 animals: [vipere, serpent, lesard, mouches]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-129r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f263.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>129r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-129r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f263.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>129r</a> - - - - - </div>  
   
 
 ## Paindre herbes de <span class="m">metal</span>
 
  
-Si tu as haste, il sera mieulx que tu destrempes tes couleurs<br/> à <span class="m">gomme</span> point trop espesse <span class="del">ou</span> car l'<span class="m">huile</span> est long à seicher<br/> et coule s'il est couché cler, co<span class="exp">mm</span>e les herbes requierent, et si tu<br/> veulx encores avoir promptem<span class="exp">ent</span>, <span class="add"> faict</span>, destrempe ta couleur avecq de<br/> la <span class="m">glaire</span> battue avecq de la <span class="m">pelure de figuier</span>, et bien tost<br/> ton ouvraige sera sec. Mays couche cler.
+Si tu as haste, il sera mieulx que tu destrempes tes couleurs<br/> à <span class="m">gomme</span> point trop espesse <span class="del">ou</span> car l'<span class="m">huile</span> est <span class="tmp">long</span> à seicher<br/> et coule s'il est couché cler, co<span class="exp">mm</span>e les herbes requierent, et si tu<br/> veulx encores avoir promptem<span class="exp">ent</span> <span class="add"> faict</span>, destrempe ta couleur avecq de<br/> la <span class="m">glaire</span> battue avecq de la <span class="m">pelure de <span class="pa">figuier</span></span>, et bien tost<br/> ton ouvraige sera sec. Mays couche cler.
  
  
   
@@ -55,4 +55,5 @@ C'est le plus beau <span class="al">serpent</span> qui se puisse mouler, à caus
 
  
 Elles sont malaisées à mouler à cause que les foeuilles sont fort<br/> subtiles & foibles & doubles. Mays pour <span class="del">obl</span> obvier à cela,<br/> il les fault oindre d'<span class="m">huile de <span class="pa">froment</span></span>, qui est fort desicatif.<br/> Et estant bien tost sec, il affermist & roidist les foeuilles pour les<br/> pouvoir distinguer & soustenir le sable destrempé. Le mesme se<br/> faict aulx <span class="al">mouches</span>, aulx <span class="pa">pensées</span> & semblables choses delicates,<br/> aulx fleurs de <span class="pa">caprier</span>.
+ 
  

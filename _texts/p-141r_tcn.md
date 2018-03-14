@@ -19,7 +19,7 @@ environments: []
 animals: [escrevisse, escrevisses, cerf volant, chancre, tortues]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-141r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>141r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-141r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>141r</a> - - - - - </div>  
   
 
 ## Mouler une <span class="al">escrevisse</span>
@@ -70,4 +70,5 @@ L'<span class="al">escrevisse</span> est des plus fantasques à mouler, mays aus
 >   Pour la paindre, fais la bouillir avecq du <span class="m">vin</span> & un<br/> peu de <span class="m">sel</span> affin qu'elles viennent bien rouges & prens y patron.<br/> Pains le dos de <span class="m">vermeillon</span> meslé de <span class="m">laque</span> & les costés & dessoubs<br/> du ventre & des jambes avecq du <span class="m">vermeillon</span> & de l'<span class="m">ocre jaulne</span><br/> et du blanc.
  
 *[continued]*
+ 
  

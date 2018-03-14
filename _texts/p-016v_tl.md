@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-016v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f38.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>016v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-016v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f38.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>016v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -64,4 +64,5 @@ You have to choose them whole and not rotten and then fill a firmly closed <span
 
  
 They can be kept in some <span class="m">bran</span> which make them white and last more, according to some. I believe, however, that it is enough to keep them in a cool and dry place, so they are not pressed. It is better if there is a <span class="m">hemp</span> thread inside the wick of the candle to give more light and maintain wick straighter. If it is otherwise all <span class="m">cotton</span> made, as those of <span class="pl">Montauban</span> do, it needs to be snuffed out often because if it has been burning for a while, <span class="m">cotton</span> falls down and make the candle drip.
+ 
  

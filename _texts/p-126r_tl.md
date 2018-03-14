@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-126r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f257.item.r=.zoom" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>126r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-126r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f257.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>126r</a> - - - - - </div>  
   
 
 ## Molding fruits and animals in sugar
@@ -46,4 +46,5 @@ animals: []
 > 
 > 
 >   The sign that the <span class="m">syrup</span> or the melted <span class="m">sugar</span> has boiled enough in the <span class="m">water</span> for casting fruits is when it makes threads when shaking it. And if it passes this point, it will not be good because it will make <span class="x">it</span> damp. If the <span class="m">sugar</span> corrodes itself, throw a bit of <span class="m">amidin</span> in the mold or rub it with an <span class="m">almond</span>.
+ 
  

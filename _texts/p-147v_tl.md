@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-147v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f300.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>147v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-147v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f300.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>147v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -59,4 +59,5 @@ I have taken the one you find in <span class="m">latten</span> skillets, which h
 >  Do not let it cool down when melting. It always makes into filaments, as you would find with melted <span class="m">glass</span>, because of the <span class="m">calamine</span>. Usually, the soft <span class="m">letten</span> of skillets, becomes red from casting, even when it has been in the fire for a longtime, because the <span class="m">calamine</span> evaporates. But the brittle <span class="m">letten</span> of candleholders becomes yellow, as well as the <span class="m">filings</span> made of needles.
  
 *[continued]*
+ 
  

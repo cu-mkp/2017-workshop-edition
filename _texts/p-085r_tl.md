@@ -19,7 +19,7 @@ environments: [mine]
 animals: [pork]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-085r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f175.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>085r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-085r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f175.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>085r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -66,4 +66,5 @@ Having casted them very neatly, cover them with <span class="m">sel de verre</sp
 
  
 The <span class="pl">Flemish</span> reglue their <span class="tl"><span class="m">earthen</span> pots</span> with gold color, that is to say <span class="m">minium</span>, <span class="m">massicot</span>, & <span class="m">varnish</span>. 
+ 
  

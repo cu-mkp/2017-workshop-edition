@@ -19,7 +19,7 @@ environments: [mine]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-063r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f131.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>063r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-063r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f131.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>063r</a> - - - - - </div>  
   
 
 ## <span class="pa">Amaranth</span> color
@@ -71,4 +71,5 @@ It is only used in <span class="m">distemper</span>, & with this wood color is m
 
  
 One ought not to grind it with <span class="m">water</span> alone, for that makes it die. To render it beautiful in <span class="m">distemper</span>, some grind it with <span class="m">vinegar</span>, but that makes it turn pale & become whitish. To render it beautiful, grind it with <span class="m">urine</span> & leave to dry. Then, whenever you like, grind it with <span class="m">oil</span>. And after you have collected it with the <span class="tl">spatula</span>, before finishing to clean the <span class="tl"><span class="m">marble</span></span>, grind <span class="m">stil de grain yellow</span> on it. And you will have a very beautiful green.
+ 
  

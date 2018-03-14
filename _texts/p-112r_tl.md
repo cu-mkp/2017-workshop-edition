@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [sand, water, common water, wooden, feather pipes, sands, plaster, stone alum, brick, cloth, bricks, glass, bran, earth, dust, vinegar, urine]
+materials: [sand, water, common water, wooden, feather quills, sands, plaster, alum de plume, brick, dust, vinegar]
 tools: []
 measurements: []
 bodyparts: []
@@ -19,18 +19,18 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-112r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f229.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>112r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-112r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f229.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>112r</a> - - - - - </div>  
   
 
-## To temper the <span class="m">sand</span>
+## To soak <span class="m">sand</span>
 
  
-You should have: a large basin full of <span class="m">water</span> to dip the molds into in order to open them, a tankard full of <span class="m">common water</span>, a dish to temper the <span class="m">sand</span>, a small <span class="m">wooden</span> spoon to pick up the mixed <span class="m">sand</span> in the dish.
+You need to have a big basin full of <span class="m">water</span> to soak the molds to open them, a tankard full of <span class="m">common water</span>, a lead bowl for soaking your sand, a small <span class="m">wooden</span> spoon to collect the soaked <span class="m">sand</span> in the bowl.
  
 > *at left top margin*
 > 
 > 
->   To make handles for your large oil brushes, if you do not have large enough <span class="m">feather pipes</span>, take two of them, & melt them & join them together.
+>   To make handles for your large oil brushes, if you do not have large enough <span class="m">feather quills</span>, take two of them, & split them & join them together.
  
 > *Figure*
 > *at left top margin*
@@ -42,38 +42,39 @@ You should have: a large basin full of <span class="m">water</span> to dip the m
 ## Decoction of <span class="m">sands</span>
 
  
-Already said
+Already mentionned
  
  
   
 
-## Molding en noyau. Mixing of <span class="m">sand</span>
+## Molding en noyau. Mixture of <span class="m">sand</span>
 
  
-Once you have reheated your <span class="m">sand</span>, that is the <span class="m">plaster</span>, the <span class="m">stone alum</span> & the <span class="m">brick</span>, & once you have finely filtered them through a <span class="m">cloth</span> sieve, # mix them the following way: take four measures of <span class="m">plaster</span>, two measures of <span class="m">bricks</span>, & one measure of <span class="m">stone alum</span>. Mix them all together with the hands, so that one may not discern one <span class="x">ingredient</span> from the other. Once your <span class="m">sand</span> is ready, you need to kill the animal that you wish to mold in this way.
+Having reheated your <span class="m">sand</span>, namely the <span class="m">plaster</span>, the <span class="m">alum de plume</span> & the <span class="m">brick</span>, & having passed them finely through the sieve, # mix them this way, take four parts of <span class="m">plaster</span>, two of <span class="m">brick</span>, & one of <span class="m">alum de plume</span>. Mix them all together with your hands, in such a way that one cannot discern one from the other. With your <span class="m">sand</span> ready, you need to kill the animal that you want to mold in this way.
  
 > *at left middle margin*
 > 
 > 
->   # except for the <span class="m">stone alum</span> which should be ground in a mortar.
+>   # except for the <span class="m">alum de plume</span> which should be ground in a mortar.
  
  
   
 
-## Killing the animal to mold
+## Killing the animal to be molded
 
  
-You must have been careful not to hurt it while capturing it. If you have a stock <span class="x">of animals</span> and you wish to keep them for a long time, place it in a <span class="m">glass</span> bottle with <span class="m">bran</span> or in a large barrel half full of damp & fresh <span class="m">earth</span>. Give them frogs to eat, live & and not dead, because should you keep them without feeding them, they would wither & become emaciated, & their skin would become saggy and wrinkled. Therefore, the sooner after its capture you mold it, the better it will come out. And kill it in the following manner: place it in a clean bottle or vessel so that <span class="x">the animal</span> does not carry any <span class="m">dust</span>; fill <span class="x">the bottle</span> with enough good <span class="m">vinegar</span> & <span class="m">urine</span> so as to cover <span class="x">the animal</span>. Shake <span class="x">the bottle</span> & torment <span class="x">the animal</span> inside there until it is dead which should take an hour or half an hour. But if you are in a hurry
+It is necessary that you be scrupulous to not wound it at all in taking it. And having put it in a glass bottle with some bran, or in a barrel half full of fresh & damp earth, if you want to stock them or keep them a long time, give them live frogs and not dead ones to eat, for if you keep them without feeding them, they wither & grow thin, & have long wrinkled skins. Thus the best would be to mold it as soon as possible after it has been taken. But before, kill it in this way. Place it in a clean bottle or vessel so that it collects no <span class="m">dust</span>. And put inside a sufficient quantity of good vinegar and urine so that it can be covered. And shake and torment it inside, until it is dead, which will be in on or a half hour. But if you are in a hurry
  
 > *at left bottom margin*
 > 
 > 
->   To know if <span class="x">the animal</span> is quite dead, take it out of the <span class="m">vinegar</span> and take it by the tail. If it moves its tail, do not mold it because it still has feelings, & when pricking <span class="x">its members</span>, it would remove itself & harm the mold.
+>   To know if it is quite dead, take it out of the <span class="m">vinegar</span> and take it by the tail. If it moves it, do not mold it for it still has feeling, & when piercing it, it would retract & spoil the mold.
  
 > *at left bottom margin*
 > 
 > 
->   Water snakes do not bite much.
+>   Water snakes hardly bite.
  
 *[continued]*
+ 
  

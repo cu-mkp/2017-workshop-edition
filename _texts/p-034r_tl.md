@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-034r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f73.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>034r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-034r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f73.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>034r</a> - - - - - </div>  
   
 
 ##  To tell someone that if he keeps holding his finger on his forehead, you will be able to stop him from going out of a room
@@ -58,4 +58,5 @@ You will cut a piece as small as a toothpick from a log or a large stick, and th
 
  
 Cut some long rolls in fine <span class="m">parchment</span> and mark them in order with A B C et cetera, then sew them inside the selvage of a rough <span class="m">cloth</span> shirt, like for a messenger, who will not notice anything if you want to steal his shirt from him.
+ 
  

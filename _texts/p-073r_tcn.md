@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-073r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f151.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>073r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-073r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f151.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>073r</a> - - - - - </div>  
   
 
 ## Pour faire <span class="m">vernys pers</span>
@@ -60,4 +60,5 @@ Prenés de l’<span class="m">alung</span> avecques de l’<span class="m">eau 
 Prenés une <span class="ms">once</span> de <span class="m">sel armoniac</span> et les broyés dans ung<br/> <span class="tl">mortier de <span class="m">fer</span></span>. Estant bien broyé, prenés une <span class="ms">once</span> de <span class="m">soufre</span> et le
  
 *[continued]*
+ 
  

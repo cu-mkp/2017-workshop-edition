@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-008v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f22.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>008v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-008v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f22.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>008v</a> - - - - - </div>  
   
 
 ## Polissement du <span class="m">ruby balay</span>
@@ -58,4 +58,5 @@ Pource que parmy le <span class="m">fin estaing</span> ilz meslent bien souvent 
 
  
 Ayes un <span class="m">grais</span> le plus delié que tu pourras, & le cave<br/> au milieu. Mectes y la <span class="ms">huictiesme partye</span> de <span class="m">☿</span> <span class="del">au</span> & là<br/> dedans, frottes & uses y adjoustant de l'<span class="m">eau</span>, <span class="m">urc</span>, <span class="m">☾</span> ou <span class="m">☼</span>,<br/> jusques à ce que la matiere viendra comme paste, & encores plus<br/> dur. Aprés si vous voulés, faictes le manger avecq de bon<br/> <span class="m">eau fort</span> si c'est <span class="m">☾</span> ou <span class="m">♀</span>, puys refondre l'ayant retiré<br/> comme vous scavés. La <span class="m">☾</span> aura taincture et laissera, esta<span class="exp">n</span>t<br/> fondue, quelque grain de <span class="m">☼</span>, & le <span class="m">♀</span> sera fort beau & n'aura<br/> presque poinct de chappe.
+ 
  

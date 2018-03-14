@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-007v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f20.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>007v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-007v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f20.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>007v</a> - - - - - </div>  
   
 
 ## For giving the color of all kinds of <span class="m">metals</span> to <span class="m">wood</span> & other things
@@ -50,4 +50,5 @@ Take half a pound of finely powdered golden and yellow <span class="m">marcasite
 
  
 Cook .i. lb. of <span class="m">old smiths' water</span>, .i. ℥ of <span class="m"><span class="pl">Armenian</span> bole</span> reduced in the finest powder, and .iii. ʒ of <span class="m">common honey</span>, until the <span class="m">honey</span> stops foaming. Once cooled, strain with great pressure and use the results of filtration by injection.
+ 
  

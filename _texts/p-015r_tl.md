@@ -19,7 +19,7 @@ environments: []
 animals: [horse]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-015r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f35.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>015r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-015r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f35.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>015r</a> - - - - - </div>  
   
 
 ## <span class="m">Damasked Cloth</span>
@@ -47,4 +47,5 @@ One casts candlesticks and small works in a <span class="tl">frame</span> with s
 
  
 The sand must be from something very dry & arid & reheated well in the <span class="tl">frame</span>, because, if it were humid, like <span class="m"><span class="pro">founder</span>'s sand</span>, the <span class="m">gold</span> and <span class="m">silver</span> would spatter, & cause damage. It is also necessary for the <span class="m">earth</span> to absorb the <span class="m">metal</span>, for cast <span class="m">gold</span> or <span class="m">silver</span> <span class="del">is</span> become very spongy. That is why it must be beaten again, otherwise it is brittle, as one sees in spoon handles.
+ 
  

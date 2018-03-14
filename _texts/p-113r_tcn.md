@@ -19,7 +19,7 @@ environments: []
 animals: [commun serpent, serpent]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-113r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f231.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>113r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-113r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f231.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>113r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -66,4 +66,5 @@ bout <span class="del">qua</span> pour les <span class="del">t</span>en retirer 
 Ayes une <span class="tl">escuelle de <span class="m">terre</span><span class="m"> plombée</span></span> de telle grandeur qu’elle puisse contenir<br/> le sable destrempé, qui fera besoing <span class="del">de</span> pour remplir ton <span class="tl">moule</span> tout à<br/> un coup, qui est <span class="del">mei</span> mieux qu’à deulx foys, pource que si tu ne gectes<br/> promptement la seconde destrempe, il y aura danger que pendant<br/> que tu la præpares, que la premiere ne fasse prise & s’endurcisse,
  
 *[continued]*
+ 
  

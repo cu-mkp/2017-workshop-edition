@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-005r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>005r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-005r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>005r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -46,4 +46,5 @@ Enchassés en un dans du <span class="m">plastre</span> affin qu'il tienne ferme
 Le mirouer concave compose de la forme susdicte rend une<br/> infinite de gentilesses qui sembleroient magie. Si quelqu'un<br/> se veult voir derriere, il fault mectre le mirouer concave<br/> à terre sur son pied, & qu'il soict en panchant. Aprés regarder<br/> d'un pas. Mays si tu regardes de pres, il te represente à l'endroit,<br/> mays le visaige fort grand & le poil de la barbe gros comme
  
 *[continued]*
+ 
  

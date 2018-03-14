@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-100v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f206.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>100v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-100v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f206.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>100v</a> - - - - - </div>  
   
 
 ## <span class="m">Gemstones</span>
@@ -35,7 +35,7 @@ Take white <span class="m">pebbles</span> that are found along rivers & along gr
 > *at left top margin*
 > 
 > 
->   The <span class="tl">crucibles</span>need to be reheated before putting materials in, and need to be put in the <span class="tl">forge</span>[a] or <span class="tl">four à vent</span> instead of making & increasing the fire. 
+>   The <span class="tl">crucibles</span>need to be reheated before putting materials in, and need to be put in the <span class="tl">forge</span> or <span class="tl">four à vent</span> instead of making & increasing the fire. 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5QUx4eF9qWU1jS28" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
@@ -70,4 +70,4 @@ Raise your <span class="tl">stove</span> by two <span class="tl">tiles</span> al
  
 *[continued]*
  
- [a]unsure of translation: fornaise
+ 

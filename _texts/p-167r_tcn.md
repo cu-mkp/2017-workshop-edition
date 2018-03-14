@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-167r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f339.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>167r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-167r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f339.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>167r</a> - - - - - </div>  
   
 
 ## <span class="tl">Mortiers</span>
@@ -34,4 +34,5 @@ Les <span class="tl">mortiers</span> se font de la meilleure ligue de <span clas
  plus estroicts au dedans<br/> de la culasse & allant en eslargissant vers la gueule. Et c’est pour<br/> leur donner force à la culasse, à cause de la quantité de <span class="m">pouldre</span><br/> qu’ilz tiennent, & qu’ilz ne se crevent poinct.<br/> Ceux de 45 <span class="ms">lb</span> ont huict lignes d’espesseur à la culasse & viennent<br/> par dedans en diminuant jusques à la gueule, qui est de 4 lignes. Ils<br/> ont xiii <span class="ms">poulsses</span> de long & sept de diamettre en la gueule & ouverture.
  
 *[continued]*
+ 
  

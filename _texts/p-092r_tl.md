@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-092r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f189.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>092r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-092r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f189.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>092r</a> - - - - - </div>  
   
 
 ## <span class="del">Sand</span>Mixture easy to melt
@@ -56,4 +56,5 @@ But if you have a medal of <span class="m">copper</span> or <span class="m">silv
 
  
 <span class="ms">Half</span> <span class="m"><span class="pro">founder</span>’s earth, which <span class="pro">founders</span> use</span>, & <span class="ms">half</span> <span class="m">clay earth</span>, <span class="del">g</span> renders very neatly.
+ 
  

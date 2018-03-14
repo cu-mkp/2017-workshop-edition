@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-126v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f258.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>126v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-126v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f258.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>126v</a> - - - - - </div>  
   
 
 ## <span class="m">Crocum ferri</span>
@@ -64,4 +64,5 @@ Toute herbe qui ha la tige dure & comme de <span class="m">boys</span> est fort<
 >  Cela ne provient<br/> pas de l’herbe qui<br/> a la tige lignée,<br/> pource que le<br/> <span class="pa">rosmarin</span> se brusle<br/> bien, mays c’est<br/> du naturel de certaines<br/> herbes.
  
 *[continued]*
+ 
  

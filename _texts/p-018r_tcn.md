@@ -19,7 +19,7 @@ environments: []
 animals: [chevaulx, chevaux]
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-018r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f41.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>018r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-018r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f41.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>018r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -45,4 +45,5 @@ animals: [chevaulx, chevaux]
  La colevrine bastarde poise 35 <span class="ms">quintal</span>s & ha de longueur<br/> xxv <span class="ms">pan</span>s. Elle porte trois balles à la culasse & deulx devant.<br/> Sa balle est comme de la piece bastarde, pesant xv <span class="ms">lb</span>. Ce sont<br/> pieces de plaisir qui <span class="del">s</span> ne se menent pas par charroy, ains sont pour<br/> les deffenses des villes. Aulcuns en font de xxvii ou xxviii<br/> pans de longueur, co<span class="exp">mm</span>e est la Vache de <span class="pl">La Rochelle</span>. Mays à telles<br/> pieces, on donne renfort à la culasse co<span class="exp">mm</span>e de trois balles. Elles peuvent<br/> porter de volée environ une <span class="ms">lieue</span> & demy <span class="ms">lieue</span> de poincte en blanc.<br/> Sa charge est comme de la bastarde. Et si on veut tirer à quelque<br/> <span class="pro">cavallerie</span> bien loing, on augmente un peu de <span class="m">pouldre</span>. Aprés la balle<br/> il suict une queue de fumée qui <span class="del">de</span> conduit ta veue jusques là ou la<br/> balle va. Cella s'entend du canon et de la colevrine et non des petites pieces.
  
 *[continued]*
+ 
  

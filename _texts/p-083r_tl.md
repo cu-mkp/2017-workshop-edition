@@ -19,7 +19,7 @@ environments: [cellar, damp place]
 animals: [horse]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-083r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f171.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>083r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-083r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f171.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>083r</a> - - - - - </div>  
   
 
 ## Sand @ for <span class="m">lead</span>
@@ -80,5 +80,6 @@ Recipe <span class="del">p</span> a <span class="m">tile little baked, ground</s
 ## Excellent sand
 
  
-<span class="m">Alabaster, calcined</span> in a <span class="tl">crucible</span> over <span class="m">charcoal</span> fire so that when touching it, it turns into powder. Once cold, pulverise it finely, pass it through a <span class="tl">double sieve</span>, & and render it as if impalpable. And <span class="del">d</span> with one <span class="ms">lb</span> of <span class="m">alabaster</span>, one needs one <span class="ms">℥</span> of <span class="m">sal ammoniac</span>. Mix well & incorporate everything together, then put them in a <span class="del"><span class="env">cellar</span></span> <span class="env">cellar</span> or a <span class="env">damp place</span>. And with this paste, mold what you will need, & next dry the <span class="tl">mold</span> in the fire, & cast whatever you wish, while the sand is hot. And you will cast as neaty as the main one, & the sand can still be used by placing it in a <span class="env">damp place</span> & drying it in the fire.
+<span class="m">Alabaster, calcined</span> in a <span class="tl">crucible</span> over <span class="m">charcoal</span> fire so that when touching it, it turns into powder. Once cold, pulverise it finely, pass it through a <span class="tl">double sieve</span>, & and render it as if impalpable. And <span class="del">d</span> with one <span class="ms">lb</span> of <span class="m">alabaster</span>, one needs one <span class="ms">℥</span> of <span class="m">sal ammoniac</span>. Mix well & incorporate everything together, then put them in a <span class="del"><span class="env">cellar</span></span> <span class="env">cellar</span> or a <span class="env">damp place</span>. And with this paste, mold what you will need, & next dry the <span class="tl">mold</span> in the fire, & cast whatever you wish, while the sand is hot. And you will cast as neatly as the main one, & the sand can still be used by placing it in a <span class="env">damp place</span> & drying it in the fire.
+ 
  

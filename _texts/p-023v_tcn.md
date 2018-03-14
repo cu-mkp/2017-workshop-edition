@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-023v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>023v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-023v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>023v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -36,4 +36,5 @@ Les mortiers qu’on veult poser aulx portes ou grilles de<br/> <span class="m">
  
   
 Il fault que la balle soict ronde d’un costé & platte de<br/> l’aultre co<span class="exp">mm</span>e la <span class="ms">moictié</span> d’une balle couppée.<br/> Il fault aussy que la croix se tienne à la balle et qu’elle,<br/> la balle se fondant si tu la fais de <span class="m">metal</span>, s’enveloppe<br/> avecq le milieu de la croix.
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-062v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f130.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>062v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-062v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f130.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>062v</a> - - - - - </div>  
   
 
 ## Portraire
@@ -35,7 +35,7 @@ Quand l'impression est de <span class="tmp">long temps</span> faicte, elle s'eng
 ## Perspective
 
  
-Pour cognoistre le poinct, il fault coucher une <span class="tl">regle</span><br/> sur les lignes, & à la desmenée d'icelles le poinct sera.<br/> Aucuns font un pertuis au bout de leurs <span class="tl">regles</span>, pour assurer<br/> le poinct par ce pertuis & faire jouer la <span class="tl">regle</span>. Aultres<br/> couchent une <span class="tl">regle</span> au travers du tableau, puys sur icelle<br/> <span class="tl">regle</span> couchée posent la <span class="tl">poincte d'une aultre regle</span>, laquelle,<br/> fichée sur l'autre par le moyen d'une <span class="tl">vis</span>, joue & s'estend<br/> là où il est besoing sans perdre le poinct.<br/> La <span class="tl">regle</span> et <span class="tl">compas</span> sans le <span class="tl">jugem<span class="exp">ent</span> de l'<span class="bp">oeil</span></span> font errer. <br/> Perspective est trés difficille. 
+Pour cognoistre le poinct, il fault coucher une <span class="tl">regle</span><br/> sur les lignes, & à la desmenée d'icelles le poinct sera.<br/> Aucuns font un pertuis au bout de leurs <span class="tl">regles</span>, pour assurer<br/> le poinct par ce pertuis & faire jouer la <span class="tl">regle</span>. Aultres<br/> couchent une <span class="tl">regle</span> au travers du tableau, puys sur icelle<br/> <span class="tl">regle</span> couchée posent la <span class="tl">poincte d'une aultre regle</span>, laquelle,<br/> fichée sur l'autre par le moyen d'une <span class="tl">vis</span>, joue & s'estend<br/> là où il est besoing sans perdre le poinct.<br/> La <span class="tl">regle</span> et <span class="tl">compas</span> sans le <span class="tl">jugem<span class="exp">ent</span> de l'<span class="bp">oeil</span></span> font errer. <br/>   Perspective est trés difficille. 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5ZkRNOG9hZmpMT2M" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
 
@@ -58,4 +58,5 @@ Pour faire aussy les <span class="tl">lignes à <span class="m">plomb</span></sp
 
  
 Il fault pour pourtraire & coucher les couleurs, mesmem<span class="exp">ent</span> à<br/> <span class="m">huile</span>, que tu tiennes ton tableau le plus droict sur le <span class="tl">chevalet</span><br/> qu'il te sera possible, car s'il est panché il y a danger que quelque<br/> poulsiere & ordure ne s'i attache. Tiens net & sans poulsiere<br/> le lieu où tu pains.
+ 
  

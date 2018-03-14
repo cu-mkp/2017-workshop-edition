@@ -19,7 +19,7 @@ environments: []
 animals: [flies]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-154v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f314.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>154v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-154v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f314.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>154v</a> - - - - - </div>  
   
 
 ## <span class="m">Latten</span>
@@ -63,4 +63,5 @@ For flowers and small plants, do not use <span class="m">wheat oil</span>. Inste
 
  
 The leaves are cast separately and then rejoined with solder. And because the strawberry fruit is cast solid, and because of this it is heavy, and the <span class="m">tin</span> stem is slender, it will not be able to sustain <span class="sup">weight</span> without breaking quickly. One makes the stems with <span class="m">latten</span> thread and then solder them back onto the fruit.
+ 
  

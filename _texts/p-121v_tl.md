@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-121v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f248.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>121v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-121v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f248.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>121v</a> - - - - - </div>  
   
 
 ## Casting in <span class="m">silver</span>
@@ -75,4 +75,5 @@ If <span class="pro">goldsmiths</span> knew the material to make <span class="m"
 > 
 > 
 >   Before luting and strengthening the <span class="tl">mold</span>s for <span class="m">gold</span> and <span class="m">silver</span> with the said <span class="m">earth</span>, the cast and the vents must be made and the <span class="tl">mold</span>s must have been annealed and made quite red to burn the animals, flowers and herbs that are inside. The ashes in the <span class="tl">mold</span>s should be cleaned thoroughly. Once the <span class="tl">mold</span>s are quite clean and ready, lute them and bind them with <span class="tl"><span class="m">iron</span> wire</span>. Anneal them straight away until they are quite red.
+ 
  
