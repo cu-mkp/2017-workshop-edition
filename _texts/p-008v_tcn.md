@@ -8,8 +8,8 @@ author:
 mode: tcn
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [ruby balay, tripoly, pouldre de marchasite, huile, Or, argent moulu, or, ☿, mercure, mabre, eau gommée, argent,, eau fort, cuivre, pierres, estain, plomb, cuivre fin, diamant, rubi, saphir, jacinthe orientale, esmeraulde, ametiste, fin estaing, estaing, limaille de letton, grais, eau, urc, ☾, ☼, ♀]
-tools: [mabre, lame de cuivre, roues, une d'estain, de plomb, & de cuivre fin, roue de cuivre, roue d'estain]
+materials: [ruby balay, tripoly, pouldre de marchasite, huile, Or, argent moulu, or, ☿, mercure, mabre, eau gommée, argent, eau fort, cuivre, pierres, estain, plomb, cuivre fin, diamant, rubi, saphir, jacinthe orientale, esmeraulde, ametiste, fin estaing, estaing, limaille de letton, grais, eau, urc, ☾, ☼, ♀]
+tools: [mabre, lame de cuivre, roues, une d''estain, de plomb, & de cuivre fin, roue de cuivre, roue d''estain]
 measurements: [moictié, huictiesme partye]
 bodyparts: []
 places: []
